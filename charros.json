@@ -1,8 +1,8 @@
 {
   "feedVersion": 2,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-25T16:31:38.728Z",
-  "fingerprint": "7fea7e30",
+  "generatedAt": "2026-09-25T20:35:32.742Z",
+  "fingerprint": "b3abe3a7",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -308,7 +308,7 @@
             "name": "Puka Nacua",
             "position": "WR",
             "proTeamId": 14,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "DOUBTFUL",
             "injured": false,
             "droppable": false,
             "stats": [
@@ -346,7 +346,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 294.8897619
+                "appliedTotal": 294.88974573
               }
             ]
           }
@@ -375,7 +375,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 16.58042114
+                "appliedTotal": 16.58040765
               },
               {
                 "scoringPeriodId": 0,
@@ -452,7 +452,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 185.0434709
+                "appliedTotal": 185.04346154
               }
             ]
           }
@@ -467,7 +467,7 @@
             "name": "Travis Etienne Jr.",
             "position": "RB",
             "proTeamId": 18,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -481,7 +481,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 11.93398516
+                "appliedTotal": 11.93399198
               },
               {
                 "scoringPeriodId": 0,
@@ -587,7 +587,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 12.29547607
+                "appliedTotal": 12.31153759
               },
               {
                 "scoringPeriodId": 0,
@@ -611,7 +611,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 180.7391944
+                "appliedTotal": 180.75526015
               }
             ]
           }
@@ -717,7 +717,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 265.04642759
+                "appliedTotal": 265.04642179
               }
             ]
           }
@@ -1017,7 +1017,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 12.33413462
+                "appliedTotal": 12.33425356
               },
               {
                 "scoringPeriodId": 0,
@@ -1035,7 +1035,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 176.43203648
+                "appliedTotal": 176.43230362
               }
             ]
           }
@@ -1064,7 +1064,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 11.98632128
+                "appliedTotal": 12.00385764
               },
               {
                 "scoringPeriodId": 0,
@@ -1088,7 +1088,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 156.39231969
+                "appliedTotal": 156.40985455
               }
             ]
           }
@@ -1141,7 +1141,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 101.70311235
+                "appliedTotal": 101.70311549
               }
             ]
           }
@@ -1194,7 +1194,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 19.53551847
+                "appliedTotal": 19.53548181
               },
               {
                 "scoringPeriodId": 0,
@@ -1265,7 +1265,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 218.38666454
+                "appliedTotal": 218.38667583
               }
             ]
           }
@@ -1318,7 +1318,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 202.53323022
+                "appliedTotal": 202.53322056
               }
             ]
           }
@@ -1371,7 +1371,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 192.70763081
+                "appliedTotal": 192.70762043
               }
             ]
           }
@@ -1559,7 +1559,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 11.36068021
+                "appliedTotal": 11.36075616
               },
               {
                 "scoringPeriodId": 0,
@@ -1636,7 +1636,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 166.247473
+                "appliedTotal": 166.2474864
               }
             ]
           }
@@ -1689,7 +1689,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 109.43118497
+                "appliedTotal": 109.43119104
               }
             ]
           }
@@ -1718,7 +1718,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 7.25989418
+                "appliedTotal": 7.25989327
               },
               {
                 "scoringPeriodId": 0,
@@ -1742,7 +1742,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 85.92247045
+                "appliedTotal": 85.92246676
               }
             ]
           }
@@ -1877,7 +1877,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 17.27558774
+                "appliedTotal": 17.27558384
               },
               {
                 "scoringPeriodId": 0,
@@ -1989,7 +1989,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 15.81478773
+                "appliedTotal": 15.81479641
               },
               {
                 "scoringPeriodId": 0,
@@ -2007,7 +2007,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 223.15532558
+                "appliedTotal": 223.15531494
               }
             ]
           }
@@ -2078,7 +2078,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 304.81170635
+                "appliedTotal": 304.81167096
               }
             ]
           }
@@ -2266,7 +2266,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 13.98752777
+                "appliedTotal": 13.98761944
               },
               {
                 "scoringPeriodId": 0,
@@ -2290,7 +2290,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 198.67970035
+                "appliedTotal": 198.67970874
               }
             ]
           }
@@ -2449,7 +2449,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 237.30231216
+                "appliedTotal": 237.30230676
               }
             ]
           }
@@ -2464,8 +2464,8 @@
             "name": "Rico Dowdle",
             "position": "RB",
             "proTeamId": 23,
-            "injuryStatus": "QUESTIONABLE",
-            "injured": false,
+            "injuryStatus": "OUT",
+            "injured": true,
             "droppable": true,
             "stats": [
               {
@@ -2555,7 +2555,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 169.05784756
+                "appliedTotal": 169.06145417
               }
             ]
           }
@@ -2623,7 +2623,7 @@
             "name": "Kyle Monangai",
             "position": "RB",
             "proTeamId": 3,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -2637,7 +2637,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 8.46108199
+                "appliedTotal": 8.46108771
               },
               {
                 "scoringPeriodId": 0,
@@ -2796,7 +2796,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 18.82899871
+                "appliedTotal": 18.82902573
               },
               {
                 "scoringPeriodId": 0,
@@ -2855,7 +2855,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 9.8531408
+                "appliedTotal": 9.85280491
               },
               {
                 "scoringPeriodId": 0,
@@ -2873,7 +2873,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 138.01537846
+                "appliedTotal": 138.01493496
               }
             ]
           }
@@ -2973,7 +2973,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 18.25873768
+                "appliedTotal": 18.25915213
               },
               {
                 "scoringPeriodId": 0,
@@ -2997,7 +2997,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 278.1618453
+                "appliedTotal": 278.16224508
               }
             ]
           }
@@ -3103,7 +3103,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 293.42119688
+                "appliedTotal": 293.42120843
               }
             ]
           }
@@ -3262,7 +3262,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 61.63877163
+                "appliedTotal": 61.63877479
               }
             ]
           }
@@ -3315,7 +3315,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 89.11754652
+                "appliedTotal": 89.11754205
               }
             ]
           }
@@ -3532,7 +3532,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 20.89684019
+                "appliedTotal": 20.89679624
               },
               {
                 "scoringPeriodId": 0,
@@ -3550,7 +3550,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 292.74713132
+                "appliedTotal": 292.74703834
               }
             ]
           }
@@ -3762,7 +3762,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 139.35508748
+                "appliedTotal": 139.35508125
               }
             ]
           }
@@ -3862,7 +3862,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 20.61019778
+                "appliedTotal": 20.61347172
               },
               {
                 "scoringPeriodId": 0,
@@ -3886,7 +3886,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 321.00879508
+                "appliedTotal": 321.01203391
               }
             ]
           }
@@ -3939,7 +3939,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 260.65042585
+                "appliedTotal": 260.65041162
               }
             ]
           }
@@ -4027,7 +4027,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 12.74583702
+                "appliedTotal": 12.75992575
               },
               {
                 "scoringPeriodId": 0,
@@ -4045,7 +4045,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 200.37668956
+                "appliedTotal": 200.39086908
               }
             ]
           }
@@ -4133,7 +4133,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 10.9279573
+                "appliedTotal": 10.9279601
               },
               {
                 "scoringPeriodId": 0,
@@ -4204,7 +4204,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 141.2428459
+                "appliedTotal": 141.24283714
               }
             ]
           }
@@ -4345,7 +4345,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 10.82780478
+                "appliedTotal": 10.80807596
               },
               {
                 "scoringPeriodId": 0,
@@ -4363,7 +4363,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 165.60214399
+                "appliedTotal": 165.20328704
               }
             ]
           }
@@ -4469,7 +4469,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 138.92558303
+                "appliedTotal": 138.92559178
               }
             ]
           }
@@ -4522,7 +4522,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 130.86654949
+                "appliedTotal": 130.86654249
               }
             ]
           }
@@ -4681,7 +4681,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 101.02952265
+                "appliedTotal": 101.02952583
               }
             ]
           }
@@ -4716,7 +4716,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 10.94469388
+                "appliedTotal": 10.94468826
               },
               {
                 "scoringPeriodId": 0,
@@ -4734,7 +4734,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 159.03176086
+                "appliedTotal": 159.03174677
               }
             ]
           }
@@ -4873,8 +4873,8 @@
             "name": "Nico Collins",
             "position": "WR",
             "proTeamId": 34,
-            "injuryStatus": "DOUBTFUL",
-            "injured": false,
+            "injuryStatus": "OUT",
+            "injured": true,
             "droppable": true,
             "stats": [
               {
@@ -5052,7 +5052,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 11.89103371
+                "appliedTotal": 11.80744379
               },
               {
                 "scoringPeriodId": 0,
@@ -5070,7 +5070,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 181.54588102
+                "appliedTotal": 181.08715277
               }
             ]
           }
@@ -5105,7 +5105,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 12.48070976
+                "appliedTotal": 12.48085495
               },
               {
                 "scoringPeriodId": 0,
@@ -5123,60 +5123,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 179.25499117
-              }
-            ]
-          }
-        },
-        {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
-          "status": "ONTEAM",
-          "onTeamId": 6,
-          "player": {
-            "id": "4431611",
-            "name": "Caleb Williams",
-            "position": "QB",
-            "proTeamId": 3,
-            "injuryStatus": "DOUBTFUL",
-            "injured": false,
-            "droppable": true,
-            "stats": [
-              {
-                "scoringPeriodId": 2,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 19.41957156
-              },
-              {
-                "scoringPeriodId": 3,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 0
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 44.98
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 2,
-                "appliedTotal": 311.53053577
-              },
-              {
-                "scoringPeriodId": 2,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 7.72
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 239.84875826
+                "appliedTotal": 179.25531667
               }
             ]
           }
@@ -5191,7 +5138,7 @@
             "name": "Tony Pollard",
             "position": "RB",
             "proTeamId": 10,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -5282,7 +5229,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 105.63153167
+                "appliedTotal": 105.63153473
               }
             ]
           }
@@ -5317,7 +5264,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 11.27930848
+                "appliedTotal": 11.30500623
               },
               {
                 "scoringPeriodId": 0,
@@ -5335,14 +5282,14 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 170.1651878
+                "appliedTotal": 170.19087545
               }
             ]
           }
         },
         {
-          "lineupSlotId": 6,
-          "lineupSlot": "TE",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 6,
           "player": {
@@ -5388,7 +5335,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 183.36074752
+                "appliedTotal": 183.36073804
               }
             ]
           }
@@ -5447,61 +5394,8 @@
           }
         },
         {
-          "lineupSlotId": 0,
-          "lineupSlot": "QB",
-          "status": "ONTEAM",
-          "onTeamId": 6,
-          "player": {
-            "id": "3917315",
-            "name": "Kyler Murray",
-            "position": "QB",
-            "proTeamId": 16,
-            "injuryStatus": "ACTIVE",
-            "injured": false,
-            "droppable": true,
-            "stats": [
-              {
-                "scoringPeriodId": 2,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 0
-              },
-              {
-                "scoringPeriodId": 3,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 17.34052086
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": -0.38
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 2,
-                "appliedTotal": 276.23113921
-              },
-              {
-                "scoringPeriodId": 2,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 0
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 277.74616067
-              }
-            ]
-          }
-        },
-        {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 6,
+          "lineupSlot": "TE",
           "status": "ONTEAM",
           "onTeamId": 6,
           "player": {
@@ -5600,7 +5494,113 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 26.44513151
+                "appliedTotal": 26.44658701
+              }
+            ]
+          }
+        },
+        {
+          "lineupSlotId": 0,
+          "lineupSlot": "QB",
+          "status": "ONTEAM",
+          "onTeamId": 6,
+          "player": {
+            "id": "14880",
+            "name": "Kirk Cousins",
+            "position": "QB",
+            "proTeamId": 13,
+            "injuryStatus": "ACTIVE",
+            "injured": false,
+            "droppable": true,
+            "stats": [
+              {
+                "scoringPeriodId": 2,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 12.21169438
+              },
+              {
+                "scoringPeriodId": 2,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 20.22
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 12.99546186
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 34.02
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 2,
+                "appliedTotal": 24.85779324
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 0,
+                "appliedTotal": 53.87354921
+              }
+            ]
+          }
+        },
+        {
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
+          "status": "ONTEAM",
+          "onTeamId": 6,
+          "player": {
+            "id": "4432577",
+            "name": "C.J. Stroud",
+            "position": "QB",
+            "proTeamId": 34,
+            "injuryStatus": "ACTIVE",
+            "injured": false,
+            "droppable": true,
+            "stats": [
+              {
+                "scoringPeriodId": 2,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 16.92943635
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 16.09366527
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 33.48
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 2,
+                "appliedTotal": 249.78849756
+              },
+              {
+                "scoringPeriodId": 2,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 17.02
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 0,
+                "appliedTotal": 234.22531841
               }
             ]
           }
@@ -5653,7 +5653,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 19.47224922
+                "appliedTotal": 19.42276388
               },
               {
                 "scoringPeriodId": 0,
@@ -5671,7 +5671,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 292.1589003
+                "appliedTotal": 292.10941485
               }
             ]
           }
@@ -5724,7 +5724,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 207.93141507
+                "appliedTotal": 207.93140418
               }
             ]
           }
@@ -5753,7 +5753,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 12.96865077
+                "appliedTotal": 12.96868326
               },
               {
                 "scoringPeriodId": 0,
@@ -5777,7 +5777,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 203.35061304
+                "appliedTotal": 203.35061957
               }
             ]
           }
@@ -5830,7 +5830,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 184.70600152
+                "appliedTotal": 184.70599149
               }
             ]
           }
@@ -5883,7 +5883,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 221.88022644
+                "appliedTotal": 221.8802155
               }
             ]
           }
@@ -5936,7 +5936,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 288.41893131
+                "appliedTotal": 288.41892555
               }
             ]
           }
@@ -6095,7 +6095,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 274.15780541
+                "appliedTotal": 274.15779794
               }
             ]
           }
@@ -6124,7 +6124,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 8.02263735
+                "appliedTotal": 8.02263674
               },
               {
                 "scoringPeriodId": 0,
@@ -6236,7 +6236,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 10.89200581
+                "appliedTotal": 10.89200543
               },
               {
                 "scoringPeriodId": 0,
@@ -6254,7 +6254,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 154.22501043
+                "appliedTotal": 154.22500313
               }
             ]
           }
@@ -6466,7 +6466,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 92.89814289
+                "appliedTotal": 94.16708642
               }
             ]
           }
@@ -6625,7 +6625,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 12.66905102
+                "appliedTotal": 12.66920037
               },
               {
                 "scoringPeriodId": 0,
@@ -6643,7 +6643,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 184.00090022
+                "appliedTotal": 184.0012346
               }
             ]
           }
@@ -6890,7 +6890,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 20.80275664
+                "appliedTotal": 20.80284915
               },
               {
                 "scoringPeriodId": 0,
@@ -6908,7 +6908,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 283.43760688
+                "appliedTotal": 283.43782291
               }
             ]
           }
@@ -6937,7 +6937,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 9.18095207
+                "appliedTotal": 9.18117412
               },
               {
                 "scoringPeriodId": 0,
@@ -6961,7 +6961,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 139.21304712
+                "appliedTotal": 139.21326155
               }
             ]
           }
@@ -7067,7 +7067,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 165.08209636
+                "appliedTotal": 165.08208904
               }
             ]
           }
@@ -7149,7 +7149,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 16.41705015
+                "appliedTotal": 16.41705864
               },
               {
                 "scoringPeriodId": 0,
@@ -7226,7 +7226,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 199.19814163
+                "appliedTotal": 199.2158293
               }
             ]
           }
@@ -7332,7 +7332,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 31.35247882
+                "appliedTotal": 31.35248441
               }
             ]
           }
@@ -7456,7 +7456,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 270.70704059
+                "appliedTotal": 270.7070459
               }
             ]
           }
@@ -7509,7 +7509,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 231.08167972
+                "appliedTotal": 231.0816665
               }
             ]
           }
@@ -7591,7 +7591,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 12.82714079
+                "appliedTotal": 12.82715916
               },
               {
                 "scoringPeriodId": 0,
@@ -7774,7 +7774,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 267.71549977
+                "appliedTotal": 267.71549374
               }
             ]
           }
@@ -7803,7 +7803,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 10.27332195
+                "appliedTotal": 10.27332161
               },
               {
                 "scoringPeriodId": 0,
@@ -7856,7 +7856,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 10.56882657
+                "appliedTotal": 10.56905446
               },
               {
                 "scoringPeriodId": 0,
@@ -7880,7 +7880,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 161.3580074
+                "appliedTotal": 161.35822186
               }
             ]
           }
@@ -7968,7 +7968,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 7.51054476
+                "appliedTotal": 7.51764001
               },
               {
                 "scoringPeriodId": 0,
@@ -7986,7 +7986,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 119.10092372
+                "appliedTotal": 119.10802443
               }
             ]
           }
@@ -8127,7 +8127,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 7.37614715
+                "appliedTotal": 7.3760241
               },
               {
                 "scoringPeriodId": 0,
@@ -8145,7 +8145,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 99.32743064
+                "appliedTotal": 99.32718462
               }
             ]
           }
@@ -8198,7 +8198,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 87.23339793
+                "appliedTotal": 87.23340097
               }
             ]
           }
@@ -8245,7 +8245,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 18.94007112
+                "appliedTotal": 18.94007201
               },
               {
                 "scoringPeriodId": 0,
@@ -8322,7 +8322,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 253.23148278
+                "appliedTotal": 253.23149358
               }
             ]
           }
@@ -8357,7 +8357,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 16.46544377
+                "appliedTotal": 16.50114536
               },
               {
                 "scoringPeriodId": 0,
@@ -8375,7 +8375,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 247.5518829
+                "appliedTotal": 247.58757158
               }
             ]
           }
@@ -8410,7 +8410,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 15.00194049
+                "appliedTotal": 15.00192053
               },
               {
                 "scoringPeriodId": 0,
@@ -8428,7 +8428,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 236.52378405
+                "appliedTotal": 236.52379436
               }
             ]
           }
@@ -8481,7 +8481,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 214.86948451
+                "appliedTotal": 214.86947341
               }
             ]
           }
@@ -8534,7 +8534,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 211.77948402
+                "appliedTotal": 230.15208535
               }
             ]
           }
@@ -8675,7 +8675,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 7.03052433
+                "appliedTotal": 7.04471529
               },
               {
                 "scoringPeriodId": 0,
@@ -8693,7 +8693,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 106.45890246
+                "appliedTotal": 106.47308621
               }
             ]
           }
@@ -8761,7 +8761,7 @@
             "name": "Jakobi Meyers",
             "position": "WR",
             "proTeamId": 30,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -8814,7 +8814,7 @@
             "name": "Aaron Jones Sr.",
             "position": "RB",
             "proTeamId": 16,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -8828,7 +8828,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 13.6441211
+                "appliedTotal": 13.64420108
               },
               {
                 "scoringPeriodId": 0,
@@ -8852,7 +8852,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 172.66583216
+                "appliedTotal": 172.66591658
               }
             ]
           }
@@ -8940,7 +8940,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 8.77798565
+                "appliedTotal": 8.7703363
               },
               {
                 "scoringPeriodId": 0,
@@ -8958,7 +8958,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 140.27619601
+                "appliedTotal": 140.03225638
               }
             ]
           }
@@ -8993,7 +8993,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 7.46350572
+                "appliedTotal": 7.25570258
               },
               {
                 "scoringPeriodId": 0,
@@ -9011,7 +9011,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 92.57307347
+                "appliedTotal": 90.22002314
               }
             ]
           }
@@ -9046,7 +9046,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
-                "appliedTotal": 16.74572299
+                "appliedTotal": 16.74572805
               },
               {
                 "scoringPeriodId": 0,
@@ -9082,13 +9082,13 @@
         "teamId": 4,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 132.61157653
+        "totalProjectedPointsLive": 132.61194703
       },
       "away": {
         "teamId": 9,
         "totalPoints": 0,
         "totalPointsLive": 6.6,
-        "totalProjectedPointsLive": 124.11022849
+        "totalProjectedPointsLive": 124.11024686
       }
     },
     {
@@ -9100,13 +9100,13 @@
         "teamId": 8,
         "totalPoints": 0,
         "totalPointsLive": 28.4,
-        "totalProjectedPointsLive": 126.28912761
+        "totalProjectedPointsLive": 126.28927696
       },
       "away": {
         "teamId": 3,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 128.52577168
+        "totalProjectedPointsLive": 128.5255545
       }
     },
     {
@@ -9118,13 +9118,13 @@
         "teamId": 6,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 121.2763139
+        "totalProjectedPointsLive": 110.16108809
       },
       "away": {
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 112.92983128
+        "totalProjectedPointsLive": 112.92982461
       }
     },
     {
@@ -9136,7 +9136,7 @@
         "teamId": 5,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 114.63129496
+        "totalProjectedPointsLive": 114.64865481
       },
       "away": {
         "teamId": 2,
@@ -9154,13 +9154,13 @@
         "teamId": 7,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 118.41580038
+        "totalProjectedPointsLive": 118.41583287
       },
       "away": {
         "teamId": 10,
         "totalPoints": 0,
         "totalPointsLive": 22.6,
-        "totalProjectedPointsLive": 136.93625862
+        "totalProjectedPointsLive": 136.76414305
       }
     }
   ],
@@ -9916,6 +9916,30 @@
     },
     {
       "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 6,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4432577",
+          "playerName": "C.J. Stroud",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 6
+        },
+        {
+          "playerId": "4431611",
+          "playerName": "Caleb Williams",
+          "type": "DROP",
+          "fromTeamId": 6,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
       "type": "ROSTER",
       "teamId": 7,
       "scoringPeriodId": 3,
@@ -10240,6 +10264,30 @@
     },
     {
       "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 6,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "14880",
+          "playerName": "Kirk Cousins",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 6
+        },
+        {
+          "playerId": "3917315",
+          "playerName": "Kyler Murray",
+          "type": "DROP",
+          "fromTeamId": 6,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
       "type": "ROSTER",
       "teamId": 4,
       "scoringPeriodId": 3,
@@ -10511,6 +10559,30 @@
           "type": "ADD",
           "fromTeamId": 0,
           "toTeamId": 4
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 6,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4361050",
+          "playerName": "Isaiah Likely",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "2576925",
+          "playerName": "Darren Waller",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
         }
       ]
     },
@@ -11355,74 +11427,24 @@
           "toTeamId": 0
         }
       ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 5,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4032473",
-          "playerName": "Rashid Shaheed",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "2976212",
-          "playerName": "Stefon Diggs",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 5,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16016",
-          "playerName": "Vikings D/ST",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 5
-        }
-      ]
-    },
-    {
-      "status": "CANCELED",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 8,
-      "scoringPeriodId": 2,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3916387",
-          "playerName": "Lamar Jackson",
-          "type": "TRADE",
-          "fromTeamId": 8,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4430878",
-          "playerName": "Jaxon Smith-Njigba",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 8
-        }
-      ]
     }
   ],
   "availablePlayers": [
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4431611",
+        "name": "Caleb Williams",
+        "position": "QB",
+        "proTeamId": 3,
+        "injuryStatus": "DOUBTFUL",
+        "injured": false,
+        "droppable": true
+      }
+    },
     {
       "status": "WAIVERS",
       "onTeamId": 0,
@@ -11549,10 +11571,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4373678",
-        "name": "Khalil Shakir",
-        "position": "WR",
-        "proTeamId": 2,
+        "id": "4697815",
+        "name": "Rachaad White",
+        "position": "RB",
+        "proTeamId": 28,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -11564,10 +11586,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4697815",
-        "name": "Rachaad White",
-        "position": "RB",
-        "proTeamId": 28,
+        "id": "4373678",
+        "name": "Khalil Shakir",
+        "position": "WR",
+        "proTeamId": 2,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -11615,6 +11637,21 @@
         "proTeamId": 29,
         "injuryStatus": "INJURY_RESERVE",
         "injured": true,
+        "droppable": true
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3917315",
+        "name": "Kyler Murray",
+        "position": "QB",
+        "proTeamId": 16,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true
       }
     },
@@ -11699,12 +11736,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4689114",
-        "name": "Jaxson Dart",
-        "position": "QB",
-        "proTeamId": 19,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
+        "id": "-16008",
+        "name": "Lions D/ST",
+        "position": "D/ST",
+        "proTeamId": 8,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true
       }
     },
@@ -11714,12 +11751,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "-16008",
-        "name": "Lions D/ST",
-        "position": "D/ST",
-        "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "id": "4689114",
+        "name": "Jaxson Dart",
+        "position": "QB",
+        "proTeamId": 19,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
         "droppable": true
       }
     },
@@ -11763,21 +11800,6 @@
         "name": "Dontayvion Wicks",
         "position": "WR",
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4432577",
-        "name": "C.J. Stroud",
-        "position": "QB",
-        "proTeamId": 34,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -11939,12 +11961,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4869645",
-        "name": "Caleb Douglas",
-        "position": "WR",
-        "proTeamId": 15,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "id": "4570037",
+        "name": "Terrance Ferguson",
+        "position": "TE",
+        "proTeamId": 14,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true
       }
     },
@@ -11969,12 +11991,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4570037",
-        "name": "Terrance Ferguson",
-        "position": "TE",
-        "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "id": "4869645",
+        "name": "Caleb Douglas",
+        "position": "WR",
+        "proTeamId": 15,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -12174,21 +12196,6 @@
       }
     },
     {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4242512",
-        "name": "Malik Willis",
-        "position": "QB",
-        "proTeamId": 15,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
       "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
@@ -12198,6 +12205,21 @@
         "name": "Chris Brooks",
         "position": "RB",
         "proTeamId": 9,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4242512",
+        "name": "Malik Willis",
+        "position": "QB",
+        "proTeamId": 15,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12393,21 +12415,6 @@
         "name": "Devin Singletary",
         "position": "RB",
         "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "14880",
-        "name": "Kirk Cousins",
-        "position": "QB",
-        "proTeamId": 13,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12794,10 +12801,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "2578570",
-        "name": "Jacoby Brissett",
-        "position": "QB",
-        "proTeamId": 22,
+        "id": "3051909",
+        "name": "Daniel Carlson",
+        "position": "K",
+        "proTeamId": 18,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12809,10 +12816,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3051909",
-        "name": "Daniel Carlson",
-        "position": "K",
-        "proTeamId": 18,
+        "id": "2578570",
+        "name": "Jacoby Brissett",
+        "position": "QB",
+        "proTeamId": 22,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12834,21 +12841,6 @@
       }
     },
     {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4360423",
-        "name": "Michael Penix Jr.",
-        "position": "QB",
-        "proTeamId": 1,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
       "status": "FREEAGENT",
       "onTeamId": 0,
       "percentOwned": 0,
@@ -12858,6 +12850,21 @@
         "name": "Raiders D/ST",
         "position": "D/ST",
         "proTeamId": 13,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4360423",
+        "name": "Michael Penix Jr.",
+        "position": "QB",
+        "proTeamId": 1,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12929,21 +12936,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4723820",
-        "name": "Omar Cooper Jr.",
-        "position": "WR",
-        "proTeamId": 20,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "2969939",
         "name": "Jameis Winston",
         "position": "QB",
@@ -12959,12 +12951,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3924327",
-        "name": "Drew Lock",
-        "position": "QB",
-        "proTeamId": 26,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "id": "4723820",
+        "name": "Omar Cooper Jr.",
+        "position": "WR",
+        "proTeamId": 20,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
         "droppable": true
       }
     },
@@ -12974,10 +12966,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4686612",
-        "name": "Tre' Harris",
-        "position": "WR",
-        "proTeamId": 24,
+        "id": "3924327",
+        "name": "Drew Lock",
+        "position": "QB",
+        "proTeamId": 26,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13004,10 +12996,40 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4686612",
+        "name": "Tre' Harris",
+        "position": "WR",
+        "proTeamId": 24,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "5083754",
         "name": "Ryan Flournoy",
         "position": "WR",
         "proTeamId": 6,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4600981",
+        "name": "Pat Bryant",
+        "position": "WR",
+        "proTeamId": 7,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13034,10 +13056,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4600981",
-        "name": "Pat Bryant",
-        "position": "WR",
-        "proTeamId": 7,
+        "id": "5081508",
+        "name": "Eli Heidenreich",
+        "position": "RB",
+        "proTeamId": 23,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13079,6 +13101,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4242433",
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "proTeamId": 2,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4360516",
         "name": "Tyrone Tracy Jr.",
         "position": "RB",
@@ -13098,36 +13135,6 @@
         "name": "Carson Wentz",
         "position": "QB",
         "proTeamId": 16,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "5081508",
-        "name": "Eli Heidenreich",
-        "position": "RB",
-        "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4242433",
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "proTeamId": 2,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13439,11 +13446,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4912218",
-        "name": "Cyrus Allen",
+        "id": "4430034",
+        "name": "Xavier Legette",
         "position": "WR",
-        "proTeamId": 12,
-        "injuryStatus": "ACTIVE",
+        "proTeamId": 29,
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
@@ -13454,11 +13461,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4430034",
-        "name": "Xavier Legette",
+        "id": "4912218",
+        "name": "Cyrus Allen",
         "position": "WR",
-        "proTeamId": 29,
-        "injuryStatus": "QUESTIONABLE",
+        "proTeamId": 12,
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -13784,11 +13791,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4599739",
-        "name": "Kendre Miller",
-        "position": "RB",
-        "proTeamId": 18,
-        "injuryStatus": "QUESTIONABLE",
+        "id": "5220680",
+        "name": "Ted Hurst III",
+        "position": "WR",
+        "proTeamId": 27,
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -13799,10 +13806,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "5220680",
-        "name": "Ted Hurst III",
-        "position": "WR",
-        "proTeamId": 27,
+        "id": "4599739",
+        "name": "Kendre Miller",
+        "position": "RB",
+        "proTeamId": 18,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14009,21 +14016,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4869748",
-        "name": "Zavion Thomas",
-        "position": "WR",
-        "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "3916945",
         "name": "Darius Slayton",
         "position": "WR",
@@ -14043,6 +14035,21 @@
         "name": "Joey Slye",
         "position": "K",
         "proTeamId": 10,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4869748",
+        "name": "Zavion Thomas",
+        "position": "WR",
+        "proTeamId": 3,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14144,21 +14151,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4240631",
-        "name": "DeeJay Dallas",
-        "position": "RB",
-        "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4430871",
         "name": "Sean Tucker",
         "position": "RB",
@@ -14208,6 +14200,21 @@
         "name": "Kyle Juszczyk",
         "position": "RB",
         "proTeamId": 25,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4240631",
+        "name": "DeeJay Dallas",
+        "position": "RB",
+        "proTeamId": 16,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14384,12 +14391,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4368003",
-        "name": "Andrei Iosivas",
-        "position": "WR",
-        "proTeamId": 4,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "id": "15168",
+        "name": "Case Keenum",
+        "position": "QB",
+        "proTeamId": 3,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true
       }
     },
@@ -14399,12 +14406,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "15168",
-        "name": "Case Keenum",
-        "position": "QB",
-        "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "id": "4368003",
+        "name": "Andrei Iosivas",
+        "position": "WR",
+        "proTeamId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -14714,21 +14721,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4362748",
-        "name": "Tyler Badie",
-        "position": "RB",
-        "proTeamId": 7,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4259619",
         "name": "Blake Grupe",
         "position": "K",
@@ -14759,10 +14751,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4429299",
-        "name": "Tahj Brooks",
+        "id": "4362748",
+        "name": "Tyler Badie",
         "position": "RB",
-        "proTeamId": 4,
+        "proTeamId": 7,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14778,6 +14770,21 @@
         "name": "Mac Jones",
         "position": "QB",
         "proTeamId": 25,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4429299",
+        "name": "Tahj Brooks",
+        "position": "RB",
+        "proTeamId": 4,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15213,8 +15220,8 @@
         "name": "Ashton Dulin",
         "position": "WR",
         "proTeamId": 11,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -15303,8 +15310,8 @@
         "name": "Barion Brown",
         "position": "WR",
         "proTeamId": 18,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -15678,8 +15685,8 @@
         "name": "Brenen Thompson",
         "position": "WR",
         "proTeamId": 24,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -15999,21 +16006,6 @@
       }
     },
     {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4708486",
-        "name": "Jimmy Horn Jr.",
-        "position": "WR",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
       "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
@@ -16229,6 +16221,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4708486",
+        "name": "Jimmy Horn Jr.",
+        "position": "WR",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4575665",
         "name": "Jacob Cowing",
         "position": "WR",
@@ -16294,6 +16301,36 @@
         "position": "RB",
         "proTeamId": 17,
         "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "5097554",
+        "name": "Kameron Johnson",
+        "position": "WR",
+        "proTeamId": 27,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4372716",
+        "name": "Nikko Remigio",
+        "position": "WR",
+        "proTeamId": 12,
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -16383,21 +16420,6 @@
         "name": "CJ Daniels",
         "position": "WR",
         "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4600597",
-        "name": "Montorie Foster Jr.",
-        "position": "WR",
-        "proTeamId": 26,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -16548,7 +16570,7 @@
         "name": "Trey Lance",
         "position": "QB",
         "proTeamId": 24,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
@@ -16649,36 +16671,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "5097554",
-        "name": "Kameron Johnson",
-        "position": "WR",
-        "proTeamId": 27,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4372716",
-        "name": "Nikko Remigio",
-        "position": "WR",
-        "proTeamId": 12,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "3116407",
         "name": "Mason Rudolph",
         "position": "QB",
@@ -16729,6 +16721,21 @@
         "position": "RB",
         "proTeamId": 0,
         "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4600597",
+        "name": "Montorie Foster Jr.",
+        "position": "WR",
+        "proTeamId": 26,
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -17356,21 +17363,6 @@
       "player": {
         "id": "4372019",
         "name": "Jerome Ford",
-        "position": "RB",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4431562",
-        "name": "Phil Mafah",
         "position": "RB",
         "proTeamId": 0,
         "injuryStatus": "ACTIVE",
@@ -18059,6 +18051,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4431562",
+        "name": "Phil Mafah",
+        "position": "RB",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4682652",
         "name": "Devin Neal",
         "position": "RB",
@@ -18509,6 +18516,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4431142",
+        "name": "Jimmy Holiday",
+        "position": "WR",
+        "proTeamId": 12,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4602788",
         "name": "Jackson Meeks",
         "position": "TE",
@@ -18904,21 +18926,6 @@
         "position": "K",
         "proTeamId": 0,
         "injuryStatus": "QUESTIONABLE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3930066",
-        "name": "Van Jefferson",
-        "position": "WR",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
