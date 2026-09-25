@@ -1,8 +1,8 @@
 {
   "feedVersion": 2,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-25T16:04:02.660Z",
-  "fingerprint": "ad874f9e",
+  "generatedAt": "2026-09-25T16:31:38.728Z",
+  "fingerprint": "7fea7e30",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -12944,10 +12944,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3924327",
-        "name": "Drew Lock",
+        "id": "2969939",
+        "name": "Jameis Winston",
         "position": "QB",
-        "proTeamId": 26,
+        "proTeamId": 19,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12959,10 +12959,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "2969939",
-        "name": "Jameis Winston",
+        "id": "3924327",
+        "name": "Drew Lock",
         "position": "QB",
-        "proTeamId": 19,
+        "proTeamId": 26,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13079,6 +13079,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4360516",
+        "name": "Tyrone Tracy Jr.",
+        "position": "RB",
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "2573079",
         "name": "Carson Wentz",
         "position": "QB",
@@ -13094,10 +13109,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4360516",
-        "name": "Tyrone Tracy Jr.",
+        "id": "5081508",
+        "name": "Eli Heidenreich",
         "position": "RB",
-        "proTeamId": 19,
+        "proTeamId": 23,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13128,21 +13143,6 @@
         "name": "Zachariah Branch",
         "position": "WR",
         "proTeamId": 1,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "5081508",
-        "name": "Eli Heidenreich",
-        "position": "RB",
-        "proTeamId": 23,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14399,11 +14399,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4434153",
-        "name": "Tyson Bagent",
+        "id": "15168",
+        "name": "Case Keenum",
         "position": "QB",
         "proTeamId": 3,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -14414,11 +14414,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "15168",
-        "name": "Case Keenum",
+        "id": "4434153",
+        "name": "Tyson Bagent",
         "position": "QB",
         "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
@@ -14519,21 +14519,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4685279",
-        "name": "Jaydon Blue",
-        "position": "RB",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4362887",
         "name": "Justin Fields",
         "position": "QB",
@@ -14553,6 +14538,21 @@
         "name": "Theo Johnson",
         "position": "TE",
         "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4685279",
+        "name": "Jaydon Blue",
+        "position": "RB",
+        "proTeamId": 0,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15239,6 +15239,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "3128720",
+        "name": "Nick Chubb",
+        "position": "RB",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4566158",
         "name": "Ben Sauls",
         "position": "K",
@@ -15289,21 +15304,6 @@
         "position": "WR",
         "proTeamId": 18,
         "injuryStatus": "QUESTIONABLE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3128720",
-        "name": "Nick Chubb",
-        "position": "RB",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -15689,6 +15689,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "3052096",
+        "name": "Johnny Mundt",
+        "position": "TE",
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "5091739",
         "name": "Chris Brazzell II",
         "position": "WR",
@@ -15843,21 +15858,6 @@
         "name": "Jonathan Mingo",
         "position": "WR",
         "proTeamId": 6,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3052096",
-        "name": "Johnny Mundt",
-        "position": "TE",
-        "proTeamId": 21,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
