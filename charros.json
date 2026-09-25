@@ -1,8 +1,8 @@
 {
   "feedVersion": 2,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-25T15:46:22.378Z",
-  "fingerprint": "e4c8aef7",
+  "generatedAt": "2026-09-25T15:50:13.080Z",
+  "fingerprint": "ad874f9e",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -13,20 +13,14 @@
     "size": 10,
     "status": {
       "currentMatchupPeriod": 3,
-      "finalScoringPeriod": 17,
       "isActive": true,
-      "latestScoringPeriod": 3
+      "latestScoringPeriod": 3,
+      "finalScoringPeriod": 17
     },
     "settings": {
-      "acquisitionSettings": {
-        "acquisitionBudget": 100,
-        "acquisitionLimit": -1,
-        "acquisitionType": "WAIVERS_TRADITIONAL",
-        "waiverHours": 24,
-        "waiverOrderReset": "true"
-      },
-      "isPublic": false,
       "name": "Charro NFL Fantasy 26-27",
+      "size": 10,
+      "isPublic": false,
       "rosterSettings": {
         "lineupSlotCounts": {
           "0": 1,
@@ -79,201 +73,207 @@
       },
       "scheduleSettings": {
         "matchupPeriodCount": 14,
-        "playoffMatchupPeriodLength": 1,
         "playoffTeamCount": 6,
+        "playoffMatchupPeriodLength": 1,
         "regularSeasonMatchupPeriodCount": null
       },
       "scoringSettings": {
+        "scoringType": "H2H_POINTS",
         "playerRankType": "PPR",
         "scoringItems": [
           {
-            "points": -2,
-            "statId": 20
+            "statId": 20,
+            "points": -2
           },
           {
-            "points": -2,
-            "statId": 72
+            "statId": 72,
+            "points": -2
           },
           {
-            "points": -1,
-            "statId": 85
+            "statId": 85,
+            "points": -1
           },
           {
-            "points": 0,
-            "statId": 89
+            "statId": 89,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 90
+            "statId": 90,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 91
+            "statId": 91,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 92
+            "statId": 92,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 95
+            "statId": 95,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 96
+            "statId": 96,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 97
+            "statId": 97,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 98
+            "statId": 98,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 99
+            "statId": 99,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 123
+            "statId": 123,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 124
+            "statId": 124,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 125
+            "statId": 125,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 128
+            "statId": 128,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 129
+            "statId": 129,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 130
+            "statId": 130,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 132
+            "statId": 132,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 133
+            "statId": 133,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 134
+            "statId": 134,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 135
+            "statId": 135,
+            "points": 0
           },
           {
-            "points": 0,
-            "statId": 136
+            "statId": 136,
+            "points": 0
           },
           {
-            "points": 0.04,
-            "statId": 3
+            "statId": 3,
+            "points": 0.04
           },
           {
-            "points": 0.1,
-            "statId": 24
+            "statId": 24,
+            "points": 0.1
           },
           {
-            "points": 0.1,
-            "statId": 42
+            "statId": 42,
+            "points": 0.1
           },
           {
-            "points": 1,
-            "statId": 53
+            "statId": 53,
+            "points": 1
           },
           {
-            "points": 1,
-            "statId": 86
+            "statId": 86,
+            "points": 1
           },
           {
-            "points": 1,
-            "statId": 209
+            "statId": 209,
+            "points": 1
           },
           {
-            "points": 2,
-            "statId": 19
+            "statId": 19,
+            "points": 2
           },
           {
-            "points": 2,
-            "statId": 26
+            "statId": 26,
+            "points": 2
           },
           {
-            "points": 2,
-            "statId": 44
+            "statId": 44,
+            "points": 2
           },
           {
-            "points": 2,
-            "statId": 206
+            "statId": 206,
+            "points": 2
           },
           {
-            "points": 3,
-            "statId": 80
+            "statId": 80,
+            "points": 3
           },
           {
-            "points": 4,
-            "statId": 4
+            "statId": 4,
+            "points": 4
           },
           {
-            "points": 4,
-            "statId": 77
+            "statId": 77,
+            "points": 4
           },
           {
-            "points": 5,
-            "statId": 198
+            "statId": 198,
+            "points": 5
           },
           {
-            "points": 6,
-            "statId": 25
+            "statId": 25,
+            "points": 6
           },
           {
-            "points": 6,
-            "statId": 43
+            "statId": 43,
+            "points": 6
           },
           {
-            "points": 6,
-            "statId": 63
+            "statId": 63,
+            "points": 6
           },
           {
-            "points": 6,
-            "statId": 93
+            "statId": 93,
+            "points": 6
           },
           {
-            "points": 6,
-            "statId": 101
+            "statId": 101,
+            "points": 6
           },
           {
-            "points": 6,
-            "statId": 102
+            "statId": 102,
+            "points": 6
           },
           {
-            "points": 6,
-            "statId": 103
+            "statId": 103,
+            "points": 6
           },
           {
-            "points": 6,
-            "statId": 104
+            "statId": 104,
+            "points": 6
           },
           {
-            "points": 6,
-            "statId": 201
+            "statId": 201,
+            "points": 6
           }
-        ],
-        "scoringType": "H2H_POINTS"
+        ]
       },
-      "size": 10,
+      "acquisitionSettings": {
+        "acquisitionBudget": 100,
+        "acquisitionLimit": -1,
+        "acquisitionType": "WAIVERS_TRADITIONAL",
+        "waiverHours": 24,
+        "waiverOrderReset": "true"
+      },
       "tradeSettings": {
         "maxTrades": null,
         "tradeDeadline": null,
@@ -4873,7 +4873,7 @@
             "name": "Nico Collins",
             "position": "WR",
             "proTeamId": 34,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "DOUBTFUL",
             "injured": false,
             "droppable": true,
             "stats": [
