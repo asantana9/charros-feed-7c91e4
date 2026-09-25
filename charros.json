@@ -1,8 +1,8 @@
 {
   "feedVersion": 2,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-25T04:32:08.403Z",
-  "fingerprint": "d80236b7",
+  "generatedAt": "2026-09-25T15:45:11.973Z",
+  "fingerprint": "e4c8aef7",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -299,8 +299,8 @@
       },
       "roster": [
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 1,
           "player": {
@@ -564,8 +564,8 @@
           }
         },
         {
-          "lineupSlotId": 6,
-          "lineupSlot": "TE",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 1,
           "player": {
@@ -723,61 +723,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
-          "status": "ONTEAM",
-          "onTeamId": 1,
-          "player": {
-            "id": "3128429",
-            "name": "Courtland Sutton",
-            "position": "WR",
-            "proTeamId": 7,
-            "injuryStatus": "ACTIVE",
-            "injured": false,
-            "droppable": true,
-            "stats": [
-              {
-                "scoringPeriodId": 2,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 11.99194651
-              },
-              {
-                "scoringPeriodId": 3,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 10.92239674
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 8.6
-              },
-              {
-                "scoringPeriodId": 2,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 5.5
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 2,
-                "appliedTotal": 187.85433254
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 167.01465181
-              }
-            ]
-          }
-        },
-        {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 1,
           "player": {
@@ -935,61 +882,8 @@
           }
         },
         {
-          "lineupSlotId": 16,
-          "lineupSlot": "D/ST",
-          "status": "ONTEAM",
-          "onTeamId": 1,
-          "player": {
-            "id": "-16033",
-            "name": "Ravens D/ST",
-            "position": "D/ST",
-            "proTeamId": 33,
-            "injuryStatus": "ACTIVE",
-            "injured": false,
-            "droppable": true,
-            "stats": [
-              {
-                "scoringPeriodId": 2,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 6.85254905
-              },
-              {
-                "scoringPeriodId": 3,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 4.37252093
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 13
-              },
-              {
-                "scoringPeriodId": 2,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 5
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 2,
-                "appliedTotal": 115.86368597
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 110.79262416
-              }
-            ]
-          }
-        },
-        {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 6,
+          "lineupSlot": "TE",
           "status": "ONTEAM",
           "onTeamId": 1,
           "player": {
@@ -1142,6 +1036,112 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
                 "appliedTotal": 176.43203648
+              }
+            ]
+          }
+        },
+        {
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
+          "status": "ONTEAM",
+          "onTeamId": 1,
+          "player": {
+            "id": "4688813",
+            "name": "Josh Downs",
+            "position": "WR",
+            "proTeamId": 11,
+            "injuryStatus": "ACTIVE",
+            "injured": false,
+            "droppable": true,
+            "stats": [
+              {
+                "scoringPeriodId": 2,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 9.43223239
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 11.98632128
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 19.9
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 2,
+                "appliedTotal": 153.62670235
+              },
+              {
+                "scoringPeriodId": 2,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 14.2
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 0,
+                "appliedTotal": 156.39231969
+              }
+            ]
+          }
+        },
+        {
+          "lineupSlotId": 16,
+          "lineupSlot": "D/ST",
+          "status": "ONTEAM",
+          "onTeamId": 1,
+          "player": {
+            "id": "-16021",
+            "name": "Eagles D/ST",
+            "position": "D/ST",
+            "proTeamId": 21,
+            "injuryStatus": "ACTIVE",
+            "injured": false,
+            "droppable": true,
+            "stats": [
+              {
+                "scoringPeriodId": 2,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 7.08783143
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 8.02482423
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 9
+              },
+              {
+                "scoringPeriodId": 2,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 4
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 2,
+                "appliedTotal": 106.74601813
+              },
+              {
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 0,
+                "appliedTotal": 101.70311235
               }
             ]
           }
@@ -5624,8 +5624,8 @@
       },
       "roster": [
         {
-          "lineupSlotId": 2,
-          "lineupSlot": "RB",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 7,
           "player": {
@@ -5995,8 +5995,8 @@
           }
         },
         {
-          "lineupSlotId": 23,
-          "lineupSlot": "FLEX",
+          "lineupSlotId": 2,
+          "lineupSlot": "RB",
           "status": "ONTEAM",
           "onTeamId": 7,
           "player": {
@@ -6366,8 +6366,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 23,
+          "lineupSlot": "FLEX",
           "status": "ONTEAM",
           "onTeamId": 7,
           "player": {
@@ -9124,7 +9124,7 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 94.94301731
+        "totalProjectedPointsLive": 112.92983128
       }
     },
     {
@@ -9154,7 +9154,7 @@
         "teamId": 7,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 124.06044785
+        "totalProjectedPointsLive": 118.41580038
       },
       "away": {
         "teamId": 10,
@@ -9165,6 +9165,30 @@
     }
   ],
   "transactions": [
+    {
+      "status": "EXECUTED",
+      "type": "WAIVER",
+      "teamId": 1,
+      "scoringPeriodId": 3,
+      "processDate": 1790320377983,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "-16021",
+          "playerName": "Eagles D/ST",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 1
+        },
+        {
+          "playerId": "-16033",
+          "playerName": "Ravens D/ST",
+          "type": "DROP",
+          "fromTeamId": 1,
+          "toTeamId": 0
+        }
+      ]
+    },
     {
       "status": "FAILED_ROSTERLIMIT",
       "type": "WAIVER",
@@ -9869,6 +9893,30 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 1,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4426515",
+          "playerName": "Puka Nacua",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4432620",
+          "playerName": "Parker Washington",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 7,
       "scoringPeriodId": 3,
       "processDate": 0,
@@ -9943,6 +9991,30 @@
           "playerName": "Rashod Bateman",
           "type": "LINEUP",
           "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 1,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4688813",
+          "playerName": "Josh Downs",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 1
+        },
+        {
+          "playerId": "3128429",
+          "playerName": "Courtland Sutton",
+          "type": "DROP",
+          "fromTeamId": 1,
           "toTeamId": 0
         }
       ]
@@ -10493,6 +10565,30 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 1,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4385690",
+          "playerName": "Dalton Kincaid",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4431459",
+          "playerName": "Tyler Warren",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 3,
       "scoringPeriodId": 3,
       "processDate": 0,
@@ -10692,6 +10788,30 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 7,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4429160",
+          "playerName": "De'Von Achane",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4241416",
+          "playerName": "Chuba Hubbard",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 3,
       "scoringPeriodId": 3,
       "processDate": 0,
@@ -10702,6 +10822,30 @@
           "playerName": "Alec Pierce",
           "type": "DROP",
           "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 7,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4695883",
+          "playerName": "Jalen Coker",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4429160",
+          "playerName": "De'Von Achane",
+          "type": "LINEUP",
+          "fromTeamId": 0,
           "toTeamId": 0
         }
       ]
@@ -11276,177 +11420,6 @@
           "toTeamId": 8
         }
       ]
-    },
-    {
-      "status": "CANCELED",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 8,
-      "scoringPeriodId": 2,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4047650",
-          "playerName": "DK Metcalf",
-          "type": "TRADE",
-          "fromTeamId": 8,
-          "toTeamId": 2
-        },
-        {
-          "playerId": "3916387",
-          "playerName": "Lamar Jackson",
-          "type": "TRADE",
-          "fromTeamId": 8,
-          "toTeamId": 2
-        },
-        {
-          "playerId": "4432665",
-          "playerName": "Brock Bowers",
-          "type": "TRADE",
-          "fromTeamId": 2,
-          "toTeamId": 8
-        },
-        {
-          "playerId": "4596448",
-          "playerName": "Bucky Irving",
-          "type": "TRADE",
-          "fromTeamId": 2,
-          "toTeamId": 8
-        },
-        {
-          "playerId": "4685472",
-          "playerName": "Tetairoa McMillan",
-          "type": "TRADE",
-          "fromTeamId": 2,
-          "toTeamId": 8
-        },
-        {
-          "playerId": "4040761",
-          "playerName": "Devin Singletary",
-          "type": "DROP",
-          "fromTeamId": 8,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 7,
-      "scoringPeriodId": 2,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4040715",
-          "playerName": "Jalen Hurts",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3139477",
-          "playerName": "Patrick Mahomes",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 3,
-      "scoringPeriodId": 2,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 1,
-      "scoringPeriodId": 2,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4035538",
-          "playerName": "David Montgomery",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4239996",
-          "playerName": "Travis Etienne Jr.",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "CANCELED",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 5,
-      "scoringPeriodId": 2,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4567104",
-          "playerName": "Will Reichard",
-          "type": "TRADE",
-          "fromTeamId": 5,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "-16034",
-          "playerName": "Texans D/ST",
-          "type": "TRADE",
-          "fromTeamId": 5,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4696981",
-          "playerName": "Cam Skattebo",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 5
-        },
-        {
-          "playerId": "3043078",
-          "playerName": "Derrick Henry",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 5
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 2,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3116164",
-          "playerName": "Mike Gesicki",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3116365",
-          "playerName": "Mark Andrews",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
     }
   ],
   "availablePlayers": [
@@ -11456,10 +11429,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "-16021",
-        "name": "Eagles D/ST",
-        "position": "D/ST",
-        "proTeamId": 21,
+        "id": "3128429",
+        "name": "Courtland Sutton",
+        "position": "WR",
+        "proTeamId": 7,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -11511,15 +11484,15 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4688813",
-        "name": "Josh Downs",
-        "position": "WR",
-        "proTeamId": 11,
+        "id": "-16033",
+        "name": "Ravens D/ST",
+        "position": "D/ST",
+        "proTeamId": 33,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -11541,7 +11514,7 @@
       }
     },
     {
-      "status": "WAIVERS",
+      "status": "FREEAGENT",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -11676,21 +11649,6 @@
       }
     },
     {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4689114",
-        "name": "Jaxson Dart",
-        "position": "QB",
-        "proTeamId": 19,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
-        "droppable": true
-      }
-    },
-    {
       "status": "FREEAGENT",
       "onTeamId": 0,
       "percentOwned": 0,
@@ -11721,7 +11679,7 @@
       }
     },
     {
-      "status": "WAIVERS",
+      "status": "FREEAGENT",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -11732,6 +11690,21 @@
         "proTeamId": 27,
         "injuryStatus": "ACTIVE",
         "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4689114",
+        "name": "Jaxson Dart",
+        "position": "QB",
+        "proTeamId": 19,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
         "droppable": true
       }
     },
@@ -11816,12 +11789,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4710714",
-        "name": "De'Zhaun Stribling",
+        "id": "4597500",
+        "name": "Adonai Mitchell",
         "position": "WR",
-        "proTeamId": 25,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
+        "proTeamId": 20,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true
       }
     },
@@ -11831,12 +11804,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4597500",
-        "name": "Adonai Mitchell",
+        "id": "4710714",
+        "name": "De'Zhaun Stribling",
         "position": "WR",
-        "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "proTeamId": 25,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
         "droppable": true
       }
     },
@@ -11886,7 +11859,7 @@
       }
     },
     {
-      "status": "WAIVERS",
+      "status": "FREEAGENT",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -11895,21 +11868,6 @@
         "name": "Chris Boswell",
         "position": "K",
         "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "-16027",
-        "name": "Buccaneers D/ST",
-        "position": "D/ST",
-        "proTeamId": 27,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -11951,6 +11909,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "-16027",
+        "name": "Buccaneers D/ST",
+        "position": "D/ST",
+        "proTeamId": 27,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "-16030",
         "name": "Jaguars D/ST",
         "position": "D/ST",
@@ -11970,8 +11943,8 @@
         "name": "Caleb Douglas",
         "position": "WR",
         "proTeamId": 15,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -11996,10 +11969,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3917792",
-        "name": "Daniel Jones",
-        "position": "QB",
-        "proTeamId": 11,
+        "id": "4570037",
+        "name": "Terrance Ferguson",
+        "position": "TE",
+        "proTeamId": 14,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12011,10 +11984,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4570037",
-        "name": "Terrance Ferguson",
-        "position": "TE",
-        "proTeamId": 14,
+        "id": "3917792",
+        "name": "Daniel Jones",
+        "position": "QB",
+        "proTeamId": 11,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12051,7 +12024,7 @@
       }
     },
     {
-      "status": "WAIVERS",
+      "status": "FREEAGENT",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -12731,10 +12704,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4837248",
-        "name": "Fernando Mendoza",
-        "position": "QB",
-        "proTeamId": 13,
+        "id": "-16018",
+        "name": "Saints D/ST",
+        "position": "D/ST",
+        "proTeamId": 18,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12746,10 +12719,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "-16018",
-        "name": "Saints D/ST",
-        "position": "D/ST",
-        "proTeamId": 18,
+        "id": "4837248",
+        "name": "Fernando Mendoza",
+        "position": "QB",
+        "proTeamId": 13,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12806,10 +12779,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "2578570",
-        "name": "Jacoby Brissett",
-        "position": "QB",
-        "proTeamId": 22,
+        "id": "4686422",
+        "name": "Xavier Hutchinson",
+        "position": "WR",
+        "proTeamId": 34,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12821,25 +12794,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4360635",
-        "name": "Chig Okonkwo",
-        "position": "TE",
-        "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4686422",
-        "name": "Xavier Hutchinson",
-        "position": "WR",
-        "proTeamId": 34,
+        "id": "2578570",
+        "name": "Jacoby Brissett",
+        "position": "QB",
+        "proTeamId": 22,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -12856,6 +12814,21 @@
         "position": "K",
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4360635",
+        "name": "Chig Okonkwo",
+        "position": "TE",
+        "proTeamId": 28,
+        "injuryStatus": "DOUBTFUL",
         "injured": false,
         "droppable": true
       }
@@ -12956,12 +12929,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3924327",
-        "name": "Drew Lock",
-        "position": "QB",
-        "proTeamId": 26,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "id": "4723820",
+        "name": "Omar Cooper Jr.",
+        "position": "WR",
+        "proTeamId": 20,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
         "droppable": true
       }
     },
@@ -12971,12 +12944,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4723820",
-        "name": "Omar Cooper Jr.",
-        "position": "WR",
-        "proTeamId": 20,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
+        "id": "3924327",
+        "name": "Drew Lock",
+        "position": "QB",
+        "proTeamId": 26,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true
       }
     },
@@ -13031,12 +13004,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3123076",
-        "name": "David Njoku",
-        "position": "TE",
-        "proTeamId": 24,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
+        "id": "5083754",
+        "name": "Ryan Flournoy",
+        "position": "WR",
+        "proTeamId": 6,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true
       }
     },
@@ -13046,12 +13019,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "5083754",
-        "name": "Ryan Flournoy",
-        "position": "WR",
-        "proTeamId": 6,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "id": "3123076",
+        "name": "David Njoku",
+        "position": "TE",
+        "proTeamId": 24,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
         "droppable": true
       }
     },
@@ -13076,10 +13049,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "2573079",
-        "name": "Carson Wentz",
+        "id": "2576980",
+        "name": "Marcus Mariota",
         "position": "QB",
-        "proTeamId": 16,
+        "proTeamId": 28,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13106,10 +13079,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "2576980",
-        "name": "Marcus Mariota",
+        "id": "2573079",
+        "name": "Carson Wentz",
         "position": "QB",
-        "proTeamId": 28,
+        "proTeamId": 16,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13125,6 +13098,21 @@
         "name": "Tyrone Tracy Jr.",
         "position": "RB",
         "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4242433",
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "proTeamId": 2,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13151,10 +13139,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4242433",
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "proTeamId": 2,
+        "id": "5081508",
+        "name": "Eli Heidenreich",
+        "position": "RB",
+        "proTeamId": 23,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13181,6 +13169,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4243331",
+        "name": "Cade Otton",
+        "position": "TE",
+        "proTeamId": 27,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4877706",
         "name": "Jayden Higgins",
         "position": "WR",
@@ -13196,11 +13199,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4243331",
-        "name": "Cade Otton",
+        "id": "15835",
+        "name": "Zach Ertz",
         "position": "TE",
-        "proTeamId": 27,
-        "injuryStatus": "ACTIVE",
+        "proTeamId": 0,
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
@@ -13226,25 +13229,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "15835",
-        "name": "Zach Ertz",
-        "position": "TE",
-        "proTeamId": 0,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "5081508",
-        "name": "Eli Heidenreich",
-        "position": "RB",
-        "proTeamId": 23,
+        "id": "4427095",
+        "name": "DeMario Douglas",
+        "position": "WR",
+        "proTeamId": 17,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13275,21 +13263,6 @@
         "name": "Kendrick Bourne",
         "position": "WR",
         "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4427095",
-        "name": "DeMario Douglas",
-        "position": "WR",
-        "proTeamId": 17,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13361,6 +13334,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "5082424",
+        "name": "Dominic Zvada",
+        "position": "K",
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4367209",
         "name": "Greg Dulcich",
         "position": "TE",
@@ -13376,9 +13364,9 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "5082424",
-        "name": "Dominic Zvada",
-        "position": "K",
+        "id": "4040655",
+        "name": "Darnell Mooney",
+        "position": "WR",
         "proTeamId": 19,
         "injuryStatus": "ACTIVE",
         "injured": false,
@@ -13406,26 +13394,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4040655",
-        "name": "Darnell Mooney",
-        "position": "WR",
-        "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4682745",
         "name": "Jaylen Wright",
         "position": "RB",
         "proTeamId": 15,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "DOUBTFUL",
         "injured": false,
         "droppable": true
       }
@@ -13646,6 +13619,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4711533",
+        "name": "Ollie Gordon II",
+        "position": "RB",
+        "proTeamId": 15,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4242557",
         "name": "Colby Parkinson",
         "position": "TE",
@@ -13661,10 +13649,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4711533",
-        "name": "Ollie Gordon II",
+        "id": "4239934",
+        "name": "AJ Dillon",
         "position": "RB",
-        "proTeamId": 15,
+        "proTeamId": 29,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13682,21 +13670,6 @@
         "proTeamId": 6,
         "injuryStatus": "INJURY_RESERVE",
         "injured": true,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4383429",
-        "name": "Jacob Saylors",
-        "position": "RB",
-        "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
         "droppable": true
       }
     },
@@ -13721,10 +13694,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4239934",
-        "name": "AJ Dillon",
+        "id": "4383429",
+        "name": "Jacob Saylors",
         "position": "RB",
-        "proTeamId": 29,
+        "proTeamId": 8,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13796,11 +13769,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4599739",
-        "name": "Kendre Miller",
-        "position": "RB",
-        "proTeamId": 18,
-        "injuryStatus": "QUESTIONABLE",
+        "id": "4568263",
+        "name": "Ryan Fitzgerald",
+        "position": "K",
+        "proTeamId": 29,
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -13811,11 +13784,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4568263",
-        "name": "Ryan Fitzgerald",
-        "position": "K",
-        "proTeamId": 29,
-        "injuryStatus": "ACTIVE",
+        "id": "4599739",
+        "name": "Kendre Miller",
+        "position": "RB",
+        "proTeamId": 18,
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
@@ -14141,10 +14114,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4695404",
-        "name": "Isaiah Davis",
-        "position": "RB",
-        "proTeamId": 20,
+        "id": "-16022",
+        "name": "Cardinals D/ST",
+        "position": "D/ST",
+        "proTeamId": 22,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14156,10 +14129,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "-16022",
-        "name": "Cardinals D/ST",
-        "position": "D/ST",
-        "proTeamId": 22,
+        "id": "4695404",
+        "name": "Isaiah Davis",
+        "position": "RB",
+        "proTeamId": 20,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14231,21 +14204,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4430841",
-        "name": "Carson Beck",
-        "position": "QB",
-        "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "16002",
         "name": "Kyle Juszczyk",
         "position": "RB",
@@ -14265,6 +14223,21 @@
         "name": "Tory Horton",
         "position": "WR",
         "proTeamId": 26,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4430841",
+        "name": "Carson Beck",
+        "position": "QB",
+        "proTeamId": 22,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14321,10 +14294,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4258620",
-        "name": "Andre Szmyt",
-        "position": "K",
-        "proTeamId": 5,
+        "id": "4683153",
+        "name": "Skyler Bell",
+        "position": "WR",
+        "proTeamId": 2,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14336,10 +14309,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4683153",
-        "name": "Skyler Bell",
-        "position": "WR",
-        "proTeamId": 2,
+        "id": "4258620",
+        "name": "Andre Szmyt",
+        "position": "K",
+        "proTeamId": 5,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14396,21 +14369,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4434153",
-        "name": "Tyson Bagent",
-        "position": "QB",
-        "proTeamId": 3,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4613202",
         "name": "Kyle Williams",
         "position": "WR",
@@ -14441,11 +14399,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4243371",
-        "name": "Riley Patterson",
-        "position": "K",
-        "proTeamId": 15,
-        "injuryStatus": "ACTIVE",
+        "id": "4434153",
+        "name": "Tyson Bagent",
+        "position": "QB",
+        "proTeamId": 3,
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
@@ -14476,6 +14434,21 @@
         "position": "WR",
         "proTeamId": 33,
         "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4243371",
+        "name": "Riley Patterson",
+        "position": "K",
+        "proTeamId": 15,
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -14520,21 +14493,6 @@
         "name": "Joe Flacco",
         "position": "QB",
         "proTeamId": 4,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4429148",
-        "name": "Theo Johnson",
-        "position": "TE",
-        "proTeamId": 19,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14591,11 +14549,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4808766",
-        "name": "Mason Taylor",
+        "id": "4429148",
+        "name": "Theo Johnson",
         "position": "TE",
-        "proTeamId": 20,
-        "injuryStatus": "DOUBTFUL",
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -14612,6 +14570,21 @@
         "proTeamId": 26,
         "injuryStatus": "ACTIVE",
         "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4808766",
+        "name": "Mason Taylor",
+        "position": "TE",
+        "proTeamId": 20,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -14726,10 +14699,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4362748",
-        "name": "Tyler Badie",
-        "position": "RB",
-        "proTeamId": 7,
+        "id": "4240472",
+        "name": "Noah Gray",
+        "position": "TE",
+        "proTeamId": 12,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14741,10 +14714,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4240472",
-        "name": "Noah Gray",
-        "position": "TE",
-        "proTeamId": 12,
+        "id": "4362748",
+        "name": "Tyler Badie",
+        "position": "RB",
+        "proTeamId": 7,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14801,21 +14774,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4426386",
-        "name": "Roschon Johnson",
-        "position": "RB",
-        "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4241464",
         "name": "Mac Jones",
         "position": "QB",
@@ -14831,10 +14789,40 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4426386",
+        "name": "Roschon Johnson",
+        "position": "RB",
+        "proTeamId": 3,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4036131",
         "name": "Noah Fant",
         "position": "TE",
         "proTeamId": 18,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3051889",
+        "name": "Laquon Treadwell",
+        "position": "WR",
+        "proTeamId": 11,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14906,36 +14894,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3051889",
-        "name": "Laquon Treadwell",
-        "position": "WR",
-        "proTeamId": 11,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3068267",
-        "name": "Austin Ekeler",
-        "position": "RB",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "5529",
         "name": "Philip Rivers",
         "position": "QB",
@@ -14987,6 +14945,21 @@
         "proTeamId": 9,
         "injuryStatus": "INJURY_RESERVE",
         "injured": true,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3068267",
+        "name": "Austin Ekeler",
+        "position": "RB",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true
       }
     },
@@ -15071,21 +15044,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4427728",
-        "name": "Bam Knight",
-        "position": "RB",
-        "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4366963",
         "name": "Dylan Laube",
         "position": "RB",
@@ -15120,6 +15078,21 @@
         "name": "Dohnte Meyers",
         "position": "WR",
         "proTeamId": 4,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4427728",
+        "name": "Bam Knight",
+        "position": "RB",
+        "proTeamId": 22,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15326,21 +15299,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4431431",
-        "name": "Corey Kiner",
-        "position": "RB",
-        "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "3128720",
         "name": "Nick Chubb",
         "position": "RB",
@@ -15401,6 +15359,36 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4715355",
+        "name": "Darius Cooper",
+        "position": "WR",
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4431431",
+        "name": "Corey Kiner",
+        "position": "RB",
+        "proTeamId": 17,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4372561",
         "name": "Isaac Guerendo",
         "position": "RB",
@@ -15420,6 +15408,21 @@
         "name": "Ameer Abdullah",
         "position": "RB",
         "proTeamId": 30,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "5092508",
+        "name": "Colbie Young",
+        "position": "WR",
+        "proTeamId": 4,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15480,21 +15483,6 @@
         "name": "Efton Chism III",
         "position": "WR",
         "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4715355",
-        "name": "Darius Cooper",
-        "position": "WR",
-        "proTeamId": 21,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15570,21 +15558,6 @@
         "name": "Isaiah Bond",
         "position": "WR",
         "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "5092508",
-        "name": "Colbie Young",
-        "position": "WR",
-        "proTeamId": 4,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15956,6 +15929,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "3051392",
+        "name": "Ezekiel Elliott",
+        "position": "RB",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "3892775",
         "name": "Jarrett Stidham",
         "position": "QB",
@@ -16170,21 +16158,6 @@
         "name": "Jalen Milroe",
         "position": "QB",
         "proTeamId": 26,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3051392",
-        "name": "Ezekiel Elliott",
-        "position": "RB",
-        "proTeamId": 0,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -17396,6 +17369,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4431562",
+        "name": "Phil Mafah",
+        "position": "RB",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4570688",
         "name": "Caden Davis",
         "position": "K",
@@ -17981,21 +17969,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "14993",
-        "name": "Greg Zuerlein",
-        "position": "K",
-        "proTeamId": 0,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "3929785",
         "name": "Nick Westbrook-Ikhine",
         "position": "WR",
@@ -18074,21 +18047,6 @@
         "id": "5092436",
         "name": "Jude McAtamney",
         "position": "K",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4431562",
-        "name": "Phil Mafah",
-        "position": "RB",
         "proTeamId": 0,
         "injuryStatus": "ACTIVE",
         "injured": false,
@@ -18431,6 +18389,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4373684",
+        "name": "Scott Matlock",
+        "position": "RB",
+        "proTeamId": 24,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4260394",
         "name": "Aidan O'Connell",
         "position": "QB",
@@ -18527,21 +18500,6 @@
         "proTeamId": 16,
         "injuryStatus": "SUSPENSION",
         "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4431142",
-        "name": "Jimmy Holiday",
-        "position": "WR",
-        "proTeamId": 12,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
         "droppable": true
       }
     },
@@ -18901,6 +18859,21 @@
         "position": "WR",
         "proTeamId": 23,
         "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "14993",
+        "name": "Greg Zuerlein",
+        "position": "K",
+        "proTeamId": 0,
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
