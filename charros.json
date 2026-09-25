@@ -1,8 +1,8 @@
 {
   "feedVersion": 2,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-25T20:35:32.742Z",
-  "fingerprint": "b3abe3a7",
+  "generatedAt": "2026-09-25T20:40:34.260Z",
+  "fingerprint": "8b26bdcf",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -5456,8 +5456,8 @@
             "name": "Jonah Coleman",
             "position": "RB",
             "proTeamId": 7,
-            "injuryStatus": "QUESTIONABLE",
-            "injured": false,
+            "injuryStatus": "OUT",
+            "injured": true,
             "droppable": true,
             "stats": [
               {
