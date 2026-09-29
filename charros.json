@@ -1,8 +1,8 @@
 {
   "feedVersion": 2,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-28T19:28:19.498Z",
-  "fingerprint": "ba1c887d",
+  "generatedAt": "2026-09-29T01:15:38.118Z",
+  "fingerprint": "ea565fca",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -1115,6 +1115,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 6
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 8.02482423
@@ -1123,7 +1129,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 9
+                "appliedTotal": 15
               },
               {
                 "scoringPeriodId": 2,
@@ -1136,12 +1142,6 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 2,
                 "appliedTotal": 106.74601813
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 89.05697083
               }
             ]
           }
@@ -1716,6 +1716,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 2.9
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 7.48821368
@@ -1724,7 +1730,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 4.4
+                "appliedTotal": 7.3
               },
               {
                 "scoringPeriodId": 2,
@@ -1737,12 +1743,6 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 2,
                 "appliedTotal": 144.50721941
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 79.02889819
               }
             ]
           }
@@ -2635,6 +2635,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 0.3
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 8.46108771
@@ -2643,7 +2649,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 28.2
+                "appliedTotal": 28.5
               },
               {
                 "scoringPeriodId": 0,
@@ -2656,12 +2662,6 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 7.8
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 122.23115276
               }
             ]
           }
@@ -3012,7 +3012,7 @@
             "name": "Josh Allen",
             "position": "QB",
             "proTeamId": 2,
-            "injuryStatus": "ACTIVE",
+            "injuryStatus": "QUESTIONABLE",
             "injured": false,
             "droppable": false,
             "stats": [
@@ -4178,6 +4178,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 0
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
@@ -4199,12 +4205,6 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 2,
                 "appliedTotal": 173.51927276
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 143.24442592
               }
             ]
           }
@@ -4991,6 +4991,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 2.9
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 9.69326651
@@ -4999,7 +5005,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 1.3
+                "appliedTotal": 4.2
               },
               {
                 "scoringPeriodId": 0,
@@ -5012,12 +5018,6 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 1.3
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 138.55636347
               }
             ]
           }
@@ -5633,7 +5633,7 @@
             "name": "De'Von Achane",
             "position": "RB",
             "proTeamId": 15,
-            "injuryStatus": "OUT",
+            "injuryStatus": "INJURY_RESERVE",
             "injured": true,
             "droppable": true,
             "stats": [
@@ -5910,6 +5910,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 1.84
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 19.80032742
@@ -5918,7 +5924,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 40.88
+                "appliedTotal": 42.72
               },
               {
                 "scoringPeriodId": 2,
@@ -5931,12 +5937,6 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 2,
                 "appliedTotal": 314.84317588
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 271.25699077
               }
             ]
           }
@@ -6723,6 +6723,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 14.1
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 11.16368303
@@ -6731,7 +6737,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 15.7
+                "appliedTotal": 29.8
               },
               {
                 "scoringPeriodId": 0,
@@ -6744,12 +6750,6 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 6.2
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 163.96616311
               }
             ]
           }
@@ -6855,7 +6855,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 91.63444309
+                "appliedTotal": 93.99922981
               }
             ]
           }
@@ -7279,7 +7279,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 152.42881958
+                "appliedTotal": 152.42884952
               }
             ]
           }
@@ -7483,6 +7483,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 3.8
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 15.62002324
@@ -7491,7 +7497,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 36
+                "appliedTotal": 39.8
               },
               {
                 "scoringPeriodId": 2,
@@ -7504,12 +7510,6 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 2,
                 "appliedTotal": 224.66019864
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 215.46867469
               }
             ]
           }
@@ -7589,6 +7589,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 3.7
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 12.82714079
@@ -7597,7 +7603,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 45.3
+                "appliedTotal": 49
               },
               {
                 "scoringPeriodId": 0,
@@ -7610,12 +7616,6 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 12.9
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 186.64464406
               }
             ]
           }
@@ -7642,6 +7642,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 0
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 9.94460502
@@ -7663,12 +7669,6 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 7.3
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 146.07589558
               }
             ]
           }
@@ -8296,6 +8296,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 7.3
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 17.36872185
@@ -8304,7 +8310,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 12
+                "appliedTotal": 19.3
               },
               {
                 "scoringPeriodId": 2,
@@ -8317,12 +8323,6 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 2,
                 "appliedTotal": 271.27847799
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 234.26664373
               }
             ]
           }
@@ -8879,6 +8879,12 @@
               },
               {
                 "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 1
+              },
+              {
+                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 7.91274944
@@ -8887,7 +8893,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 16
+                "appliedTotal": 17
               },
               {
                 "scoringPeriodId": 0,
@@ -8900,12 +8906,6 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 4
-              },
-              {
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 115.14394075
               }
             ]
           }
@@ -9087,8 +9087,8 @@
       "away": {
         "teamId": 9,
         "totalPoints": 0,
-        "totalPointsLive": 119.24,
-        "totalProjectedPointsLive": 147.68716403
+        "totalPointsLive": 126.74,
+        "totalProjectedPointsLive": 143.91924236
       }
     },
     {
@@ -9123,8 +9123,8 @@
       "away": {
         "teamId": 1,
         "totalPoints": 0,
-        "totalPointsLive": 82.56,
-        "totalProjectedPointsLive": 90.58482423
+        "totalPointsLive": 88.56,
+        "totalProjectedPointsLive": 89.78279135
       }
     },
     {
@@ -9159,8 +9159,8 @@
       "away": {
         "teamId": 10,
         "totalPoints": 0,
-        "totalPointsLive": 103.44,
-        "totalProjectedPointsLive": 128.72147129
+        "totalPointsLive": 111.74,
+        "totalProjectedPointsLive": 127.00748051
       }
     }
   ],
@@ -9233,6 +9233,30 @@
     {
       "status": "FAILED_INVALIDPLAYERSOURCE",
       "type": "WAIVER",
+      "teamId": 6,
+      "scoringPeriodId": 3,
+      "processDate": 1790148922835,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4832800",
+          "playerName": "Denzel Boston",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 6
+        },
+        {
+          "playerId": "4568490",
+          "playerName": "RJ Harvey",
+          "type": "DROP",
+          "fromTeamId": 6,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "FAILED_INVALIDPLAYERSOURCE",
+      "type": "WAIVER",
       "teamId": 3,
       "scoringPeriodId": 3,
       "processDate": 1790148922835,
@@ -9281,30 +9305,6 @@
     {
       "status": "FAILED_INVALIDPLAYERSOURCE",
       "type": "WAIVER",
-      "teamId": 6,
-      "scoringPeriodId": 3,
-      "processDate": 1790148922835,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4832800",
-          "playerName": "Denzel Boston",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 6
-        },
-        {
-          "playerId": "4568490",
-          "playerName": "RJ Harvey",
-          "type": "DROP",
-          "fromTeamId": 6,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "FAILED_INVALIDPLAYERSOURCE",
-      "type": "WAIVER",
       "teamId": 3,
       "scoringPeriodId": 3,
       "processDate": 1790148922835,
@@ -9316,30 +9316,6 @@
           "type": "ADD",
           "fromTeamId": 0,
           "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "WAIVER",
-      "teamId": 8,
-      "scoringPeriodId": 3,
-      "processDate": 1790148922834,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4832800",
-          "playerName": "Denzel Boston",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 8
-        },
-        {
-          "playerId": "4429023",
-          "playerName": "MarShawn Lloyd",
-          "type": "DROP",
-          "fromTeamId": 8,
-          "toTeamId": 0
         }
       ]
     },
@@ -9363,6 +9339,30 @@
           "playerName": "Josh Downs",
           "type": "DROP",
           "fromTeamId": 10,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "WAIVER",
+      "teamId": 8,
+      "scoringPeriodId": 3,
+      "processDate": 1790148922834,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4832800",
+          "playerName": "Denzel Boston",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 8
+        },
+        {
+          "playerId": "4429023",
+          "playerName": "MarShawn Lloyd",
+          "type": "DROP",
+          "fromTeamId": 8,
           "toTeamId": 0
         }
       ]
@@ -9812,30 +9812,6 @@
     {
       "status": "EXECUTED",
       "type": "FREEAGENT",
-      "teamId": 6,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "2576925",
-          "playerName": "Darren Waller",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 6
-        },
-        {
-          "playerId": "4686658",
-          "playerName": "Mike Washington Jr.",
-          "type": "DROP",
-          "fromTeamId": 6,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
       "teamId": 8,
       "scoringPeriodId": 3,
       "processDate": 0,
@@ -9916,78 +9892,6 @@
     },
     {
       "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 6,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4432577",
-          "playerName": "C.J. Stroud",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 6
-        },
-        {
-          "playerId": "4431611",
-          "playerName": "Caleb Williams",
-          "type": "DROP",
-          "fromTeamId": 6,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 7,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4430027",
-          "playerName": "Sam LaPorta",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "15847",
-          "playerName": "Travis Kelce",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FUTURE_ROSTER",
-      "teamId": 2,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4612826",
-          "playerName": "Ladd McConkey",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4685472",
-          "playerName": "Tetairoa McMillan",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
       "type": "ROSTER",
       "teamId": 4,
       "scoringPeriodId": 3,
@@ -10004,63 +9908,6 @@
         {
           "playerId": "-16029",
           "playerName": "Panthers D/ST",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 7,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4428718",
-          "playerName": "Tre Tucker",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4360939",
-          "playerName": "Rashod Bateman",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 7,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4429160",
-          "playerName": "De'Von Achane",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4695883",
-          "playerName": "Jalen Coker",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -10087,23 +9934,6 @@
           "playerName": "Courtland Sutton",
           "type": "DROP",
           "fromTeamId": 1,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "17372",
-          "playerName": "Chris Boswell",
-          "type": "DROP",
-          "fromTeamId": 3,
           "toTeamId": 0
         }
       ]
@@ -10181,64 +10011,6 @@
       ]
     },
     {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3054850",
-          "playerName": "Alvin Kamara",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 4
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 8,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16023",
-          "playerName": "Steelers D/ST",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "-16021",
-          "playerName": "Eagles D/ST",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4689114",
-          "playerName": "Jaxson Dart",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
       "status": "CANCELED",
       "type": "WAIVER",
       "teamId": 3,
@@ -10265,30 +10037,6 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
-      "teamId": 2,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4701936",
-          "playerName": "Matthew Golden",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4612826",
-          "playerName": "Ladd McConkey",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
       "teamId": 8,
       "scoringPeriodId": 3,
       "processDate": 0,
@@ -10304,54 +10052,6 @@
         {
           "playerId": "4047650",
           "playerName": "DK Metcalf",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4361411",
-          "playerName": "Pat Freiermuth",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 9,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4572680",
-          "playerName": "Tucker Kraft",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "5083076",
-          "playerName": "Harold Fannin Jr.",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -10407,49 +10107,25 @@
       ]
     },
     {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 1,
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
       "scoringPeriodId": 3,
       "processDate": 0,
       "bidAmount": 0,
       "items": [
         {
-          "playerId": "3046779",
-          "playerName": "Jared Goff",
-          "type": "LINEUP",
+          "playerId": "4711533",
+          "playerName": "Ollie Gordon II",
+          "type": "ADD",
           "fromTeamId": 0,
-          "toTeamId": 0
+          "toTeamId": 3
         },
         {
-          "playerId": "12483",
-          "playerName": "Matthew Stafford",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3117256",
-          "playerName": "Dalton Schultz",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4360939",
-          "playerName": "Rashod Bateman",
-          "type": "LINEUP",
-          "fromTeamId": 0,
+          "playerId": "4608686",
+          "playerName": "Kyle Monangai",
+          "type": "DROP",
+          "fromTeamId": 3,
           "toTeamId": 0
         }
       ]
@@ -10474,128 +10150,6 @@
           "playerName": "Tetairoa McMillan",
           "type": "LINEUP",
           "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 2,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4701936",
-          "playerName": "Matthew Golden",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4596448",
-          "playerName": "Bucky Irving",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3117256",
-          "playerName": "Dalton Schultz",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4262921",
-          "playerName": "Justin Jefferson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4361411",
-          "playerName": "Pat Freiermuth",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 5,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3121023",
-          "playerName": "Dallas Goedert",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4242355",
-          "playerName": "Jake Ferguson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 6,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4702555",
-          "playerName": "Jonah Coleman",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 6
-        },
-        {
-          "playerId": "4568490",
-          "playerName": "RJ Harvey",
-          "type": "DROP",
-          "fromTeamId": 6,
           "toTeamId": 0
         }
       ]
@@ -10640,105 +10194,6 @@
     },
     {
       "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4262921",
-          "playerName": "Justin Jefferson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4360939",
-          "playerName": "Rashod Bateman",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "5083315",
-          "playerName": "Kenyon Sadiq",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4608686",
-          "playerName": "Kyle Monangai",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4360689",
-          "playerName": "Tyler Shough",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4428718",
-          "playerName": "Tre Tucker",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4688813",
-          "playerName": "Josh Downs",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
       "type": "FREEAGENT",
       "teamId": 4,
       "scoringPeriodId": 3,
@@ -10772,30 +10227,6 @@
         {
           "playerId": "2576925",
           "playerName": "Darren Waller",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 9,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4239993",
-          "playerName": "Tee Higgins",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4567750",
-          "playerName": "Emeka Egbuka",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -10851,47 +10282,6 @@
       ]
     },
     {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 1,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4385690",
-          "playerName": "Dalton Kincaid",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4431459",
-          "playerName": "Tyler Warren",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4034949",
-          "playerName": "Eddy Pineiro",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
       "status": "PENDING",
       "type": "TRADE_PROPOSAL",
       "teamId": 3,
@@ -10926,71 +10316,6 @@
           "type": "TRADE",
           "fromTeamId": 7,
           "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4696981",
-          "playerName": "Cam Skattebo",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4360689",
-          "playerName": "Tyler Shough",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4038941",
-          "playerName": "Justin Herbert",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4360939",
-          "playerName": "Rashod Bateman",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4262921",
-          "playerName": "Justin Jefferson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
         }
       ]
     },
@@ -11165,6 +10490,890 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4428718",
+          "playerName": "Tre Tucker",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360939",
+          "playerName": "Rashod Bateman",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4428718",
+          "playerName": "Tre Tucker",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3150744",
+          "playerName": "Chase McLaughlin",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4362081",
+          "playerName": "Cameron Dicker",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3117256",
+          "playerName": "Dalton Schultz",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "3116365",
+          "playerName": "Mark Andrews",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 6,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3917315",
+          "playerName": "Kyler Murray",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4431611",
+          "playerName": "Caleb Williams",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4688813",
+          "playerName": "Josh Downs",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 2,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3912547",
+          "playerName": "Sam Darnold",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 2
+        },
+        {
+          "playerId": "3052587",
+          "playerName": "Baker Mayfield",
+          "type": "DROP",
+          "fromTeamId": 2,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 5,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4032473",
+          "playerName": "Rashid Shaheed",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "2976212",
+          "playerName": "Stefon Diggs",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 6,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "2576925",
+          "playerName": "Darren Waller",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 6
+        },
+        {
+          "playerId": "4686658",
+          "playerName": "Mike Washington Jr.",
+          "type": "DROP",
+          "fromTeamId": 6,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 6,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4432577",
+          "playerName": "C.J. Stroud",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 6
+        },
+        {
+          "playerId": "4431611",
+          "playerName": "Caleb Williams",
+          "type": "DROP",
+          "fromTeamId": 6,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 7,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4430027",
+          "playerName": "Sam LaPorta",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "15847",
+          "playerName": "Travis Kelce",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FUTURE_ROSTER",
+      "teamId": 2,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4612826",
+          "playerName": "Ladd McConkey",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4685472",
+          "playerName": "Tetairoa McMillan",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 7,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4428718",
+          "playerName": "Tre Tucker",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4360939",
+          "playerName": "Rashod Bateman",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 7,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4429160",
+          "playerName": "De'Von Achane",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4695883",
+          "playerName": "Jalen Coker",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "17372",
+          "playerName": "Chris Boswell",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3054850",
+          "playerName": "Alvin Kamara",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 4
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 8,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "-16023",
+          "playerName": "Steelers D/ST",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "-16021",
+          "playerName": "Eagles D/ST",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4689114",
+          "playerName": "Jaxson Dart",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 2,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4701936",
+          "playerName": "Matthew Golden",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4612826",
+          "playerName": "Ladd McConkey",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360248",
+          "playerName": "Kyle Pitts Sr.",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4361411",
+          "playerName": "Pat Freiermuth",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 9,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4572680",
+          "playerName": "Tucker Kraft",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "5083076",
+          "playerName": "Harold Fannin Jr.",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 1,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3046779",
+          "playerName": "Jared Goff",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "12483",
+          "playerName": "Matthew Stafford",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3117256",
+          "playerName": "Dalton Schultz",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4360939",
+          "playerName": "Rashod Bateman",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 2,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4701936",
+          "playerName": "Matthew Golden",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4596448",
+          "playerName": "Bucky Irving",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3117256",
+          "playerName": "Dalton Schultz",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4361411",
+          "playerName": "Pat Freiermuth",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 5,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3121023",
+          "playerName": "Dallas Goedert",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4242355",
+          "playerName": "Jake Ferguson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 6,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4702555",
+          "playerName": "Jonah Coleman",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 6
+        },
+        {
+          "playerId": "4568490",
+          "playerName": "RJ Harvey",
+          "type": "DROP",
+          "fromTeamId": 6,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4360939",
+          "playerName": "Rashod Bateman",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "5083315",
+          "playerName": "Kenyon Sadiq",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4608686",
+          "playerName": "Kyle Monangai",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360689",
+          "playerName": "Tyler Shough",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4428718",
+          "playerName": "Tre Tucker",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4688813",
+          "playerName": "Josh Downs",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 9,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4239993",
+          "playerName": "Tee Higgins",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4567750",
+          "playerName": "Emeka Egbuka",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 1,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4385690",
+          "playerName": "Dalton Kincaid",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4431459",
+          "playerName": "Tyler Warren",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4034949",
+          "playerName": "Eddy Pineiro",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4696981",
+          "playerName": "Cam Skattebo",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360689",
+          "playerName": "Tyler Shough",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4038941",
+          "playerName": "Justin Herbert",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 3,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360939",
+          "playerName": "Rashod Bateman",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 3,
       "scoringPeriodId": 3,
       "processDate": 0,
@@ -11247,220 +11456,11 @@
           "toTeamId": 0
         }
       ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4685720",
-          "playerName": "Bryce Young",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 8,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4683062",
-          "playerName": "Xavier Worthy",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4685278",
-          "playerName": "Luther Burden III",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4361411",
-          "playerName": "Pat Freiermuth",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 9,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "5083076",
-          "playerName": "Harold Fannin Jr.",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4572680",
-          "playerName": "Tucker Kraft",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 5,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16016",
-          "playerName": "Vikings D/ST",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "-16027",
-          "playerName": "Buccaneers D/ST",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 8,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4372016",
-          "playerName": "Jaylen Waddle",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4047650",
-          "playerName": "DK Metcalf",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 1,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4685702",
-          "playerName": "Quinshon Judkins",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4239996",
-          "playerName": "Travis Etienne Jr.",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 7,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4040715",
-          "playerName": "Jalen Hurts",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3139477",
-          "playerName": "Patrick Mahomes",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4262921",
-          "playerName": "Justin Jefferson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4428718",
-          "playerName": "Tre Tucker",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
     }
   ],
   "availablePlayers": [
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -11745,7 +11745,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -11844,7 +11844,7 @@
         "name": "Terrance Ferguson",
         "position": "TE",
         "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "DOUBTFUL",
         "injured": false,
         "droppable": true
       }
@@ -12075,7 +12075,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -12114,8 +12114,8 @@
         "name": "Jalen McMillan",
         "position": "WR",
         "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -12420,7 +12420,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -12540,7 +12540,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -12600,7 +12600,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -13185,7 +13185,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -13193,8 +13193,8 @@
         "id": "15835",
         "name": "Zach Ertz",
         "position": "TE",
-        "proTeamId": 0,
-        "injuryStatus": "QUESTIONABLE",
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -13650,7 +13650,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -13734,7 +13734,7 @@
         "name": "Colby Parkinson",
         "position": "TE",
         "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
@@ -13899,8 +13899,8 @@
         "name": "Jack Bech",
         "position": "WR",
         "proTeamId": 13,
-        "injuryStatus": "DOUBTFUL",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -13940,6 +13940,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "15168",
+        "name": "Case Keenum",
+        "position": "QB",
+        "proTeamId": 3,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "3895856",
         "name": "Christian Kirk",
         "position": "WR",
@@ -13950,7 +13965,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -13974,21 +13989,6 @@
         "name": "Roman Wilson",
         "position": "WR",
         "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "15168",
-        "name": "Case Keenum",
-        "position": "QB",
-        "proTeamId": 3,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14085,7 +14085,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -14205,21 +14205,6 @@
       }
     },
     {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4434153",
-        "name": "Tyson Bagent",
-        "position": "QB",
-        "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
       "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
@@ -14244,6 +14229,21 @@
         "name": "J.J. McCarthy",
         "position": "QB",
         "proTeamId": 16,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4434153",
+        "name": "Tyson Bagent",
+        "position": "QB",
+        "proTeamId": 3,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14490,7 +14490,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -14565,7 +14565,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -14649,6 +14649,21 @@
         "name": "Myles Price",
         "position": "WR",
         "proTeamId": 16,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3068267",
+        "name": "Austin Ekeler",
+        "position": "RB",
+        "proTeamId": 0,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14835,7 +14850,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -14844,21 +14859,6 @@
         "name": "Roschon Johnson",
         "position": "RB",
         "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3068267",
-        "name": "Austin Ekeler",
-        "position": "RB",
-        "proTeamId": 0,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14874,6 +14874,21 @@
         "name": "Laquon Treadwell",
         "position": "WR",
         "proTeamId": 11,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3052096",
+        "name": "Johnny Mundt",
+        "position": "TE",
+        "proTeamId": 21,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15005,25 +15020,25 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4426948",
-        "name": "Luke McCaffrey",
+        "id": "4569382",
+        "name": "Jordan Whittington",
         "position": "WR",
-        "proTeamId": 28,
+        "proTeamId": 14,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3052096",
-        "name": "Johnny Mundt",
-        "position": "TE",
-        "proTeamId": 21,
+        "id": "4426948",
+        "name": "Luke McCaffrey",
+        "position": "WR",
+        "proTeamId": 28,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15084,21 +15099,6 @@
         "name": "Jonnu Smith",
         "position": "TE",
         "proTeamId": 9,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4569382",
-        "name": "Jordan Whittington",
-        "position": "WR",
-        "proTeamId": 14,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -15240,7 +15240,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -15345,7 +15345,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -15474,8 +15474,8 @@
         "name": "Colbie Young",
         "position": "WR",
         "proTeamId": 4,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -16095,7 +16095,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -16215,7 +16215,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -16224,8 +16224,8 @@
         "name": "Tanner McKee",
         "position": "QB",
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
@@ -16710,7 +16710,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -17145,7 +17145,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -17790,7 +17790,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -18324,7 +18324,7 @@
         "name": "Tylan Wallace",
         "position": "WR",
         "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true
       }
@@ -18360,7 +18360,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -18480,7 +18480,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -18549,7 +18549,7 @@
         "name": "Jeshaun Jones",
         "position": "WR",
         "proTeamId": 16,
-        "injuryStatus": "SUSPENSION",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
       }
@@ -18645,7 +18645,7 @@
       }
     },
     {
-      "status": "FREEAGENT",
+      "status": "WAIVERS",
       "onTeamId": 0,
       "percentOwned": 0,
       "percentStarted": 0,
@@ -18654,8 +18654,8 @@
         "name": "Cole Payton",
         "position": "QB",
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true
       }
     },
