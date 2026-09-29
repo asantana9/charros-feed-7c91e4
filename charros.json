@@ -1,8 +1,8 @@
 {
   "feedVersion": 2,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-29T01:28:04.249Z",
-  "fingerprint": "ea565fca",
+  "generatedAt": "2026-09-29T01:35:43.509Z",
+  "fingerprint": "ba0d8d76",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -796,16 +796,16 @@
                 "appliedTotal": 29.78
               },
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 19.36
-              },
-              {
                 "scoringPeriodId": 2,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 17.0130448
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 19.36
               },
               {
                 "scoringPeriodId": 3,
@@ -909,12 +909,6 @@
               },
               {
                 "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 3.8
-              },
-              {
-                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 11.6245828
@@ -924,6 +918,12 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
                 "appliedTotal": 44.3
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 3.8
               },
               {
                 "scoringPeriodId": 0,
@@ -1245,12 +1245,6 @@
               },
               {
                 "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 5.6
-              },
-              {
-                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 15.0130892
@@ -1260,6 +1254,12 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
                 "appliedTotal": 31.4
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 5.6
               },
               {
                 "scoringPeriodId": 0,
@@ -1351,12 +1351,6 @@
               },
               {
                 "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 10.6
-              },
-              {
-                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 13.57639386
@@ -1366,6 +1360,12 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
                 "appliedTotal": 36.3
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 10.6
               },
               {
                 "scoringPeriodId": 0,
@@ -2204,16 +2204,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 26.7
-              },
-              {
                 "scoringPeriodId": 2,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 15.86150031
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 26.7
               },
               {
                 "scoringPeriodId": 3,
@@ -2429,12 +2429,6 @@
               },
               {
                 "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 12.74
-              },
-              {
-                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 17.25591452
@@ -2444,6 +2438,12 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
                 "appliedTotal": 33.88
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 12.74
               },
               {
                 "scoringPeriodId": 0,
@@ -3030,12 +3030,6 @@
               },
               {
                 "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 17.46
-              },
-              {
-                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 23.55309535
@@ -3045,6 +3039,12 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
                 "appliedTotal": 93.94
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 17.46
               },
               {
                 "scoringPeriodId": 0,
@@ -3136,12 +3136,6 @@
               },
               {
                 "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 12.7
-              },
-              {
-                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 12.55739281
@@ -3151,6 +3145,12 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
                 "appliedTotal": 33.6
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 12.7
               },
               {
                 "scoringPeriodId": 0,
@@ -4124,16 +4124,16 @@
                 "appliedTotal": 5.3
               },
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.9
-              },
-              {
                 "scoringPeriodId": 2,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 12.32831842
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 8.9
               },
               {
                 "scoringPeriodId": 3,
@@ -4778,16 +4778,16 @@
                 "appliedTotal": 35.2
               },
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 11.9
-              },
-              {
                 "scoringPeriodId": 2,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 20.39367413
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 11.9
               },
               {
                 "scoringPeriodId": 3,
@@ -4838,12 +4838,6 @@
               },
               {
                 "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 19.4
-              },
-              {
-                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 16.95587258
@@ -4853,6 +4847,12 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
                 "appliedTotal": 50.2
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 19.4
               },
               {
                 "scoringPeriodId": 0,
@@ -4931,16 +4931,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.5
-              },
-              {
                 "scoringPeriodId": 2,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 15.79237533
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 8.5
               },
               {
                 "scoringPeriodId": 3,
@@ -5912,7 +5912,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 1.84
+                "appliedTotal": 4.22
               },
               {
                 "scoringPeriodId": 3,
@@ -5924,7 +5924,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 42.72
+                "appliedTotal": 45.1
               },
               {
                 "scoringPeriodId": 2,
@@ -5962,16 +5962,16 @@
                 "appliedTotal": 17.2
               },
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 7.4
-              },
-              {
                 "scoringPeriodId": 2,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 11.25440928
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 7.4
               },
               {
                 "scoringPeriodId": 3,
@@ -6234,12 +6234,6 @@
               },
               {
                 "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 7
-              },
-              {
-                "scoringPeriodId": 3,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 10.86771867
@@ -6249,6 +6243,12 @@
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
                 "appliedTotal": 13.1
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 7
               },
               {
                 "scoringPeriodId": 0,
@@ -7376,16 +7376,16 @@
                 "appliedTotal": 23.3
               },
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 41.4
-              },
-              {
                 "scoringPeriodId": 2,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 24.1565459
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 41.4
               },
               {
                 "scoringPeriodId": 3,
@@ -7485,7 +7485,7 @@
                 "scoringPeriodId": 3,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 3.8
+                "appliedTotal": 9.3
               },
               {
                 "scoringPeriodId": 3,
@@ -7497,7 +7497,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 39.8
+                "appliedTotal": 45.3
               },
               {
                 "scoringPeriodId": 2,
@@ -9087,8 +9087,8 @@
       "away": {
         "teamId": 9,
         "totalPoints": 0,
-        "totalPointsLive": 127.54,
-        "totalProjectedPointsLive": 142.65113353
+        "totalPointsLive": 133.04,
+        "totalProjectedPointsLive": 147.41435198
       }
     },
     {
@@ -9124,7 +9124,7 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 88.56,
-        "totalProjectedPointsLive": 89.63558663
+        "totalProjectedPointsLive": 89.58314368
       }
     },
     {
@@ -9160,7 +9160,7 @@
         "teamId": 10,
         "totalPoints": 0,
         "totalPointsLive": 114.74,
-        "totalProjectedPointsLive": 128.16951755
+        "totalProjectedPointsLive": 127.51472744
       }
     }
   ],
@@ -13295,10 +13295,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3045523",
-        "name": "Kendrick Bourne",
+        "id": "16733",
+        "name": "Odell Beckham Jr.",
         "position": "WR",
-        "proTeamId": 22,
+        "proTeamId": 19,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -13310,10 +13310,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "16733",
-        "name": "Odell Beckham Jr.",
+        "id": "3045523",
+        "name": "Kendrick Bourne",
         "position": "WR",
-        "proTeamId": 19,
+        "proTeamId": 22,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14375,6 +14375,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "3124679",
+        "name": "Jason Sanders",
+        "position": "K",
+        "proTeamId": 20,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4240631",
         "name": "DeeJay Dallas",
         "position": "RB",
@@ -14394,21 +14409,6 @@
         "name": "LeQuint Allen Jr.",
         "position": "RB",
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3124679",
-        "name": "Jason Sanders",
-        "position": "K",
-        "proTeamId": 20,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
@@ -14615,6 +14615,21 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "3068267",
+        "name": "Austin Ekeler",
+        "position": "RB",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4685279",
         "name": "Jaydon Blue",
         "position": "RB",
@@ -14649,21 +14664,6 @@
         "name": "Myles Price",
         "position": "WR",
         "proTeamId": 16,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3068267",
-        "name": "Austin Ekeler",
-        "position": "RB",
-        "proTeamId": 0,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true
