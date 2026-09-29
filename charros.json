@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-29T09:07:03.414Z",
-  "fingerprint": "9a6c8c96",
+  "generatedAt": "2026-09-29T09:24:00.795Z",
+  "fingerprint": "7311c57d",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -10453,8 +10453,80 @@
       "bidAmount": 0,
       "items": [
         {
+          "playerId": "4430539",
+          "playerName": "Brenton Strange",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4360248",
+          "playerName": "Kyle Pitts Sr.",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4426385",
+          "playerName": "Zach Charbonnet",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4361411",
+          "playerName": "Pat Freiermuth",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
           "playerId": "5083315",
           "playerName": "Kenyon Sadiq",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4360248",
+          "playerName": "Kyle Pitts Sr.",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4576297",
+          "playerName": "AJ Barner",
           "type": "ADD",
           "fromTeamId": 0,
           "toTeamId": 3
@@ -12463,49 +12535,6 @@
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 10,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4034949",
-          "playerName": "Eddy Pineiro",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 5,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16016",
-          "playerName": "Vikings D/ST",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 5
         }
       ]
     }
