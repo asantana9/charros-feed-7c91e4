@@ -1,8 +1,8 @@
 {
   "feedVersion": 2,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-29T07:33:05.192Z",
-  "fingerprint": "a851bc56",
+  "generatedAt": "2026-09-29T07:44:17.343Z",
+  "fingerprint": "18b6b3d9",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -1108,16 +1108,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": -1
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 4.30682871
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": -1
               },
               {
                 "scoringPeriodId": 3,
@@ -1709,16 +1709,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 5.9
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 7.00452148
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 5.9
               },
               {
                 "scoringPeriodId": 3,
@@ -2628,16 +2628,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 3.1
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 8.96069648
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 3.1
               },
               {
                 "scoringPeriodId": 3,
@@ -4171,14 +4171,14 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
               },
               {
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
               },
@@ -4984,16 +4984,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 7.1
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 9.99433958
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 7.1
               },
               {
                 "scoringPeriodId": 3,
@@ -5903,16 +5903,16 @@
             "droppable": false,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 12.62
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 18.09365529
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 12.62
               },
               {
                 "scoringPeriodId": 3,
@@ -6716,16 +6716,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 19.8
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 11.77663375
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 19.8
               },
               {
                 "scoringPeriodId": 3,
@@ -7476,16 +7476,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 12.5
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 15.10925175
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 12.5
               },
               {
                 "scoringPeriodId": 3,
@@ -7582,16 +7582,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 10.8
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 13.69547541
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 10.8
               },
               {
                 "scoringPeriodId": 3,
@@ -7635,16 +7635,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 7.4
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 10.45993886
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 7.4
               },
               {
                 "scoringPeriodId": 3,
@@ -8289,16 +8289,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 9
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 15.71596298
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 9
               },
               {
                 "scoringPeriodId": 3,
@@ -8872,16 +8872,16 @@
             "droppable": true,
             "stats": [
               {
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 10
-              },
-              {
                 "scoringPeriodId": 4,
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 8.34764898
+              },
+              {
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 10
               },
               {
                 "scoringPeriodId": 3,
@@ -9385,6 +9385,30 @@
         {
           "playerId": "4360078",
           "playerName": "Alec Pierce",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4711533",
+          "playerName": "Ollie Gordon II",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4608686",
+          "playerName": "Kyle Monangai",
           "type": "DROP",
           "fromTeamId": 3,
           "toTeamId": 0
