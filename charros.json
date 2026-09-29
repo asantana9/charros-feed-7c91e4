@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-29T09:24:00.795Z",
-  "fingerprint": "7311c57d",
+  "generatedAt": "2026-09-29T09:42:55.033Z",
+  "fingerprint": "8c4c717b",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -15592,51 +15592,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "5081432",
-        "name": "Antonio Williams",
-        "position": "WR",
-        "proTeamId": 28,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 4,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 5.58094363
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 25.3
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 88.06539954
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 74.0692889
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4819231",
         "name": "Kaleb Johnson",
         "position": "RB",
@@ -15672,6 +15627,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 57.57340076
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "5081432",
+        "name": "Antonio Williams",
+        "position": "WR",
+        "proTeamId": 28,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 4,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 5.58094363
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 25.3
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 88.06539954
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 74.0692889
           }
         ]
       }
