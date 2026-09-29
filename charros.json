@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-09-29T08:59:08.732Z",
-  "fingerprint": "8fc78567",
+  "generatedAt": "2026-09-29T09:06:48.186Z",
+  "fingerprint": "9a6c8c96",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -10438,6 +10438,30 @@
         {
           "playerId": "4360078",
           "playerName": "Alec Pierce",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "5083315",
+          "playerName": "Kenyon Sadiq",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4360248",
+          "playerName": "Kyle Pitts Sr.",
           "type": "DROP",
           "fromTeamId": 3,
           "toTeamId": 0
