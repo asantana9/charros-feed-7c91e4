@@ -1,7 +1,7 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-01T03:39:31.140Z",
+  "generatedAt": "2026-10-01T04:27:09.076Z",
   "fingerprint": "7a2d1917",
   "leagueId": 1780066782,
   "seasonId": 2026,
@@ -11426,6 +11426,46 @@
     },
     {
       "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 7,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
+      "status": "CANCELED",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3116165",
+          "playerName": "Chris Godwin Jr.",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 7
+        },
+        {
+          "playerId": "4608686",
+          "playerName": "Kyle Monangai",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 7
+        },
+        {
+          "playerId": "4430027",
+          "playerName": "Sam LaPorta",
+          "type": "TRADE",
+          "fromTeamId": 7,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
       "type": "ROSTER",
       "teamId": 1,
       "scoringPeriodId": 4,
@@ -11517,6 +11557,30 @@
           "type": "DROP",
           "fromTeamId": 3,
           "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3918298",
+          "playerName": "Josh Allen",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4430878",
+          "playerName": "Jaxon Smith-Njigba",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
         }
       ]
     },
@@ -12554,64 +12618,6 @@
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 7,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4429160",
-          "playerName": "De'Von Achane",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4695883",
-          "playerName": "Jalen Coker",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "17372",
-          "playerName": "Chris Boswell",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3054850",
-          "playerName": "Alvin Kamara",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 4
         }
       ]
     }
