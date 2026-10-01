@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-01T02:06:07.121Z",
-  "fingerprint": "91f68864",
+  "generatedAt": "2026-10-01T02:15:31.947Z",
+  "fingerprint": "98104cb6",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -10654,6 +10654,23 @@
       ]
     },
     {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4430878",
+          "playerName": "Jaxon Smith-Njigba",
+          "type": "",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
       "status": "PENDING",
       "type": "TRADE_PROPOSAL",
       "teamId": 3,
@@ -11151,6 +11168,37 @@
           "type": "DROP",
           "fromTeamId": 4,
           "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 7,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4430027",
+          "playerName": "Sam LaPorta",
+          "type": "TRADE",
+          "fromTeamId": 7,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4040715",
+          "playerName": "Jalen Hurts",
+          "type": "TRADE",
+          "fromTeamId": 7,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4430878",
+          "playerName": "Jaxon Smith-Njigba",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 7
         }
       ]
     },
@@ -12547,54 +12595,6 @@
         {
           "playerId": "4612826",
           "playerName": "Ladd McConkey",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4361411",
-          "playerName": "Pat Freiermuth",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 9,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4572680",
-          "playerName": "Tucker Kraft",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "5083076",
-          "playerName": "Harold Fannin Jr.",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
