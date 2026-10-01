@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-01T04:31:57.168Z",
-  "fingerprint": "e29bde31",
+  "generatedAt": "2026-10-01T05:06:59.600Z",
+  "fingerprint": "a6d7125d",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -10219,6 +10219,30 @@
   ],
   "transactions": [
     {
+      "status": "EXECUTED",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 1790752309151,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4426385",
+          "playerName": "Zach Charbonnet",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4361411",
+          "playerName": "Pat Freiermuth",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
       "status": "FAILED_PLAYERALREADYDROPPED",
       "type": "WAIVER",
       "teamId": 3,
@@ -10260,30 +10284,6 @@
         {
           "playerId": "4360248",
           "playerName": "Kyle Pitts Sr.",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 1790752309151,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4426385",
-          "playerName": "Zach Charbonnet",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4361411",
-          "playerName": "Pat Freiermuth",
           "type": "DROP",
           "fromTeamId": 3,
           "toTeamId": 0
@@ -10630,26 +10630,64 @@
       ]
     },
     {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 4,
+      "status": "PENDING",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 3,
       "scoringPeriodId": 4,
       "processDate": 0,
       "bidAmount": 0,
       "items": [
         {
-          "playerId": "15818",
-          "playerName": "Keenan Allen",
-          "type": "ADD",
-          "fromTeamId": 0,
+          "playerId": "4696981",
+          "playerName": "Cam Skattebo",
+          "type": "TRADE",
+          "fromTeamId": 3,
           "toTeamId": 4
         },
         {
-          "playerId": "4360939",
-          "playerName": "Rashod Bateman",
-          "type": "DROP",
+          "playerId": "4361370",
+          "playerName": "Chris Olave",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "3915416",
+          "playerName": "DJ Moore",
+          "type": "TRADE",
           "fromTeamId": 4,
-          "toTeamId": 0
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4567048",
+          "playerName": "Kenneth Walker III",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4567048",
+          "playerName": "Kenneth Walker III",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4361370",
+          "playerName": "Chris Olave",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
         }
       ]
     },
@@ -10660,46 +10698,7 @@
       "scoringPeriodId": 4,
       "processDate": 0,
       "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4430878",
-          "playerName": "Jaxon Smith-Njigba",
-          "type": "",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 8
-        },
-        {
-          "playerId": "4241985",
-          "playerName": "J.K. Dobbins",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 8
-        },
-        {
-          "playerId": "3040151",
-          "playerName": "George Kittle",
-          "type": "TRADE",
-          "fromTeamId": 8,
-          "toTeamId": 3
-        }
-      ]
+      "items": []
     },
     {
       "status": "PENDING",
@@ -10821,30 +10820,6 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
-      "teamId": 8,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4047650",
-          "playerName": "DK Metcalf",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4372016",
-          "playerName": "Jaylen Waddle",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
       "teamId": 7,
       "scoringPeriodId": 4,
       "processDate": 0,
@@ -10860,30 +10835,6 @@
         {
           "playerId": "4429160",
           "playerName": "De'Von Achane",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4428718",
-          "playerName": "Tre Tucker",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4685247",
-          "playerName": "Braelon Allen",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -10916,6 +10867,15 @@
     },
     {
       "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
+      "status": "EXECUTED",
       "type": "ROSTER",
       "teamId": 10,
       "scoringPeriodId": 4,
@@ -10944,30 +10904,6 @@
           "playerName": "Kenyon Sadiq",
           "type": "LINEUP",
           "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 1,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16005",
-          "playerName": "Browns D/ST",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 1
-        },
-        {
-          "playerId": "-16021",
-          "playerName": "Eagles D/ST",
-          "type": "DROP",
-          "fromTeamId": 1,
           "toTeamId": 0
         }
       ]
@@ -11061,54 +10997,6 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
-      "teamId": 8,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3916387",
-          "playerName": "Lamar Jackson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4361741",
-          "playerName": "Brock Purdy",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "CANCELED",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4711533",
-          "playerName": "Ollie Gordon II",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4608686",
-          "playerName": "Kyle Monangai",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
       "teamId": 9,
       "scoringPeriodId": 4,
       "processDate": 0,
@@ -11175,6 +11063,547 @@
           "type": "TRADE",
           "fromTeamId": 7,
           "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 9,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
+      "status": "CANCELED",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360248",
+          "playerName": "Kyle Pitts Sr.",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 8
+        },
+        {
+          "playerId": "4241985",
+          "playerName": "J.K. Dobbins",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 8
+        },
+        {
+          "playerId": "-16023",
+          "playerName": "Steelers D/ST",
+          "type": "TRADE",
+          "fromTeamId": 8,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "3040151",
+          "playerName": "George Kittle",
+          "type": "TRADE",
+          "fromTeamId": 8,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
+      "status": "CANCELED",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4696981",
+          "playerName": "Cam Skattebo",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4361370",
+          "playerName": "Chris Olave",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "3915416",
+          "playerName": "DJ Moore",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4567048",
+          "playerName": "Kenneth Walker III",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4696981",
+          "playerName": "Cam Skattebo",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4361370",
+          "playerName": "Chris Olave",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4428718",
+          "playerName": "Tre Tucker",
+          "type": "DROP",
+          "fromTeamId": 4,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4430539",
+          "playerName": "Brenton Strange",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4360248",
+          "playerName": "Kyle Pitts Sr.",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "-16013",
+          "playerName": "Raiders D/ST",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 7,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "-16009",
+          "playerName": "Packers D/ST",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 7
+        },
+        {
+          "playerId": "-16004",
+          "playerName": "Bengals D/ST",
+          "type": "DROP",
+          "fromTeamId": 7,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 7,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4430027",
+          "playerName": "Sam LaPorta",
+          "type": "TRADE",
+          "fromTeamId": 7,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4040715",
+          "playerName": "Jalen Hurts",
+          "type": "TRADE",
+          "fromTeamId": 7,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4430878",
+          "playerName": "Jaxon Smith-Njigba",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 7
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 7,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
+      "status": "CANCELED",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3116165",
+          "playerName": "Chris Godwin Jr.",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 7
+        },
+        {
+          "playerId": "4608686",
+          "playerName": "Kyle Monangai",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 7
+        },
+        {
+          "playerId": "4430027",
+          "playerName": "Sam LaPorta",
+          "type": "TRADE",
+          "fromTeamId": 7,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "5083315",
+          "playerName": "Kenyon Sadiq",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4360248",
+          "playerName": "Kyle Pitts Sr.",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
+      "status": "PENDING",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3918298",
+          "playerName": "Josh Allen",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4430878",
+          "playerName": "Jaxon Smith-Njigba",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "15818",
+          "playerName": "Keenan Allen",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4360939",
+          "playerName": "Rashod Bateman",
+          "type": "DROP",
+          "fromTeamId": 4,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4430878",
+          "playerName": "Jaxon Smith-Njigba",
+          "type": "",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360248",
+          "playerName": "Kyle Pitts Sr.",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 8
+        },
+        {
+          "playerId": "4241985",
+          "playerName": "J.K. Dobbins",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 8
+        },
+        {
+          "playerId": "3040151",
+          "playerName": "George Kittle",
+          "type": "TRADE",
+          "fromTeamId": 8,
+          "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 8,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4047650",
+          "playerName": "DK Metcalf",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4372016",
+          "playerName": "Jaylen Waddle",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4428718",
+          "playerName": "Tre Tucker",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4685247",
+          "playerName": "Braelon Allen",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 1,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "-16005",
+          "playerName": "Browns D/ST",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 1
+        },
+        {
+          "playerId": "-16021",
+          "playerName": "Eagles D/ST",
+          "type": "DROP",
+          "fromTeamId": 1,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 8,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3916387",
+          "playerName": "Lamar Jackson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4361741",
+          "playerName": "Brock Purdy",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4711533",
+          "playerName": "Ollie Gordon II",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4608686",
+          "playerName": "Kyle Monangai",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3918298",
+          "playerName": "Josh Allen",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4430878",
+          "playerName": "Jaxon Smith-Njigba",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
         }
       ]
     },
@@ -11258,109 +11687,6 @@
       ]
     },
     {
-      "status": "CANCELED",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 8
-        },
-        {
-          "playerId": "4241985",
-          "playerName": "J.K. Dobbins",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 8
-        },
-        {
-          "playerId": "-16023",
-          "playerName": "Steelers D/ST",
-          "type": "TRADE",
-          "fromTeamId": 8,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "3040151",
-          "playerName": "George Kittle",
-          "type": "TRADE",
-          "fromTeamId": 8,
-          "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4430539",
-          "playerName": "Brenton Strange",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16013",
-          "playerName": "Raiders D/ST",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 7,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16009",
-          "playerName": "Packers D/ST",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 7
-        },
-        {
-          "playerId": "-16004",
-          "playerName": "Bengals D/ST",
-          "type": "DROP",
-          "fromTeamId": 7,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
       "status": "PENDING",
       "type": "TRADE_PROPOSAL",
       "teamId": 3,
@@ -11385,82 +11711,49 @@
       ]
     },
     {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 7,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
       "status": "PENDING",
       "type": "TRADE_PROPOSAL",
-      "teamId": 7,
+      "teamId": 4,
       "scoringPeriodId": 4,
       "processDate": 0,
       "bidAmount": 0,
       "items": [
         {
-          "playerId": "4430027",
-          "playerName": "Sam LaPorta",
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
           "type": "TRADE",
-          "fromTeamId": 7,
+          "fromTeamId": 4,
           "toTeamId": 3
         },
         {
-          "playerId": "4040715",
-          "playerName": "Jalen Hurts",
-          "type": "TRADE",
-          "fromTeamId": 7,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4430878",
-          "playerName": "Jaxon Smith-Njigba",
+          "playerId": "4696981",
+          "playerName": "Cam Skattebo",
           "type": "TRADE",
           "fromTeamId": 3,
-          "toTeamId": 7
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 7,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 7,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
-    },
-    {
-      "status": "CANCELED",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3116165",
-          "playerName": "Chris Godwin Jr.",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 7
+          "toTeamId": 4
         },
         {
-          "playerId": "4608686",
-          "playerName": "Kyle Monangai",
+          "playerId": "4361370",
+          "playerName": "Chris Olave",
           "type": "TRADE",
           "fromTeamId": 3,
-          "toTeamId": 7
+          "toTeamId": 4
         },
         {
-          "playerId": "4430027",
-          "playerName": "Sam LaPorta",
-          "type": "TRADE",
-          "fromTeamId": 7,
-          "toTeamId": 3
+          "playerId": "4428718",
+          "playerName": "Tre Tucker",
+          "type": "DROP",
+          "fromTeamId": 4,
+          "toTeamId": 0
         }
       ]
     },
@@ -11484,30 +11777,6 @@
           "playerName": "Jared Goff",
           "type": "LINEUP",
           "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "5083315",
-          "playerName": "Kenyon Sadiq",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "DROP",
-          "fromTeamId": 3,
           "toTeamId": 0
         }
       ]
@@ -11557,30 +11826,6 @@
           "type": "DROP",
           "fromTeamId": 3,
           "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 4,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3918298",
-          "playerName": "Josh Allen",
-          "type": "TRADE",
-          "fromTeamId": 4,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4430878",
-          "playerName": "Jaxon Smith-Njigba",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 4
         }
       ]
     },
@@ -12352,269 +12597,6 @@
         {
           "playerId": "3116365",
           "playerName": "Mark Andrews",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 6,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3917315",
-          "playerName": "Kyler Murray",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4431611",
-          "playerName": "Caleb Williams",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "CANCELED",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4688813",
-          "playerName": "Josh Downs",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 2,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3912547",
-          "playerName": "Sam Darnold",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 2
-        },
-        {
-          "playerId": "3052587",
-          "playerName": "Baker Mayfield",
-          "type": "DROP",
-          "fromTeamId": 2,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 5,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4032473",
-          "playerName": "Rashid Shaheed",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "2976212",
-          "playerName": "Stefon Diggs",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 6,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "2576925",
-          "playerName": "Darren Waller",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 6
-        },
-        {
-          "playerId": "4686658",
-          "playerName": "Mike Washington Jr.",
-          "type": "DROP",
-          "fromTeamId": 6,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 2,
-      "scoringPeriodId": 0,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4432665",
-          "playerName": "Brock Bowers",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4612826",
-          "playerName": "Ladd McConkey",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4685472",
-          "playerName": "Tetairoa McMillan",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4036378",
-          "playerName": "Jordan Love",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3912547",
-          "playerName": "Sam Darnold",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 6,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4432577",
-          "playerName": "C.J. Stroud",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 6
-        },
-        {
-          "playerId": "4431611",
-          "playerName": "Caleb Williams",
-          "type": "DROP",
-          "fromTeamId": 6,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 7,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4430027",
-          "playerName": "Sam LaPorta",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "15847",
-          "playerName": "Travis Kelce",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FUTURE_ROSTER",
-      "teamId": 2,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4612826",
-          "playerName": "Ladd McConkey",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4685472",
-          "playerName": "Tetairoa McMillan",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 7,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4428718",
-          "playerName": "Tre Tucker",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4360939",
-          "playerName": "Rashod Bateman",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
