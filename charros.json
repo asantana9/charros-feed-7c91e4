@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-01T17:45:31.620Z",
-  "fingerprint": "b17d7aa8",
+  "generatedAt": "2026-10-01T17:52:32.261Z",
+  "fingerprint": "e6e1a99f",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -2239,10 +2239,10 @@
         }
       },
       "transactionCounter": {
-        "acquisitions": 12,
-        "drops": 11,
+        "acquisitions": 13,
+        "drops": 12,
         "trades": 1,
-        "moveToActive": 9,
+        "moveToActive": 10,
         "moveToIR": 1
       },
       "roster": [
@@ -2783,65 +2783,6 @@
           "status": "ONTEAM",
           "onTeamId": 3,
           "player": {
-            "id": "4608686",
-            "name": "Kyle Monangai",
-            "position": "RB",
-            "proTeamId": 3,
-            "injuryStatus": "ACTIVE",
-            "injured": false,
-            "droppable": true,
-            "stats": [
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 3,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 3.1
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.38749157
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 3,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.46108771
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 31.3
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 2,
-                "appliedTotal": 156.89174658
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 112.65153288
-              }
-            ]
-          }
-        },
-        {
-          "lineupSlotId": 16,
-          "lineupSlot": "D/ST",
-          "status": "ONTEAM",
-          "onTeamId": 3,
-          "player": {
             "id": "-16034",
             "name": "Texans D/ST",
             "position": "D/ST",
@@ -3245,6 +3186,65 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
                 "appliedTotal": 230.86446368
+              }
+            ]
+          }
+        },
+        {
+          "lineupSlotId": 16,
+          "lineupSlot": "D/ST",
+          "status": "ONTEAM",
+          "onTeamId": 3,
+          "player": {
+            "id": "-16003",
+            "name": "Bears D/ST",
+            "position": "D/ST",
+            "proTeamId": 3,
+            "injuryStatus": "ACTIVE",
+            "injured": false,
+            "droppable": true,
+            "stats": [
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 3,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 13
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 6.272431
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 3,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 4.19505771
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 23
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 2,
+                "appliedTotal": 63.49997462
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 1,
+                "statSplitTypeId": 0,
+                "appliedTotal": 58.92815782
               }
             ]
           }
@@ -10141,7 +10141,7 @@
         "teamId": 3,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 135.16933375
+        "totalProjectedPointsLive": 136.55422642
       }
     },
     {
@@ -11172,6 +11172,30 @@
       "items": []
     },
     {
+      "status": "EXECUTED",
+      "type": "FREEAGENT",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "-16003",
+          "playerName": "Bears D/ST",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4608686",
+          "playerName": "Kyle Monangai",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
       "status": "CANCELED",
       "type": "TRADE_PROPOSAL",
       "teamId": 3,
@@ -11601,6 +11625,30 @@
         {
           "playerId": "4372016",
           "playerName": "Jaylen Waddle",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "-16034",
+          "playerName": "Texans D/ST",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "-16003",
+          "playerName": "Bears D/ST",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -12547,68 +12595,6 @@
           "toTeamId": 4
         }
       ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4360939",
-          "playerName": "Rashod Bateman",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4262921",
-          "playerName": "Justin Jefferson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "CANCELED",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4038941",
-          "playerName": "Justin Herbert",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 7
-        },
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 7
-        },
-        {
-          "playerId": "4241416",
-          "playerName": "Chuba Hubbard",
-          "type": "TRADE",
-          "fromTeamId": 7,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "16800",
-          "playerName": "Davante Adams",
-          "type": "TRADE",
-          "fromTeamId": 7,
-          "toTeamId": 3
-        }
-      ]
     }
   ],
   "availablePlayers": [
@@ -12788,6 +12774,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 92.82588024
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4608686",
+        "name": "Kyle Monangai",
+        "position": "RB",
+        "proTeamId": 3,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 4,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 8.38749157
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 31.3
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 156.89174658
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 112.65153288
           }
         ]
       }
@@ -14266,51 +14297,6 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 82.60093491
-          }
-        ]
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "-16003",
-        "name": "Bears D/ST",
-        "position": "D/ST",
-        "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 4,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 6.272431
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 23
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 63.49997462
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 58.92815782
           }
         ]
       }
