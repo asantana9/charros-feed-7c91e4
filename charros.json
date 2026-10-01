@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-01T20:10:29.524Z",
-  "fingerprint": "4921b027",
+  "generatedAt": "2026-10-01T20:26:04.941Z",
+  "fingerprint": "a00317f9",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -5662,7 +5662,7 @@
             "name": "Tony Pollard",
             "position": "RB",
             "proTeamId": 10,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -28023,7 +28023,7 @@
         "name": "Nate Boerkircher",
         "position": "TE",
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true,
         "stats": [
