@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-01T17:43:00.021Z",
-  "fingerprint": "eb43bf11",
+  "generatedAt": "2026-10-01T17:45:31.620Z",
+  "fingerprint": "b17d7aa8",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -302,7 +302,7 @@
         "acquisitions": 4,
         "drops": 4,
         "trades": 0,
-        "moveToActive": 12,
+        "moveToActive": 14,
         "moveToIR": 0
       },
       "roster": [
@@ -602,8 +602,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 6,
+          "lineupSlot": "TE",
           "status": "ONTEAM",
           "onTeamId": 1,
           "player": {
@@ -720,8 +720,8 @@
           }
         },
         {
-          "lineupSlotId": 0,
-          "lineupSlot": "QB",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 1,
           "player": {
@@ -838,8 +838,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 0,
+          "lineupSlot": "QB",
           "status": "ONTEAM",
           "onTeamId": 1,
           "player": {
@@ -956,8 +956,8 @@
           }
         },
         {
-          "lineupSlotId": 6,
-          "lineupSlot": "TE",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 1,
           "player": {
@@ -10153,7 +10153,7 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 115.81523169
+        "totalProjectedPointsLive": 119.16797736
       },
       "away": {
         "teamId": 4,
@@ -10712,6 +10712,30 @@
           "type": "TRADE",
           "fromTeamId": 4,
           "toTeamId": 3
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 1,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4431459",
+          "playerName": "Tyler Warren",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4385690",
+          "playerName": "Dalton Kincaid",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
         }
       ]
     },
@@ -11658,6 +11682,30 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 1,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3046779",
+          "playerName": "Jared Goff",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "12483",
+          "playerName": "Matthew Stafford",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 8,
       "scoringPeriodId": 4,
       "processDate": 0,
@@ -12559,54 +12607,6 @@
           "type": "TRADE",
           "fromTeamId": 7,
           "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "5083315",
-          "playerName": "Kenyon Sadiq",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4608686",
-          "playerName": "Kyle Monangai",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 7,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4429160",
-          "playerName": "De'Von Achane",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4241416",
-          "playerName": "Chuba Hubbard",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
         }
       ]
     }
