@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-01T05:06:59.600Z",
-  "fingerprint": "a6d7125d",
+  "generatedAt": "2026-10-01T05:09:37.191Z",
+  "fingerprint": "69ba6fdd",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -3271,7 +3271,7 @@
         "acquisitions": 22,
         "drops": 18,
         "trades": 1,
-        "moveToActive": 24,
+        "moveToActive": 25,
         "moveToIR": 1
       },
       "roster": [
@@ -3512,8 +3512,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 6,
+          "lineupSlot": "TE",
           "status": "ONTEAM",
           "onTeamId": 4,
           "player": {
@@ -3772,8 +3772,8 @@
           }
         },
         {
-          "lineupSlotId": 6,
-          "lineupSlot": "TE",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 4,
           "player": {
@@ -10159,7 +10159,7 @@
         "teamId": 4,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 131.64460505
+        "totalProjectedPointsLive": 132.63265343
       }
     },
     {
@@ -10990,6 +10990,30 @@
           "playerName": "Pat Freiermuth",
           "type": "DROP",
           "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3116365",
+          "playerName": "Mark Andrews",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "3117256",
+          "playerName": "Dalton Schultz",
+          "type": "LINEUP",
+          "fromTeamId": 0,
           "toTeamId": 0
         }
       ]
@@ -12573,30 +12597,6 @@
         {
           "playerId": "4362081",
           "playerName": "Cameron Dicker",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3117256",
-          "playerName": "Dalton Schultz",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3116365",
-          "playerName": "Mark Andrews",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
