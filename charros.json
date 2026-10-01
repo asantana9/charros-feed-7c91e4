@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-01T20:31:06.001Z",
-  "fingerprint": "1a9aac79",
+  "generatedAt": "2026-10-01T22:04:50.514Z",
+  "fingerprint": "79bc3b73",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -7189,7 +7189,7 @@
             "name": "Lamar Jackson",
             "position": "QB",
             "proTeamId": 33,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": false,
             "stats": [
@@ -27003,7 +27003,7 @@
         "name": "Durham Smythe",
         "position": "TE",
         "proTeamId": 33,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
         "stats": [
