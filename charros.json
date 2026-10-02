@@ -1,7 +1,7 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-02T01:29:40.217Z",
+  "generatedAt": "2026-10-02T01:29:55.858Z",
   "fingerprint": "d12b25a6",
   "leagueId": 1780066782,
   "seasonId": 2026,
@@ -10205,7 +10205,7 @@
         "teamId": 9,
         "totalPoints": 0,
         "totalPointsLive": 2.3,
-        "totalProjectedPointsLive": 124.85992944
+        "totalProjectedPointsLive": 124.78585336
       },
       "away": {
         "teamId": 3,
@@ -10223,7 +10223,7 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 21,
-        "totalProjectedPointsLive": 125.9806435
+        "totalProjectedPointsLive": 125.92145146
       },
       "away": {
         "teamId": 4,
@@ -10247,7 +10247,7 @@
         "teamId": 8,
         "totalPoints": 0,
         "totalPointsLive": 23.5,
-        "totalProjectedPointsLive": 121.10888278
+        "totalProjectedPointsLive": 120.89674957
       }
     },
     {
