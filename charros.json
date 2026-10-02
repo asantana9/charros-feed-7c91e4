@@ -1,7 +1,7 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-02T01:28:24.694Z",
+  "generatedAt": "2026-10-02T01:28:50.458Z",
   "fingerprint": "d12b25a6",
   "leagueId": 1780066782,
   "seasonId": 2026,
@@ -7601,14 +7601,14 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 35
+                "appliedTotal": 34
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 4,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 4
+                "appliedTotal": 3
               },
               {
                 "seasonId": 2026,
@@ -7785,14 +7785,14 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 25.2
+                "appliedTotal": 28.7
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 4,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 6.3
+                "appliedTotal": 9.8
               },
               {
                 "seasonId": 2026,
@@ -10205,7 +10205,7 @@
         "teamId": 9,
         "totalPoints": 0,
         "totalPointsLive": 2.3,
-        "totalProjectedPointsLive": 125.04175253
+        "totalProjectedPointsLive": 125.01369341
       },
       "away": {
         "teamId": 3,
@@ -10223,7 +10223,7 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 20.9,
-        "totalProjectedPointsLive": 126.02593306
+        "totalProjectedPointsLive": 126.00351183
       },
       "away": {
         "teamId": 4,
@@ -10246,8 +10246,8 @@
       "away": {
         "teamId": 8,
         "totalPoints": 0,
-        "totalPointsLive": 24.5,
-        "totalProjectedPointsLive": 122.07337341
+        "totalPointsLive": 23.5,
+        "totalProjectedPointsLive": 121.54921992
       }
     },
     {
@@ -16024,14 +16024,14 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 59.62
+            "appliedTotal": 60.62
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 4,
             "statSourceId": 0,
             "statSplitTypeId": 1,
-            "appliedTotal": 5.64
+            "appliedTotal": 6.64
           },
           {
             "seasonId": 2026,
