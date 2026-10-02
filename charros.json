@@ -1,7 +1,7 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-02T01:28:52.648Z",
+  "generatedAt": "2026-10-02T01:29:40.217Z",
   "fingerprint": "d12b25a6",
   "leagueId": 1780066782,
   "seasonId": 2026,
@@ -575,14 +575,14 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 37.6
+                "appliedTotal": 37.7
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 4,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 10.9
+                "appliedTotal": 11
               },
               {
                 "seasonId": 2026,
@@ -10205,7 +10205,7 @@
         "teamId": 9,
         "totalPoints": 0,
         "totalPointsLive": 2.3,
-        "totalProjectedPointsLive": 125.01369341
+        "totalProjectedPointsLive": 124.85992944
       },
       "away": {
         "teamId": 3,
@@ -10222,8 +10222,8 @@
       "home": {
         "teamId": 1,
         "totalPoints": 0,
-        "totalPointsLive": 20.9,
-        "totalProjectedPointsLive": 126.00351183
+        "totalPointsLive": 21,
+        "totalProjectedPointsLive": 125.9806435
       },
       "away": {
         "teamId": 4,
@@ -10247,7 +10247,7 @@
         "teamId": 8,
         "totalPoints": 0,
         "totalPointsLive": 23.5,
-        "totalProjectedPointsLive": 121.54921992
+        "totalProjectedPointsLive": 121.10888278
       }
     },
     {
