@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-03T16:41:12.961Z",
-  "fingerprint": "bedd4ab3",
+  "generatedAt": "2026-10-03T17:13:03.585Z",
+  "fingerprint": "74ff79b9",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -8267,8 +8267,8 @@
         "acquisitions": 6,
         "drops": 5,
         "trades": 1,
-        "moveToActive": 10,
-        "moveToIR": 1
+        "moveToActive": 11,
+        "moveToIR": 2
       },
       "roster": [
         {
@@ -8390,8 +8390,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 21,
+          "lineupSlot": "IR",
           "status": "ONTEAM",
           "onTeamId": 9,
           "player": {
@@ -8810,8 +8810,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 9,
           "player": {
@@ -9164,8 +9164,8 @@
           }
         },
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 9,
           "player": {
@@ -10264,7 +10264,7 @@
         "teamId": 9,
         "totalPoints": 0,
         "totalPointsLive": 11.7,
-        "totalProjectedPointsLive": 129.34195252
+        "totalProjectedPointsLive": 132.89811597
       },
       "away": {
         "teamId": 3,
@@ -11302,6 +11302,30 @@
         {
           "playerId": "3117256",
           "playerName": "Dalton Schultz",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 9,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4429205",
+          "playerName": "Jordan Addison",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4428850",
+          "playerName": "Dontayvion Wicks",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -12445,6 +12469,23 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 9,
+      "scoringPeriodId": 4,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4241478",
+          "playerName": "DeVonta Smith",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 6,
       "scoringPeriodId": 4,
       "processDate": 0,
@@ -12656,39 +12697,6 @@
           "toTeamId": 0
         }
       ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 5,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4032473",
-          "playerName": "Rashid Shaheed",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 5
-        },
-        {
-          "playerId": "-16027",
-          "playerName": "Buccaneers D/ST",
-          "type": "DROP",
-          "fromTeamId": 5,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 4,
-      "scoringPeriodId": 3,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
     }
   ],
   "availablePlayers": [
