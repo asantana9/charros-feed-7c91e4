@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-06T16:58:29.648Z",
-  "fingerprint": "984d13c1",
+  "generatedAt": "2026-10-06T20:52:14.908Z",
+  "fingerprint": "993f78f9",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -1331,8 +1331,8 @@
         "acquisitions": 2,
         "drops": 2,
         "trades": 0,
-        "moveToActive": 12,
-        "moveToIR": 0
+        "moveToActive": 14,
+        "moveToIR": 1
       },
       "roster": [
         {
@@ -1395,8 +1395,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 23,
+          "lineupSlot": "FLEX",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -1513,8 +1513,8 @@
           }
         },
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -1572,8 +1572,8 @@
           }
         },
         {
-          "lineupSlotId": 23,
-          "lineupSlot": "FLEX",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -1808,8 +1808,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 21,
+          "lineupSlot": "IR",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -1926,8 +1926,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -2669,8 +2669,8 @@
             "name": "Rico Dowdle",
             "position": "RB",
             "proTeamId": 23,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "QUESTIONABLE",
+            "injured": false,
             "droppable": true,
             "stats": [
               {
@@ -3344,8 +3344,8 @@
             "name": "Justin Jefferson",
             "position": "WR",
             "proTeamId": 16,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "QUESTIONABLE",
+            "injured": false,
             "droppable": false,
             "stats": [
               {
@@ -4076,8 +4076,8 @@
             "name": "Keenan Allen",
             "position": "WR",
             "proTeamId": 11,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "QUESTIONABLE",
+            "injured": false,
             "droppable": true,
             "stats": [
               {
@@ -4692,8 +4692,8 @@
             "name": "Dallas Goedert",
             "position": "TE",
             "proTeamId": 21,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "DOUBTFUL",
+            "injured": false,
             "droppable": true,
             "stats": [
               {
@@ -5485,8 +5485,8 @@
             "name": "Breece Hall",
             "position": "RB",
             "proTeamId": 20,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "DOUBTFUL",
+            "injured": false,
             "droppable": true,
             "stats": [
               {
@@ -5603,8 +5603,8 @@
             "name": "Terry McLaurin",
             "position": "WR",
             "proTeamId": 28,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "QUESTIONABLE",
+            "injured": false,
             "droppable": true,
             "stats": [
               {
@@ -7104,8 +7104,8 @@
             "name": "Jalen Coker",
             "position": "WR",
             "proTeamId": 29,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "QUESTIONABLE",
+            "injured": false,
             "droppable": true,
             "stats": [
               {
@@ -8336,8 +8336,8 @@
             "name": "DeVonta Smith",
             "position": "WR",
             "proTeamId": 21,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "QUESTIONABLE",
+            "injured": false,
             "droppable": true,
             "stats": [
               {
@@ -8976,8 +8976,8 @@
           }
         },
         {
-          "lineupSlotId": 16,
-          "lineupSlot": "D/ST",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 9,
           "player": {
@@ -9483,8 +9483,8 @@
             "name": "Jayden Daniels",
             "position": "QB",
             "proTeamId": 28,
-            "injuryStatus": "OUT",
-            "injured": true,
+            "injuryStatus": "QUESTIONABLE",
+            "injured": false,
             "droppable": true,
             "stats": [
               {
@@ -10218,7 +10218,7 @@
         "teamId": 2,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 105.50115682
+        "totalProjectedPointsLive": 116.92183958
       }
     },
     {
@@ -10230,7 +10230,7 @@
         "teamId": 4,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 94.00547638
+        "totalProjectedPointsLive": 112.49493579
       },
       "away": {
         "teamId": 10,
@@ -10643,12 +10643,46 @@
     },
     {
       "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 9,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "-16012",
+          "playerName": "Chiefs D/ST",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
       "type": "TRADE_DECLINE",
       "teamId": 4,
       "scoringPeriodId": 5,
       "processDate": 0,
       "bidAmount": 0,
       "items": []
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 2,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4685512",
+          "playerName": "Jadarian Price",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
     },
     {
       "status": "PENDING",
@@ -10844,6 +10878,30 @@
       ]
     },
     {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 2,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4685382",
+          "playerName": "Omarion Hampton",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4685472",
+          "playerName": "Tetairoa McMillan",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
       "status": "PENDING",
       "type": "WAIVER",
       "teamId": 3,
@@ -10995,6 +11053,30 @@
       ]
     },
     {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 2,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4870795",
+          "playerName": "Makai Lemon",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4612826",
+          "playerName": "Ladd McConkey",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
       "status": "CANCELED",
       "type": "WAIVER",
       "teamId": 3,
@@ -11038,6 +11120,30 @@
           "playerName": "Darren Waller",
           "type": "LINEUP",
           "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "WAIVER",
+      "teamId": 4,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3116385",
+          "playerName": "Joe Mixon",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4362081",
+          "playerName": "Cameron Dicker",
+          "type": "DROP",
+          "fromTeamId": 4,
           "toTeamId": 0
         }
       ]
@@ -12646,119 +12752,6 @@
           "toTeamId": 0
         }
       ]
-    },
-    {
-      "status": "PENDING",
-      "type": "TRADE_PROPOSAL",
-      "teamId": 4,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3918298",
-          "playerName": "Josh Allen",
-          "type": "TRADE",
-          "fromTeamId": 4,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4430878",
-          "playerName": "Jaxon Smith-Njigba",
-          "type": "TRADE",
-          "fromTeamId": 3,
-          "toTeamId": 4
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4608686",
-          "playerName": "Kyle Monangai",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "-16003",
-          "playerName": "Bears D/ST",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 4,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "15818",
-          "playerName": "Keenan Allen",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 4
-        },
-        {
-          "playerId": "4360939",
-          "playerName": "Rashod Bateman",
-          "type": "DROP",
-          "fromTeamId": 4,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4430878",
-          "playerName": "Jaxon Smith-Njigba",
-          "type": "",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "15818",
-          "playerName": "Keenan Allen",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3915416",
-          "playerName": "DJ Moore",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
     }
   ],
   "availablePlayers": [
@@ -13042,8 +13035,8 @@
         "name": "Rachaad White",
         "position": "RB",
         "proTeamId": 28,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -13398,51 +13391,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4678008",
-        "name": "Jonathon Brooks",
-        "position": "RB",
-        "proTeamId": 29,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 9.3
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4429023",
         "name": "MarShawn Lloyd",
         "position": "RB",
@@ -13478,6 +13426,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 50.94858846
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4678008",
+        "name": "Jonathon Brooks",
+        "position": "RB",
+        "proTeamId": 29,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 9.3
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
           }
         ]
       }
@@ -14160,7 +14153,7 @@
         "name": "Chase McLaughlin",
         "position": "K",
         "proTeamId": 27,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true,
         "stats": [
@@ -14205,8 +14198,8 @@
         "name": "Adonai Mitchell",
         "position": "WR",
         "proTeamId": 20,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "DOUBTFUL",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -14772,51 +14765,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4869645",
-        "name": "Caleb Douglas",
-        "position": "WR",
-        "proTeamId": 15,
-        "injuryStatus": "OUT",
-        "injured": true,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 18.3
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 8.01600669
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 152.29590301
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 103.7582989
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4596334",
         "name": "Keaton Mitchell",
         "position": "RB",
@@ -14852,6 +14800,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 99.86467566
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4869645",
+        "name": "Caleb Douglas",
+        "position": "WR",
+        "proTeamId": 15,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 18.3
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 8.01600669
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 152.29590301
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 103.7582989
           }
         ]
       }
@@ -14907,51 +14900,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4869461",
-        "name": "Trey Smack",
-        "position": "K",
-        "proTeamId": 9,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 29
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 8.3865244
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 141.6916867
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 110.63385748
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "-16004",
         "name": "Bengals D/ST",
         "position": "D/ST",
@@ -14987,6 +14935,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 70.23410283
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4869461",
+        "name": "Trey Smack",
+        "position": "K",
+        "proTeamId": 9,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 29
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 8.3865244
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 141.6916867
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 110.63385748
           }
         ]
       }
@@ -15492,51 +15485,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3925357",
-        "name": "Calvin Ridley",
-        "position": "WR",
-        "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 7.8
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 2.76998043
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 106.55468064
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 36.48049212
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "-16013",
         "name": "Raiders D/ST",
         "position": "D/ST",
@@ -15582,10 +15530,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "-16029",
-        "name": "Panthers D/ST",
-        "position": "D/ST",
-        "proTeamId": 29,
+        "id": "3925357",
+        "name": "Calvin Ridley",
+        "position": "WR",
+        "proTeamId": 10,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
@@ -15595,28 +15543,28 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 18
+            "appliedTotal": 7.8
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 5,
             "statSourceId": 1,
             "statSplitTypeId": 1,
-            "appliedTotal": 0
+            "appliedTotal": 2.76998043
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 2,
-            "appliedTotal": 54.25655871
+            "appliedTotal": 106.55468064
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 61.21240835
+            "appliedTotal": 36.48049212
           }
         ]
       }
@@ -15662,6 +15610,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 74.11940417
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "-16029",
+        "name": "Panthers D/ST",
+        "position": "D/ST",
+        "proTeamId": 29,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 18
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 54.25655871
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 61.21240835
           }
         ]
       }
@@ -15887,30 +15880,6 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 83.1725874
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3116385",
-        "name": "Joe Mixon",
-        "position": "RB",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
           }
         ]
       }
@@ -16191,11 +16160,11 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4695404",
-        "name": "Isaiah Davis",
+        "id": "3116385",
+        "name": "Joe Mixon",
         "position": "RB",
-        "proTeamId": 20,
-        "injuryStatus": "ACTIVE",
+        "proTeamId": 0,
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true,
         "stats": [
@@ -16203,20 +16172,6 @@
             "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 0
           }
@@ -16257,6 +16212,44 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 63.74564013
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4695404",
+        "name": "Isaiah Davis",
+        "position": "RB",
+        "proTeamId": 20,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
           }
         ]
       }
@@ -17257,51 +17250,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4837248",
-        "name": "Fernando Mendoza",
-        "position": "QB",
-        "proTeamId": 13,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 200.08158748
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 130.7616548
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4635008",
         "name": "Keon Coleman",
         "position": "WR",
@@ -17337,6 +17285,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 104.54645264
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4837248",
+        "name": "Fernando Mendoza",
+        "position": "QB",
+        "proTeamId": 13,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 200.08158748
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 130.7616548
           }
         ]
       }
@@ -18302,44 +18295,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3068267",
-        "name": "Austin Ekeler",
-        "position": "RB",
-        "proTeamId": 28,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 3.80137475
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 47.15275379
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4360516",
         "name": "Tyrone Tracy Jr.",
         "position": "RB",
@@ -18375,6 +18330,44 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 23.05252652
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3068267",
+        "name": "Austin Ekeler",
+        "position": "RB",
+        "proTeamId": 28,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 3.80137475
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 47.15275379
           }
         ]
       }
@@ -18468,51 +18461,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "5123663",
-        "name": "Isaac TeSlaa",
-        "position": "WR",
-        "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 27.7
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 7.5859581
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 76.39257736
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 93.59454099
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4249087",
         "name": "Matt Gay",
         "position": "K",
@@ -18558,10 +18506,10 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4360763",
-        "name": "Brycen Tremayne",
+        "id": "5123663",
+        "name": "Isaac TeSlaa",
         "position": "WR",
-        "proTeamId": 29,
+        "proTeamId": 8,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
@@ -18571,28 +18519,28 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 17.5
+            "appliedTotal": 27.7
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 5,
             "statSourceId": 1,
             "statSplitTypeId": 1,
-            "appliedTotal": 0
+            "appliedTotal": 7.5859581
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 2,
-            "appliedTotal": 0
+            "appliedTotal": 76.39257736
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 65.70398975
+            "appliedTotal": 93.59454099
           }
         ]
       }
@@ -18638,6 +18586,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 94.92225146
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4360763",
+        "name": "Brycen Tremayne",
+        "position": "WR",
+        "proTeamId": 29,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 17.5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 65.70398975
           }
         ]
       }
@@ -18738,51 +18731,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4242433",
-        "name": "Joshua Palmer",
-        "position": "WR",
-        "proTeamId": 2,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 23
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 2.48181201
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 58.48241453
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 33.14109264
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "3915411",
         "name": "Ty Johnson",
         "position": "RB",
@@ -18863,6 +18811,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 73.29533966
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4242433",
+        "name": "Joshua Palmer",
+        "position": "WR",
+        "proTeamId": 2,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 23
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 2.48181201
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 58.48241453
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 33.14109264
           }
         ]
       }
@@ -18960,8 +18953,8 @@
         "name": "Noah Fant",
         "position": "TE",
         "proTeamId": 18,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -19046,44 +19039,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4433970",
-        "name": "J.J. McCarthy",
-        "position": "QB",
-        "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 136.20709834
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "-16001",
         "name": "Falcons D/ST",
         "position": "D/ST",
@@ -19119,6 +19074,44 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 88.59356245
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4433970",
+        "name": "J.J. McCarthy",
+        "position": "QB",
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 136.20709834
           }
         ]
       }
@@ -19963,51 +19956,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4912274",
-        "name": "Sione Vaki",
-        "position": "RB",
-        "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 13.2
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 4.30681618
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 89.80576209
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 53.49338323
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4239934",
         "name": "AJ Dillon",
         "position": "RB",
@@ -20081,6 +20029,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 43.32695057
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4912274",
+        "name": "Sione Vaki",
+        "position": "RB",
+        "proTeamId": 8,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 13.2
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 4.30681618
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 89.80576209
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 53.49338323
           }
         ]
       }
@@ -20309,6 +20302,51 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4431545",
+        "name": "Will Shipley",
+        "position": "RB",
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 11.5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 10.35058662
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 34.19317733
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 80.74587389
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4685555",
         "name": "Nicholas Singleton",
         "position": "RB",
@@ -20351,8 +20389,8 @@
         "name": "Colby Parkinson",
         "position": "TE",
         "proTeamId": 14,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -20382,51 +20420,6 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 60.84090888
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4431545",
-        "name": "Will Shipley",
-        "position": "RB",
-        "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 11.5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 10.35058662
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 34.19317733
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 80.74587389
           }
         ]
       }
@@ -21181,51 +21174,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4430656",
-        "name": "Myles Price",
-        "position": "WR",
-        "proTeamId": 16,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 8.8
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0.767982
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 3.69549633
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 9.49368594
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "16002",
         "name": "Kyle Juszczyk",
         "position": "RB",
@@ -21261,6 +21209,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 30.28082392
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4430656",
+        "name": "Myles Price",
+        "position": "WR",
+        "proTeamId": 16,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 8.8
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0.767982
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 3.69549633
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 9.49368594
           }
         ]
       }
@@ -21759,8 +21752,8 @@
         "name": "Chris Moore",
         "position": "WR",
         "proTeamId": 33,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -22181,8 +22174,8 @@
         "name": "Hollywood Brown",
         "position": "WR",
         "proTeamId": 21,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -22340,8 +22333,8 @@
         "name": "Mason Taylor",
         "position": "TE",
         "proTeamId": 20,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "DOUBTFUL",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -22872,6 +22865,44 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4715355",
+        "name": "Darius Cooper",
+        "position": "WR",
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 28.9
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 9.47834721
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 27.53512327
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4685307",
         "name": "Kevin Coleman Jr.",
         "position": "WR",
@@ -23000,44 +23031,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4715355",
-        "name": "Darius Cooper",
-        "position": "WR",
-        "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 28.9
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 9.47834721
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 27.53512327
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "5529",
         "name": "Philip Rivers",
         "position": "QB",
@@ -23097,51 +23090,6 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 0.43062118
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4431487",
-        "name": "Savion Williams",
-        "position": "WR",
-        "proTeamId": 9,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 3.61528311
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 48.52976814
           }
         ]
       }
@@ -23249,6 +23197,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 19.28097908
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4431487",
+        "name": "Savion Williams",
+        "position": "WR",
+        "proTeamId": 9,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 3.61528311
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 48.52976814
           }
         ]
       }
@@ -23626,7 +23619,7 @@
         "name": "Jaylin Lane",
         "position": "WR",
         "proTeamId": 28,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "injured": true,
         "droppable": true,
         "stats": [
@@ -23985,51 +23978,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4696882",
-        "name": "Devontez Walker",
-        "position": "WR",
-        "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 8.6
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 2.15409104
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 56.73720485
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 33.27664043
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4061956",
         "name": "Ashton Dulin",
         "position": "WR",
@@ -24314,6 +24262,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 16.71202179
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4696882",
+        "name": "Devontez Walker",
+        "position": "WR",
+        "proTeamId": 33,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 8.6
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 2.15409104
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 56.73720485
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 33.27664043
           }
         ]
       }
@@ -24975,8 +24968,8 @@
         "name": "Colbie Young",
         "position": "WR",
         "proTeamId": 4,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -25442,8 +25435,8 @@
         "name": "Brenen Thompson",
         "position": "WR",
         "proTeamId": 24,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -25833,8 +25826,8 @@
         "name": "Cooper Rush",
         "position": "QB",
         "proTeamId": 1,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -26524,8 +26517,8 @@
         "name": "Charlie Kolar",
         "position": "TE",
         "proTeamId": 24,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -27271,8 +27264,8 @@
         "name": "Durham Smythe",
         "position": "TE",
         "proTeamId": 33,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -29089,8 +29082,8 @@
         "name": "Jack Strand",
         "position": "QB",
         "proTeamId": 1,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -30242,8 +30235,8 @@
         "name": "Zach Wilson",
         "position": "QB",
         "proTeamId": 18,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -31145,8 +31138,8 @@
         "name": "Ko Kieft",
         "position": "TE",
         "proTeamId": 27,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -31190,8 +31183,8 @@
         "name": "Hunter Long",
         "position": "TE",
         "proTeamId": 22,
-        "injuryStatus": "QUESTIONABLE",
-        "injured": false,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -31542,8 +31535,8 @@
         "name": "Tylan Wallace",
         "position": "WR",
         "proTeamId": 5,
-        "injuryStatus": "OUT",
-        "injured": true,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
