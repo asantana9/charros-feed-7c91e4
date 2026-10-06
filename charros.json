@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-06T22:36:19.628Z",
-  "fingerprint": "2ceee031",
+  "generatedAt": "2026-10-06T23:20:29.356Z",
+  "fingerprint": "be4a11d2",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -4324,7 +4324,7 @@
         "acquisitions": 3,
         "drops": 3,
         "trades": 0,
-        "moveToActive": 8,
+        "moveToActive": 10,
         "moveToIR": 1
       },
       "roster": [
@@ -4624,8 +4624,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 23,
+          "lineupSlot": "FLEX",
           "status": "ONTEAM",
           "onTeamId": 5,
           "player": {
@@ -4860,8 +4860,8 @@
           }
         },
         {
-          "lineupSlotId": 23,
-          "lineupSlot": "FLEX",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 5,
           "player": {
@@ -4919,8 +4919,8 @@
           }
         },
         {
-          "lineupSlotId": 17,
-          "lineupSlot": "K",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 5,
           "player": {
@@ -5096,8 +5096,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 17,
+          "lineupSlot": "K",
           "status": "ONTEAM",
           "onTeamId": 5,
           "player": {
@@ -10272,7 +10272,7 @@
         "teamId": 5,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 119.2183341
+        "totalProjectedPointsLive": 120.12873054
       }
     }
   ],
@@ -10902,6 +10902,30 @@
       ]
     },
     {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 5,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "2976212",
+          "playerName": "Stefon Diggs",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4426388",
+          "playerName": "Jameson Williams",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
       "status": "PENDING",
       "type": "WAIVER",
       "teamId": 3,
@@ -10945,6 +10969,30 @@
           "playerName": "Chris Godwin Jr.",
           "type": "DROP",
           "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 5,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "2473037",
+          "playerName": "Jason Myers",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4567104",
+          "playerName": "Will Reichard",
+          "type": "LINEUP",
+          "fromTeamId": 0,
           "toTeamId": 0
         }
       ]
@@ -12701,54 +12749,6 @@
           "playerName": "Kyle Pitts Sr.",
           "type": "DROP",
           "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 8,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4832800",
-          "playerName": "Denzel Boston",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4047650",
-          "playerName": "DK Metcalf",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FUTURE_ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 5,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "15818",
-          "playerName": "Keenan Allen",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4569559",
-          "playerName": "Devaughn Vele",
-          "type": "LINEUP",
-          "fromTeamId": 0,
           "toTeamId": 0
         }
       ]
@@ -15219,7 +15219,7 @@
         "name": "Tank Bigsby",
         "position": "RB",
         "proTeamId": 21,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "injured": true,
         "droppable": true,
         "stats": [
