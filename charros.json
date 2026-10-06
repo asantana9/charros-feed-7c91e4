@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-06T21:31:20.901Z",
-  "fingerprint": "8d3ac47f",
+  "generatedAt": "2026-10-06T22:36:19.628Z",
+  "fingerprint": "2ceee031",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -15485,51 +15485,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3925357",
-        "name": "Calvin Ridley",
-        "position": "WR",
-        "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 7.8
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 2.76998043
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 106.55468064
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 36.48049212
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "-16013",
         "name": "Raiders D/ST",
         "position": "D/ST",
@@ -15565,6 +15520,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 53.15887523
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3925357",
+        "name": "Calvin Ridley",
+        "position": "WR",
+        "proTeamId": 10,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 7.8
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 2.76998043
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 106.55468064
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 36.48049212
           }
         ]
       }
@@ -16620,51 +16620,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "8439",
-        "name": "Aaron Rodgers",
-        "position": "QB",
-        "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 61.16
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 15.89500785
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 218.09362229
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 193.98126915
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "-16006",
         "name": "Cowboys D/ST",
         "position": "D/ST",
@@ -16700,6 +16655,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 48.34345463
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "8439",
+        "name": "Aaron Rodgers",
+        "position": "QB",
+        "proTeamId": 23,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 61.16
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 15.89500785
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 218.09362229
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 193.98126915
           }
         ]
       }
@@ -20219,6 +20219,51 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4431545",
+        "name": "Will Shipley",
+        "position": "RB",
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 11.5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 10.35058662
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 34.19317733
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 80.74587389
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4430191",
         "name": "Skyy Moore",
         "position": "WR",
@@ -20292,51 +20337,6 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4431545",
-        "name": "Will Shipley",
-        "position": "RB",
-        "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 11.5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 10.35058662
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 34.19317733
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 80.74587389
           }
         ]
       }
