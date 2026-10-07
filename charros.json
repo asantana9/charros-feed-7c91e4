@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-07T01:21:17.394Z",
-  "fingerprint": "5e82e153",
+  "generatedAt": "2026-10-07T01:27:19.309Z",
+  "fingerprint": "9789e1be",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -11239,6 +11239,15 @@
       ]
     },
     {
+      "status": "EXECUTED",
+      "type": "TRADE_DECLINE",
+      "teamId": 9,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": []
+    },
+    {
       "status": "PENDING",
       "type": "TRADE_PROPOSAL",
       "teamId": 4,
@@ -12828,15 +12837,6 @@
           "toTeamId": 0
         }
       ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "TRADE_DECLINE",
-      "teamId": 9,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": []
     }
   ],
   "availablePlayers": [
