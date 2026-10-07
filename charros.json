@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-07T00:44:55.758Z",
-  "fingerprint": "3440d79b",
+  "generatedAt": "2026-10-07T00:48:57.908Z",
+  "fingerprint": "b9c6d1b6",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -11318,6 +11318,58 @@
       ]
     },
     {
+      "status": "PENDING",
+      "type": "TRADE_PROPOSAL",
+      "teamId": 4,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4685247",
+          "playerName": "Braelon Allen",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4361370",
+          "playerName": "Chris Olave",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4569618",
+          "playerName": "Garrett Wilson",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4882093",
+          "playerName": "Bhayshul Tuten",
+          "type": "TRADE",
+          "fromTeamId": 3,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
+          "type": "TRADE",
+          "fromTeamId": 4,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "15818",
+          "playerName": "Keenan Allen",
+          "type": "DROP",
+          "fromTeamId": 4,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
       "status": "EXECUTED",
       "type": "FUTURE_ROSTER",
       "teamId": 4,
@@ -12767,30 +12819,6 @@
           "playerName": "Tre Tucker",
           "type": "DROP",
           "fromTeamId": 4,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4430539",
-          "playerName": "Brenton Strange",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4360248",
-          "playerName": "Kyle Pitts Sr.",
-          "type": "DROP",
-          "fromTeamId": 3,
           "toTeamId": 0
         }
       ]
