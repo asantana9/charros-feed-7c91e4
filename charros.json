@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-07T01:27:19.309Z",
-  "fingerprint": "9789e1be",
+  "generatedAt": "2026-10-07T01:30:20.841Z",
+  "fingerprint": "66abd100",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -11365,6 +11365,30 @@
       ]
     },
     {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4430539",
+          "playerName": "Brenton Strange",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "-16003",
+          "playerName": "Bears D/ST",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
       "status": "EXECUTED",
       "type": "ROSTER",
       "teamId": 6,
@@ -12815,23 +12839,6 @@
         {
           "playerId": "4258173",
           "playerName": "Nico Collins",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 9,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4241478",
-          "playerName": "DeVonta Smith",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
