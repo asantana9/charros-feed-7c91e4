@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-07T01:31:21.345Z",
-  "fingerprint": "0626d88a",
+  "generatedAt": "2026-10-07T01:37:24.644Z",
+  "fingerprint": "dfb9b2ad",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -3335,8 +3335,8 @@
       },
       "roster": [
         {
-          "lineupSlotId": 23,
-          "lineupSlot": "FLEX",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 4,
           "player": {
@@ -4244,8 +4244,8 @@
           }
         },
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 23,
+          "lineupSlot": "FLEX",
           "status": "ONTEAM",
           "onTeamId": 4,
           "player": {
@@ -11288,6 +11288,30 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 5,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4569559",
+          "playerName": "Devaughn Vele",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 3,
       "scoringPeriodId": 5,
       "processDate": 0,
@@ -12818,30 +12842,6 @@
           "type": "TRADE",
           "fromTeamId": 8,
           "toTeamId": 3
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 6,
-      "scoringPeriodId": 4,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "16737",
-          "playerName": "Mike Evans",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4258173",
-          "playerName": "Nico Collins",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
         }
       ]
     }
