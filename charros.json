@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-12T03:42:08.916Z",
-  "fingerprint": "4805beed",
+  "generatedAt": "2026-10-12T16:53:35.463Z",
+  "fingerprint": "ad2fb7da",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -360,7 +360,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 250.78196169
+                "appliedTotal": 246.83739608
               }
             ]
           }
@@ -426,7 +426,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 189.22861066
+                "appliedTotal": 186.33477637
               }
             ]
           }
@@ -485,7 +485,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 190.45811701
+                "appliedTotal": 189.02571887
               }
             ]
           }
@@ -544,7 +544,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 122.73082077
+                "appliedTotal": 124.95315675
               },
               {
                 "seasonId": 2026,
@@ -617,7 +617,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 174.52761009
+                "appliedTotal": 167.23628994
               }
             ]
           }
@@ -645,17 +645,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 13.05416663
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 21.4
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 13.05416663
               },
               {
                 "seasonId": 2026,
@@ -683,7 +683,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 143.48325107
+                "appliedTotal": 145.45387392
               }
             ]
           }
@@ -698,7 +698,7 @@
             "name": "David Montgomery",
             "position": "RB",
             "proTeamId": 34,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "DOUBTFUL",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -749,7 +749,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 135.48924903
+                "appliedTotal": 132.87111624
               }
             ]
           }
@@ -808,7 +808,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 202.79624908
+                "appliedTotal": 195.22312482
               }
             ]
           }
@@ -874,7 +874,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 171.50334424
+                "appliedTotal": 184.325423
               }
             ]
           }
@@ -940,7 +940,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 210.70993346
+                "appliedTotal": 223.03016997
               }
             ]
           }
@@ -1006,7 +1006,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 110.46068445
+                "appliedTotal": 131.27518003
               }
             ]
           }
@@ -1065,7 +1065,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 110.55806737
+                "appliedTotal": 110.09188567
               }
             ]
           }
@@ -1093,17 +1093,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 46.9
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 2.6
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 46.9
               },
               {
                 "seasonId": 2026,
@@ -1131,7 +1131,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 105.2875341
+                "appliedTotal": 117.18208667
               }
             ]
           }
@@ -1197,7 +1197,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 135.25673096
+                "appliedTotal": 122.18651646
               }
             ]
           }
@@ -1225,17 +1225,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 13.60269699
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 7.7
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 13.60269699
               },
               {
                 "seasonId": 2026,
@@ -1263,7 +1263,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 112.94508424
+                "appliedTotal": 108.88883118
               }
             ]
           }
@@ -1329,7 +1329,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 124.28160807
+                "appliedTotal": 124.92700957
               }
             ]
           }
@@ -1395,7 +1395,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 71.51711277
+                "appliedTotal": 73.48621107
               }
             ]
           }
@@ -1480,7 +1480,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 262.71861202
+                "appliedTotal": 268.8901888
               },
               {
                 "seasonId": 2026,
@@ -1553,7 +1553,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 114.49512015
+                "appliedTotal": 121.05894229
               }
             ]
           }
@@ -1588,17 +1588,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 71.2
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 23
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 71.2
               },
               {
                 "seasonId": 2026,
@@ -1619,7 +1619,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 199.63336487
+                "appliedTotal": 207.02789415
               }
             ]
           }
@@ -1634,7 +1634,7 @@
             "name": "Ladd McConkey",
             "position": "WR",
             "proTeamId": 24,
-            "injuryStatus": "ACTIVE",
+            "injuryStatus": "QUESTIONABLE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -1685,7 +1685,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 135.4187669
+                "appliedTotal": 123.81284044
               }
             ]
           }
@@ -1744,7 +1744,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 208.41297989
+                "appliedTotal": 209.427068
               }
             ]
           }
@@ -1803,7 +1803,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 176.85087881
+                "appliedTotal": 191.99386066
               },
               {
                 "seasonId": 2026,
@@ -1838,17 +1838,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 26.5
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 4.8
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 26.5
               },
               {
                 "seasonId": 2026,
@@ -1876,7 +1876,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 114.75203768
+                "appliedTotal": 114.31586815
               }
             ]
           }
@@ -1897,17 +1897,17 @@
             "stats": [
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 9.71647173
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 9.71647173
               },
               {
                 "seasonId": 2026,
@@ -2008,7 +2008,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 107.65209109
+                "appliedTotal": 112.65469905
               }
             ]
           }
@@ -2074,7 +2074,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 90.39322054
+                "appliedTotal": 85.80650335
               }
             ]
           }
@@ -2109,17 +2109,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 5.7
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 9.3
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 5.7
               },
               {
                 "seasonId": 2026,
@@ -2140,7 +2140,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 83.49454091
+                "appliedTotal": 84.00623422
               }
             ]
           }
@@ -2199,7 +2199,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 107.76193409
+                "appliedTotal": 103.22295615
               }
             ]
           }
@@ -2258,7 +2258,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 166.14617049
+                "appliedTotal": 177.16350544
               },
               {
                 "seasonId": 2026,
@@ -2324,7 +2324,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 192.50670573
+                "appliedTotal": 218.13921574
               },
               {
                 "seasonId": 2026,
@@ -2390,7 +2390,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 122.94014159
+                "appliedTotal": 117.83105105
               },
               {
                 "seasonId": 2026,
@@ -2463,7 +2463,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 191.38284942
+                "appliedTotal": 177.75559445
               }
             ]
           }
@@ -2491,17 +2491,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 38
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 6
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 38
               },
               {
                 "seasonId": 2026,
@@ -2529,7 +2529,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 69.78942827
+                "appliedTotal": 72.94203117
               }
             ]
           }
@@ -2621,7 +2621,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 240.26615893
+                "appliedTotal": 238.04392898
               }
             ]
           }
@@ -2687,7 +2687,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 239.58006679
+                "appliedTotal": 245.21029307
               }
             ]
           }
@@ -2746,7 +2746,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 207.17418733
+                "appliedTotal": 197.99596451
               },
               {
                 "seasonId": 2026,
@@ -2788,17 +2788,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 5.7
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 23.4
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 5.7
               },
               {
                 "seasonId": 2026,
@@ -2819,7 +2819,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 179.38076756
+                "appliedTotal": 177.85678215
               }
             ]
           }
@@ -2885,7 +2885,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 142.63593391
+                "appliedTotal": 135.187168
               }
             ]
           }
@@ -2951,7 +2951,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 182.08919005
+                "appliedTotal": 173.62534544
               }
             ]
           }
@@ -2972,15 +2972,15 @@
             "stats": [
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
+                "scoringPeriodId": 5,
+                "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 5,
-                "statSourceId": 0,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
               },
@@ -3017,7 +3017,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 79.72973732
+                "appliedTotal": 80.3620256
               }
             ]
           }
@@ -3083,7 +3083,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 140.27243414
+                "appliedTotal": 137.69398727
               }
             ]
           }
@@ -3149,7 +3149,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 80.23208976
+                "appliedTotal": 88.03052668
               }
             ]
           }
@@ -3177,17 +3177,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 5.6
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 5.6
               },
               {
                 "seasonId": 2026,
@@ -3215,7 +3215,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 143.19564126
+                "appliedTotal": 159.34483478
               }
             ]
           }
@@ -3274,7 +3274,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 220.52846075
+                "appliedTotal": 203.44085023
               },
               {
                 "seasonId": 2026,
@@ -3347,7 +3347,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 136.90220812
+                "appliedTotal": 145.08125073
               }
             ]
           }
@@ -3413,7 +3413,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 197.41331836
+                "appliedTotal": 183.98955602
               }
             ]
           }
@@ -3472,7 +3472,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 96.84734607
+                "appliedTotal": 96.44401068
               }
             ]
           }
@@ -3538,7 +3538,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 105.78994408
+                "appliedTotal": 106.54423434
               }
             ]
           }
@@ -3604,7 +3604,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 125.23811368
+                "appliedTotal": 121.14910482
               }
             ]
           }
@@ -3639,17 +3639,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 0
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 9.8
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 0
               },
               {
                 "seasonId": 2026,
@@ -3670,7 +3670,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 130.16908385
+                "appliedTotal": 127.21140338
               }
             ]
           }
@@ -3762,7 +3762,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 208.06415605
+                "appliedTotal": 216.21529562
               }
             ]
           }
@@ -3821,7 +3821,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 265.5414281
+                "appliedTotal": 266.15054242
               }
             ]
           }
@@ -3880,7 +3880,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 283.52086791
+                "appliedTotal": 284.03015938
               }
             ]
           }
@@ -3939,7 +3939,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 158.55089302
+                "appliedTotal": 157.89974623
               }
             ]
           }
@@ -4005,7 +4005,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 128.02531951
+                "appliedTotal": 119.44667777
               }
             ]
           }
@@ -4095,7 +4095,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 234.99513615
+                "appliedTotal": 242.44820173
               }
             ]
           }
@@ -4161,7 +4161,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 90.80653136
+                "appliedTotal": 90.51598759
               }
             ]
           }
@@ -4196,17 +4196,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.7
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 18.6
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 8.7
               },
               {
                 "seasonId": 2026,
@@ -4227,7 +4227,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 86.59622972
+                "appliedTotal": 82.43317414
               }
             ]
           }
@@ -4293,7 +4293,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 146.03579944
+                "appliedTotal": 152.7224692
               }
             ]
           }
@@ -4359,7 +4359,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 199.47562645
+                "appliedTotal": 205.12747741
               }
             ]
           }
@@ -4387,17 +4387,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.96683236
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 21
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 8.96683236
               },
               {
                 "seasonId": 2026,
@@ -4425,7 +4425,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 109.42314444
+                "appliedTotal": 126.98629944
               }
             ]
           }
@@ -4484,7 +4484,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 101.82755333
+                "appliedTotal": 95.75978139
               },
               {
                 "seasonId": 2026,
@@ -4506,23 +4506,23 @@
             "name": "Roman Wilson",
             "position": "WR",
             "proTeamId": 23,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "DOUBTFUL",
             "injured": false,
             "droppable": true,
             "stats": [
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.33724582
-              },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 8.33724582
               },
               {
                 "seasonId": 2026,
@@ -4557,7 +4557,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 112.93105294
+                "appliedTotal": 97.52527745
               }
             ]
           }
@@ -4623,7 +4623,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 63.04253824
+                "appliedTotal": 63.225172
               }
             ]
           }
@@ -4689,7 +4689,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 102.98317978
+                "appliedTotal": 96.80442778
               }
             ]
           }
@@ -4748,7 +4748,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 118.62102896
+                "appliedTotal": 118.15098578
               }
             ]
           }
@@ -4802,17 +4802,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 20.34845402
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 11.2
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 20.34845402
               },
               {
                 "seasonId": 2026,
@@ -4840,7 +4840,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 217.10357765
+                "appliedTotal": 211.09242768
               }
             ]
           }
@@ -4906,7 +4906,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 227.77078157
+                "appliedTotal": 223.14960943
               }
             ]
           }
@@ -4934,17 +4934,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 87.22
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 39.46
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 87.22
               },
               {
                 "seasonId": 2026,
@@ -4972,7 +4972,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 212.24984169
+                "appliedTotal": 247.42934799
               }
             ]
           }
@@ -5038,7 +5038,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 148.15350561
+                "appliedTotal": 142.9353062
               }
             ]
           }
@@ -5104,7 +5104,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 197.30494915
+                "appliedTotal": 201.73651858
               }
             ]
           }
@@ -5170,7 +5170,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 124.19759361
+                "appliedTotal": 129.44888061
               }
             ]
           }
@@ -5236,7 +5236,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 227.14344628
+                "appliedTotal": 224.07231097
               }
             ]
           }
@@ -5295,7 +5295,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 85.2803338
+                "appliedTotal": 88.21619814
               },
               {
                 "seasonId": 2026,
@@ -5368,7 +5368,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 129.61474692
+                "appliedTotal": 128.15170291
               }
             ]
           }
@@ -5434,7 +5434,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 105.97370806
+                "appliedTotal": 109.10893264
               }
             ]
           }
@@ -5500,7 +5500,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 84.52703097
+                "appliedTotal": 82.43239567
               }
             ]
           }
@@ -5566,7 +5566,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 113.77911967
+                "appliedTotal": 134.84978598
               }
             ]
           }
@@ -5632,7 +5632,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 84.44698511
+                "appliedTotal": 89.96867654
               }
             ]
           }
@@ -5698,7 +5698,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 105.54098244
+                "appliedTotal": 102.5065292
               }
             ]
           }
@@ -5764,7 +5764,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 68.14103137
+                "appliedTotal": 69.35169242
               }
             ]
           }
@@ -5823,7 +5823,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 95.77088176
+                "appliedTotal": 88.30947551
               },
               {
                 "seasonId": 2026,
@@ -5922,7 +5922,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 226.19624092
+                "appliedTotal": 236.30925463
               }
             ]
           }
@@ -5981,7 +5981,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 212.45688393
+                "appliedTotal": 211.77388475
               }
             ]
           }
@@ -6047,7 +6047,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 197.9936939
+                "appliedTotal": 194.21289251
               }
             ]
           }
@@ -6082,14 +6082,14 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
+                "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 5,
+                "scoringPeriodId": 4,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
@@ -6113,7 +6113,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 192.88358225
+                "appliedTotal": 186.16521692
               }
             ]
           }
@@ -6179,7 +6179,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 108.09763486
+                "appliedTotal": 104.05899684
               }
             ]
           }
@@ -6245,7 +6245,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 151.38407944
+                "appliedTotal": 150.74760179
               }
             ]
           }
@@ -6311,7 +6311,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 190.22766889
+                "appliedTotal": 192.47168156
               }
             ]
           }
@@ -6346,17 +6346,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 13
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 5.2
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 13
               },
               {
                 "seasonId": 2026,
@@ -6377,7 +6377,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 167.38525171
+                "appliedTotal": 157.75901016
               }
             ]
           }
@@ -6443,7 +6443,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 170.05734597
+                "appliedTotal": 177.09107902
               }
             ]
           }
@@ -6509,7 +6509,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 151.05363811
+                "appliedTotal": 165.31388654
               }
             ]
           }
@@ -6568,7 +6568,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 91.94062213
+                "appliedTotal": 92.20745447
               }
             ]
           }
@@ -6603,17 +6603,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 92.56
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 13.72
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 92.56
               },
               {
                 "seasonId": 2026,
@@ -6634,7 +6634,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 72.40925943
+                "appliedTotal": 73.90060702
               }
             ]
           }
@@ -6700,7 +6700,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 124.99390908
+                "appliedTotal": 122.53108322
               }
             ]
           }
@@ -6735,17 +6735,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 51
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 5
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 51
               },
               {
                 "seasonId": 2026,
@@ -6766,7 +6766,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 98.38264773
+                "appliedTotal": 119.33206366
               }
             ]
           }
@@ -6825,7 +6825,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 44.95230677
+                "appliedTotal": 46.82032502
               }
             ]
           }
@@ -6860,17 +6860,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 31
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": -6
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 31
               },
               {
                 "seasonId": 2026,
@@ -6891,7 +6891,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 50.2930682
+                "appliedTotal": 48.91018394
               }
             ]
           }
@@ -6983,7 +6983,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 162.94626342
+                "appliedTotal": 164.03534328
               }
             ]
           }
@@ -7042,7 +7042,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 205.33078067
+                "appliedTotal": 209.27982191
               }
             ]
           }
@@ -7101,7 +7101,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 143.29080506
+                "appliedTotal": 142.34203398
               }
             ]
           }
@@ -7160,7 +7160,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 179.63332882
+                "appliedTotal": 176.26636041
               }
             ]
           }
@@ -7195,17 +7195,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 13.52
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 13
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 13.52
               },
               {
                 "seasonId": 2026,
@@ -7226,7 +7226,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 213.63655258
+                "appliedTotal": 205.58712789
               }
             ]
           }
@@ -7292,7 +7292,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 149.04213202
+                "appliedTotal": 152.64299876
               }
             ]
           }
@@ -7351,7 +7351,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 187.99481867
+                "appliedTotal": 192.81342538
               }
             ]
           }
@@ -7410,7 +7410,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 241.78486668
+                "appliedTotal": 239.48933799
               }
             ]
           }
@@ -7445,17 +7445,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 11
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 11.3
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 11
               },
               {
                 "seasonId": 2026,
@@ -7476,7 +7476,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 109.79155737
+                "appliedTotal": 105.6604764
               }
             ]
           }
@@ -7535,7 +7535,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 87.78552975
+                "appliedTotal": 88.66644462
               },
               {
                 "seasonId": 2026,
@@ -7608,7 +7608,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 116.39493878
+                "appliedTotal": 117.3022866
               }
             ]
           }
@@ -7674,7 +7674,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 102.96886757
+                "appliedTotal": 91.9975346
               }
             ]
           }
@@ -7733,7 +7733,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 180.76713466
+                "appliedTotal": 181.52365154
               }
             ]
           }
@@ -7792,7 +7792,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 74.09899221
+                "appliedTotal": 75.44399244
               },
               {
                 "seasonId": 2026,
@@ -7865,7 +7865,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 89.82084419
+                "appliedTotal": 90.71448109
               }
             ]
           }
@@ -7931,7 +7931,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 192.78574739
+                "appliedTotal": 199.46822427
               }
             ]
           }
@@ -8023,7 +8023,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 240.68089689
+                "appliedTotal": 235.51750737
               }
             ]
           }
@@ -8054,14 +8054,14 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 73.2
+                "appliedTotal": 76.2
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 15.8
+                "appliedTotal": 18.8
               },
               {
                 "seasonId": 2026,
@@ -8082,7 +8082,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 190.80564969
+                "appliedTotal": 186.17481672
               },
               {
                 "seasonId": 2026,
@@ -8155,7 +8155,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 168.69892896
+                "appliedTotal": 164.6912252
               }
             ]
           }
@@ -8221,7 +8221,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 129.17744765
+                "appliedTotal": 123.95131429
               }
             ]
           }
@@ -8287,7 +8287,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 142.4121279
+                "appliedTotal": 143.21999617
               }
             ]
           }
@@ -8308,17 +8308,17 @@
             "stats": [
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 10.07698333
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 5.3
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 10.07698333
               },
               {
                 "seasonId": 2026,
@@ -8353,7 +8353,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 137.94546902
+                "appliedTotal": 141.84151598
               }
             ]
           }
@@ -8374,17 +8374,17 @@
             "stats": [
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.1927554
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 1
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 8.1927554
               },
               {
                 "seasonId": 2026,
@@ -8419,7 +8419,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 66.16420596
+                "appliedTotal": 79.60986129
               }
             ]
           }
@@ -8485,7 +8485,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 241.57233273
+                "appliedTotal": 240.48623942
               }
             ]
           }
@@ -8551,7 +8551,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 125.6919463
+                "appliedTotal": 127.57120702
               }
             ]
           }
@@ -8617,7 +8617,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 109.97284037
+                "appliedTotal": 106.17073801
               }
             ]
           }
@@ -8676,7 +8676,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 128.00150751
+                "appliedTotal": 127.09515566
               }
             ]
           }
@@ -8697,17 +8697,17 @@
             "stats": [
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 16.94868908
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 36.8
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 1,
+                "statSplitTypeId": 1,
+                "appliedTotal": 16.94868908
               },
               {
                 "seasonId": 2026,
@@ -8742,7 +8742,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 179.46065236
+                "appliedTotal": 187.19492519
               }
             ]
           }
@@ -8808,7 +8808,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 227.55872722
+                "appliedTotal": 238.61415837
               }
             ]
           }
@@ -8874,7 +8874,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 139.62976839
+                "appliedTotal": 127.79961091
               }
             ]
           }
@@ -8940,7 +8940,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 143.05153706
+                "appliedTotal": 143.68911243
               }
             ]
           }
@@ -9006,7 +9006,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 20.5786216
+                "appliedTotal": 21.3471612
               }
             ]
           }
@@ -9098,7 +9098,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 302.98101406
+                "appliedTotal": 314.46081855
               }
             ]
           }
@@ -9133,17 +9133,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 84.6
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 10.7
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 84.6
               },
               {
                 "seasonId": 2026,
@@ -9164,7 +9164,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 207.90057815
+                "appliedTotal": 204.65825464
               }
             ]
           }
@@ -9199,14 +9199,14 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
+                "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 5,
+                "scoringPeriodId": 4,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
@@ -9230,7 +9230,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 170.97849741
+                "appliedTotal": 177.57582792
               }
             ]
           }
@@ -9296,7 +9296,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 173.65991782
+                "appliedTotal": 176.63973571
               }
             ]
           }
@@ -9362,7 +9362,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 164.12984821
+                "appliedTotal": 167.42988683
               }
             ]
           }
@@ -9428,7 +9428,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 130.60952346
+                "appliedTotal": 128.0504092
               }
             ]
           }
@@ -9494,7 +9494,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 129.15977329
+                "appliedTotal": 126.64623262
               }
             ]
           }
@@ -9560,7 +9560,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 216.27618095
+                "appliedTotal": 207.28362026
               }
             ]
           }
@@ -9619,7 +9619,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 124.04905384
+                "appliedTotal": 132.33475127
               },
               {
                 "seasonId": 2026,
@@ -9692,7 +9692,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 130.95794594
+                "appliedTotal": 134.30676291
               }
             ]
           }
@@ -9723,7 +9723,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 52
+                "appliedTotal": 53
               },
               {
                 "seasonId": 2026,
@@ -9737,7 +9737,7 @@
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 13
+                "appliedTotal": 14
               },
               {
                 "seasonId": 2026,
@@ -9758,7 +9758,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 107.09372535
+                "appliedTotal": 119.44759293
               }
             ]
           }
@@ -9824,7 +9824,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 84.86819705
+                "appliedTotal": 83.8356513
               }
             ]
           }
@@ -9883,7 +9883,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 131.33129335
+                "appliedTotal": 139.60755198
               },
               {
                 "seasonId": 2026,
@@ -9949,7 +9949,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 63.11775084
+                "appliedTotal": 68.58262614
               }
             ]
           }
@@ -10008,7 +10008,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 98.25315501
+                "appliedTotal": 97.80615934
               },
               {
                 "seasonId": 2026,
@@ -10050,17 +10050,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 4.8
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 11.3
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 4.8
               },
               {
                 "seasonId": 2026,
@@ -10081,7 +10081,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 103.14014287
+                "appliedTotal": 105.26852637
               }
             ]
           }
@@ -10116,17 +10116,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 0
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 18
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 0
               },
               {
                 "seasonId": 2026,
@@ -10147,7 +10147,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 69.18523175
+                "appliedTotal": 75.18109764
               }
             ]
           }
@@ -10239,7 +10239,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 253.58441604
+                "appliedTotal": 259.28945314
               }
             ]
           }
@@ -10274,17 +10274,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 2
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 2
               },
               {
                 "seasonId": 2026,
@@ -10305,7 +10305,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 175.23653557
+                "appliedTotal": 161.03602101
               }
             ]
           }
@@ -10371,7 +10371,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 200.6357575
+                "appliedTotal": 212.41557033
               }
             ]
           }
@@ -10437,7 +10437,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 206.14700805
+                "appliedTotal": 204.53719437
               }
             ]
           }
@@ -10503,7 +10503,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 178.44483787
+                "appliedTotal": 193.68172775
               }
             ]
           }
@@ -10569,7 +10569,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 236.12080323
+                "appliedTotal": 259.94076266
               }
             ]
           }
@@ -10597,17 +10597,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 60.8
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 17.5
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 0,
+                "statSourceId": 0,
+                "statSplitTypeId": 0,
+                "appliedTotal": 60.8
               },
               {
                 "seasonId": 2026,
@@ -10635,7 +10635,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 149.81072245
+                "appliedTotal": 152.62433019
               }
             ]
           }
@@ -10670,17 +10670,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 21.5
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 1.6
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 21.5
               },
               {
                 "seasonId": 2026,
@@ -10701,7 +10701,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 145.39099435
+                "appliedTotal": 140.10331949
               }
             ]
           }
@@ -10767,7 +10767,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 42.62810567
+                "appliedTotal": 41.77350008
               }
             ]
           }
@@ -10826,7 +10826,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 179.64205008
+                "appliedTotal": 184.84511053
               },
               {
                 "seasonId": 2026,
@@ -10899,7 +10899,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 122.79925799
+                "appliedTotal": 115.01738806
               }
             ]
           }
@@ -10965,7 +10965,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 144.47188716
+                "appliedTotal": 142.1061799
               }
             ]
           }
@@ -11031,7 +11031,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 103.81195277
+                "appliedTotal": 101.40938043
               }
             ]
           }
@@ -11090,7 +11090,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 236.6570655
+                "appliedTotal": 237.94652002
               }
             ]
           }
@@ -11105,7 +11105,7 @@
             "name": "Will Shipley",
             "position": "RB",
             "proTeamId": 21,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "DOUBTFUL",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -11125,17 +11125,17 @@
               },
               {
                 "seasonId": 2026,
-                "scoringPeriodId": 4,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 2.3
-              },
-              {
-                "seasonId": 2026,
                 "scoringPeriodId": 5,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
                 "appliedTotal": 8.3
+              },
+              {
+                "seasonId": 2026,
+                "scoringPeriodId": 4,
+                "statSourceId": 0,
+                "statSplitTypeId": 1,
+                "appliedTotal": 2.3
               },
               {
                 "seasonId": 2026,
@@ -11156,7 +11156,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 68.77068902
+                "appliedTotal": 54.64670989
               }
             ]
           }
@@ -11222,7 +11222,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 1,
                 "statSplitTypeId": 0,
-                "appliedTotal": 58.35945375
+                "appliedTotal": 65.9404252
               }
             ]
           }
@@ -11245,8 +11245,8 @@
       "away": {
         "teamId": 9,
         "totalPoints": 0,
-        "totalPointsLive": 119.94,
-        "totalProjectedPointsLive": 119.94238435
+        "totalPointsLive": 120.94,
+        "totalProjectedPointsLive": 120.94
       }
     },
     {
@@ -11258,13 +11258,13 @@
         "teamId": 3,
         "totalPoints": 0,
         "totalPointsLive": 130.12,
-        "totalProjectedPointsLive": 130.12503215
+        "totalProjectedPointsLive": 130.12
       },
       "away": {
         "teamId": 2,
         "totalPoints": 0,
         "totalPointsLive": 136.08,
-        "totalProjectedPointsLive": 145.51865693
+        "totalProjectedPointsLive": 145.51199363
       }
     },
     {
@@ -11276,7 +11276,7 @@
         "teamId": 4,
         "totalPoints": 0,
         "totalPointsLive": 104.3,
-        "totalProjectedPointsLive": 134.18151358
+        "totalProjectedPointsLive": 134.17865025
       },
       "away": {
         "teamId": 10,
@@ -11293,8 +11293,8 @@
       "home": {
         "teamId": 8,
         "totalPoints": 0,
-        "totalPointsLive": 126.3,
-        "totalProjectedPointsLive": 126.30480643
+        "totalPointsLive": 129.3,
+        "totalProjectedPointsLive": 129.3
       },
       "away": {
         "teamId": 7,
@@ -11318,7 +11318,7 @@
         "teamId": 5,
         "totalPoints": 0,
         "totalPointsLive": 107.74,
-        "totalProjectedPointsLive": 107.74419784
+        "totalProjectedPointsLive": 107.74
       }
     }
   ],
@@ -13887,7 +13887,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 214.82271778
+            "appliedTotal": 207.94576411
           }
         ]
       }
@@ -13932,7 +13932,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 91.08160341
+            "appliedTotal": 94.02249061
           }
         ]
       }
@@ -13984,7 +13984,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 104.32281844
+            "appliedTotal": 96.94885154
           }
         ]
       }
@@ -14036,7 +14036,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 111.60139723
+            "appliedTotal": 107.73607286
           }
         ]
       }
@@ -14088,7 +14088,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 110.79857576
+            "appliedTotal": 101.2329521
           }
         ]
       }
@@ -14140,7 +14140,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 84.96833364
+            "appliedTotal": 97.0320959
           }
         ]
       }
@@ -14164,14 +14164,14 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 25
+            "appliedTotal": 26
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 5,
             "statSourceId": 0,
             "statSplitTypeId": 1,
-            "appliedTotal": 4
+            "appliedTotal": 5
           },
           {
             "seasonId": 2026,
@@ -14192,7 +14192,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 82.72868932
+            "appliedTotal": 78.7466552
           }
         ]
       }
@@ -14244,7 +14244,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 89.444047
+            "appliedTotal": 97.58942247
           }
         ]
       }
@@ -14289,7 +14289,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 96.57577115
+            "appliedTotal": 98.59570076
           }
         ]
       }
@@ -14341,7 +14341,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 77.43635658
+            "appliedTotal": 76.69797026
           }
         ]
       }
@@ -14393,7 +14393,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 166.05662893
+            "appliedTotal": 150.34762196
           }
         ]
       }
@@ -14445,7 +14445,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 93.11530596
+            "appliedTotal": 96.11106283
           }
         ]
       }
@@ -14497,7 +14497,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 108.3968035
+            "appliedTotal": 107.58272129
           }
         ]
       }
@@ -14549,7 +14549,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 84.35531573
+            "appliedTotal": 90.73814606
           }
         ]
       }
@@ -14601,7 +14601,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 68.17797899
+            "appliedTotal": 64.87127664
           }
         ]
       }
@@ -14653,7 +14653,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 117.52418401
+            "appliedTotal": 113.67343071
           }
         ]
       }
@@ -14705,7 +14705,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 80.22976494
+            "appliedTotal": 77.11593848
           }
         ]
       }
@@ -14750,7 +14750,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 118.31027271
+            "appliedTotal": 120.74766499
           }
         ]
       }
@@ -14802,7 +14802,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 98.65627092
+            "appliedTotal": 97.70529414
           }
         ]
       }
@@ -14854,7 +14854,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 43.74376093
+            "appliedTotal": 40.60754558
           }
         ]
       }
@@ -14951,7 +14951,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 191.004679
+            "appliedTotal": 186.08863899
           }
         ]
       }
@@ -15055,7 +15055,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 86.13386681
+            "appliedTotal": 79.27433115
           }
         ]
       }
@@ -15107,7 +15107,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 69.35145387
+            "appliedTotal": 64.67402872
           }
         ]
       }
@@ -15159,7 +15159,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 86.41065558
+            "appliedTotal": 98.87180674
           }
         ]
       }
@@ -15211,7 +15211,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 134.35145173
+            "appliedTotal": 127.00188134
           }
         ]
       }
@@ -15263,7 +15263,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 103.10635644
+            "appliedTotal": 100.32404446
           }
         ]
       }
@@ -15315,7 +15315,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 82.91579327
+            "appliedTotal": 83.3894325
           }
         ]
       }
@@ -15367,7 +15367,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 56.06998665
+            "appliedTotal": 54.40289591
           }
         ]
       }
@@ -15419,7 +15419,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 87.98566576
+            "appliedTotal": 86.42322429
           }
         ]
       }
@@ -15471,7 +15471,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 99.9230568
+            "appliedTotal": 101.48014288
           }
         ]
       }
@@ -15523,7 +15523,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 107.1938963
+            "appliedTotal": 101.80288547
           }
         ]
       }
@@ -15575,7 +15575,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 62.98010547
+            "appliedTotal": 52.80419242
           }
         ]
       }
@@ -15627,7 +15627,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 13.99920142
+            "appliedTotal": 13.83687007
           }
         ]
       }
@@ -15679,7 +15679,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 104.97264302
+            "appliedTotal": 107.4431901
           }
         ]
       }
@@ -15731,7 +15731,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 139.15843397
+            "appliedTotal": 152.38576348
           }
         ]
       }
@@ -15932,7 +15932,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 45.17207213
+            "appliedTotal": 43.86187756
           }
         ]
       }
@@ -15984,7 +15984,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 97.11226041
+            "appliedTotal": 110.29043402
           }
         ]
       }
@@ -16036,7 +16036,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 55.45077875
+            "appliedTotal": 57.23833869
           }
         ]
       }
@@ -16140,7 +16140,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 117.73730114
+            "appliedTotal": 113.58398114
           }
         ]
       }
@@ -16244,7 +16244,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 114.64083937
+            "appliedTotal": 121.92418822
           }
         ]
       }
@@ -16296,7 +16296,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 95.10791732
+            "appliedTotal": 99.00183371
           }
         ]
       }
@@ -16393,7 +16393,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 201.73109917
+            "appliedTotal": 196.97175344
           }
         ]
       }
@@ -16445,7 +16445,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 178.21652163
+            "appliedTotal": 196.84334883
           }
         ]
       }
@@ -16497,7 +16497,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 161.20770437
+            "appliedTotal": 153.15670464
           }
         ]
       }
@@ -16549,7 +16549,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 83.05901895
+            "appliedTotal": 84.3140248
           }
         ]
       }
@@ -16601,7 +16601,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 82.21741737
+            "appliedTotal": 86.76895037
           }
         ]
       }
@@ -16653,7 +16653,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.95289249
+            "appliedTotal": 55.63879149
           }
         ]
       }
@@ -16705,7 +16705,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 49.96296538
+            "appliedTotal": 55.51816619
           }
         ]
       }
@@ -16750,7 +16750,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 61.42671305
+            "appliedTotal": 58.31182708
           }
         ]
       }
@@ -16795,7 +16795,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 65.10505932
+            "appliedTotal": 65.11197358
           }
         ]
       }
@@ -16847,7 +16847,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 57.29034044
+            "appliedTotal": 63.1956737
           }
         ]
       }
@@ -16892,7 +16892,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 59.43545767
+            "appliedTotal": 58.08075142
           }
         ]
       }
@@ -16944,7 +16944,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 102.24816496
+            "appliedTotal": 96.89203397
           }
         ]
       }
@@ -17048,7 +17048,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 95.44250227
+            "appliedTotal": 90.71825038
           }
         ]
       }
@@ -17100,7 +17100,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 57.13902126
+            "appliedTotal": 58.90069915
           }
         ]
       }
@@ -17152,7 +17152,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 38.33550938
+            "appliedTotal": 55.47216651
           }
         ]
       }
@@ -17204,7 +17204,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 77.71777704
+            "appliedTotal": 75.16945201
           }
         ]
       }
@@ -17256,7 +17256,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 27.97988428
+            "appliedTotal": 29.48702127
           }
         ]
       }
@@ -17308,7 +17308,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 70.63796354
+            "appliedTotal": 72.70303684
           }
         ]
       }
@@ -17360,7 +17360,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 84.04023775
+            "appliedTotal": 74.76252291
           }
         ]
       }
@@ -17412,7 +17412,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 71.6122736
+            "appliedTotal": 68.38051154
           }
         ]
       }
@@ -17464,7 +17464,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 66.14559665
+            "appliedTotal": 64.71195836
           }
         ]
       }
@@ -17516,7 +17516,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 56.74075878
+            "appliedTotal": 68.28515778
           }
         ]
       }
@@ -17620,7 +17620,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 45.3228621
+            "appliedTotal": 43.6736373
           }
         ]
       }
@@ -17672,7 +17672,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 11.53894342
+            "appliedTotal": 11.58317589
           }
         ]
       }
@@ -17717,7 +17717,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 100.78085363
+            "appliedTotal": 97.98844566
           }
         ]
       }
@@ -17762,59 +17762,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 18.09625649
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4360423",
-        "name": "Michael Penix Jr.",
-        "position": "QB",
-        "proTeamId": 1,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 41.16
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 14.4
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 14.58249212
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 214.84778081
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 170.39661819
+            "appliedTotal": 19.41328974
           }
         ]
       }
@@ -17866,7 +17814,59 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 98.15202381
+            "appliedTotal": 83.22280712
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4360423",
+        "name": "Michael Penix Jr.",
+        "position": "QB",
+        "proTeamId": 1,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 41.16
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 14.4
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 14.58249212
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 214.84778081
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 173.44520581
           }
         ]
       }
@@ -17918,7 +17918,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 166.02837563
+            "appliedTotal": 164.65735053
           }
         ]
       }
@@ -18046,14 +18046,14 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 29
+            "appliedTotal": 28
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 5,
             "statSourceId": 0,
             "statSplitTypeId": 1,
-            "appliedTotal": 11
+            "appliedTotal": 10
           },
           {
             "seasonId": 2026,
@@ -18074,7 +18074,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 82.39849775
+            "appliedTotal": 64.45214033
           }
         ]
       }
@@ -18178,7 +18178,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 181.72454356
+            "appliedTotal": 174.36333264
           }
         ]
       }
@@ -18230,7 +18230,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 65.93334785
+            "appliedTotal": 73.50693075
           }
         ]
       }
@@ -18282,7 +18282,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 110.65467878
+            "appliedTotal": 103.91893611
           }
         ]
       }
@@ -18327,111 +18327,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 57.12160645
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4429022",
-        "name": "Kayshon Boutte",
-        "position": "WR",
-        "proTeamId": 34,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 27.3
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 6.8
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 4.84497532
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 118.12929294
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 58.26366113
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3116389",
-        "name": "Samaje Perine",
-        "position": "RB",
-        "proTeamId": 4,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 30.1
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 15.8
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 5.82445811
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 96.49246559
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 78.06236972
+            "appliedTotal": 54.7610893
           }
         ]
       }
@@ -18483,7 +18379,111 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 95.2395913
+            "appliedTotal": 79.36139553
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4429022",
+        "name": "Kayshon Boutte",
+        "position": "WR",
+        "proTeamId": 34,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 27.3
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 6.8
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 4.84497532
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 118.12929294
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 56.08544337
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3116389",
+        "name": "Samaje Perine",
+        "position": "RB",
+        "proTeamId": 4,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 30.1
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 15.8
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 5.82445811
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 96.49246559
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 76.77280076
           }
         ]
       }
@@ -18535,7 +18535,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.48357646
+            "appliedTotal": 54.87339444
           }
         ]
       }
@@ -18663,7 +18663,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 160.49661968
+            "appliedTotal": 147.60981305
           }
         ]
       }
@@ -18753,7 +18753,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 50.58447955
+            "appliedTotal": 46.51706519
           }
         ]
       }
@@ -18805,7 +18805,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 66.95212453
+            "appliedTotal": 68.11004337
           }
         ]
       }
@@ -18857,7 +18857,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 103.16237227
+            "appliedTotal": 112.58784389
           }
         ]
       }
@@ -18909,7 +18909,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 1.69447275
+            "appliedTotal": 1.6567774
           }
         ]
       }
@@ -18961,7 +18961,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 41.10204621
+            "appliedTotal": 38.58172844
           }
         ]
       }
@@ -19013,7 +19013,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 22.18557275
+            "appliedTotal": 23.50463722
           }
         ]
       }
@@ -19065,7 +19065,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.73658766
+            "appliedTotal": 58.85810441
           }
         ]
       }
@@ -19117,7 +19117,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 96.54551405
+            "appliedTotal": 99.10561063
           }
         ]
       }
@@ -19162,7 +19162,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 14.14750589
+            "appliedTotal": 14.090958
           }
         ]
       }
@@ -19259,7 +19259,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 91.11258563
+            "appliedTotal": 104.22473576
           }
         ]
       }
@@ -19311,52 +19311,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 96.42879297
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "2969939",
-        "name": "Jameis Winston",
-        "position": "QB",
-        "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 25.74
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 52.4
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 13.33752643
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 64.32498109
+            "appliedTotal": 123.07731929
           }
         ]
       }
@@ -19408,7 +19363,52 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 73.5017049
+            "appliedTotal": 69.90240729
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "2969939",
+        "name": "Jameis Winston",
+        "position": "QB",
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 25.74
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 52.4
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 13.33752643
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 74.39168573
           }
         ]
       }
@@ -19460,7 +19460,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 79.72462711
+            "appliedTotal": 80.12328225
           }
         ]
       }
@@ -19512,7 +19512,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 86.0841198
+            "appliedTotal": 88.05632033
           }
         ]
       }
@@ -19564,7 +19564,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 114.63643314
+            "appliedTotal": 116.93015216
           }
         ]
       }
@@ -19616,7 +19616,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 94.1972197
+            "appliedTotal": 97.77926842
           }
         ]
       }
@@ -19706,7 +19706,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 23.13349586
+            "appliedTotal": 22.80196724
           }
         ]
       }
@@ -19803,7 +19803,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 81.28408289
+            "appliedTotal": 80.19194192
           }
         ]
       }
@@ -19855,7 +19855,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 100.03272341
+            "appliedTotal": 75.40679982
           }
         ]
       }
@@ -19907,7 +19907,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 106.13044056
+            "appliedTotal": 113.12922641
           }
         ]
       }
@@ -20004,7 +20004,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 72.52772117
+            "appliedTotal": 71.41027361
           }
         ]
       }
@@ -20056,59 +20056,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 53.3331512
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "-16018",
-        "name": "Saints D/ST",
-        "position": "D/ST",
-        "proTeamId": 18,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 11
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 17
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 3.71146514
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 80.08270618
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 40.50478187
+            "appliedTotal": 51.75431712
           }
         ]
       }
@@ -20171,6 +20119,58 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "-16018",
+        "name": "Saints D/ST",
+        "position": "D/ST",
+        "proTeamId": 18,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 11
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 17
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 3.71146514
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 80.08270618
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 37.90702959
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "-16011",
         "name": "Colts D/ST",
         "position": "D/ST",
@@ -20212,7 +20212,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 60.53372607
+            "appliedTotal": 48.78595198
           }
         ]
       }
@@ -20309,59 +20309,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 10.36195928
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4427095",
-        "name": "DeMario Douglas",
-        "position": "WR",
-        "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 39.7
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 22.5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 8.26037084
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 99.72276532
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 70.24957996
+            "appliedTotal": 18.96277666
           }
         ]
       }
@@ -20414,6 +20362,58 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 0
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4427095",
+        "name": "DeMario Douglas",
+        "position": "WR",
+        "proTeamId": 17,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 39.7
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 22.5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 8.26037084
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 99.72276532
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 79.28592417
           }
         ]
       }
@@ -20607,7 +20607,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 79.99455347
+            "appliedTotal": 75.66027445
           }
         ]
       }
@@ -20659,7 +20659,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 36.62608871
+            "appliedTotal": 49.06342461
           }
         ]
       }
@@ -20763,7 +20763,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 34.90506324
+            "appliedTotal": 35.82803071
           }
         ]
       }
@@ -20815,7 +20815,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 73.16287359
+            "appliedTotal": 76.733759
           }
         ]
       }
@@ -20839,14 +20839,14 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 22.06
+            "appliedTotal": 28.16
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 5,
             "statSourceId": 0,
             "statSplitTypeId": 1,
-            "appliedTotal": 17.94
+            "appliedTotal": 24.04
           },
           {
             "seasonId": 2026,
@@ -20912,7 +20912,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 87.3518122
+            "appliedTotal": 86.52834678
           }
         ]
       }
@@ -20964,7 +20964,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 77.47231537
+            "appliedTotal": 79.33095027
           }
         ]
       }
@@ -21016,7 +21016,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 29.42626971
+            "appliedTotal": 29.06082164
           }
         ]
       }
@@ -21061,7 +21061,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 11.71505846
+            "appliedTotal": 12.72710857
           }
         ]
       }
@@ -21106,7 +21106,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 55.66221227
+            "appliedTotal": 55.41913085
           }
         ]
       }
@@ -21158,7 +21158,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 72.77635231
+            "appliedTotal": 70.46920356
           }
         ]
       }
@@ -21210,7 +21210,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 29.64854626
+            "appliedTotal": 28.89320587
           }
         ]
       }
@@ -21262,7 +21262,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.46394164
+            "appliedTotal": 53.76174199
           }
         ]
       }
@@ -21352,7 +21352,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 111.03211229
+            "appliedTotal": 111.39913901
           }
         ]
       }
@@ -21404,7 +21404,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 68.1914803
+            "appliedTotal": 66.72187523
           }
         ]
       }
@@ -21546,7 +21546,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 93.05225643
+            "appliedTotal": 108.15674173
           }
         ]
       }
@@ -21650,7 +21650,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 72.53375586
+            "appliedTotal": 81.97887443
           }
         ]
       }
@@ -21702,7 +21702,52 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 39.84428525
+            "appliedTotal": 38.98979061
+          }
+        ]
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4242557",
+        "name": "Colby Parkinson",
+        "position": "TE",
+        "proTeamId": 14,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 5.1
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 7.83018221
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 110.55934751
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 52.24481497
           }
         ]
       }
@@ -21747,7 +21792,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 27.32854918
+            "appliedTotal": 27.09601689
           }
         ]
       }
@@ -21803,51 +21848,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4242557",
-        "name": "Colby Parkinson",
-        "position": "TE",
-        "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 5.1
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 7.83018221
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 110.55934751
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 53.00762926
-          }
-        ]
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4430034",
         "name": "Xavier Legette",
         "position": "WR",
@@ -21862,58 +21862,6 @@
             "statSourceId": 0,
             "statSplitTypeId": 0,
             "appliedTotal": 8.4
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "2573079",
-        "name": "Carson Wentz",
-        "position": "QB",
-        "proTeamId": 16,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 25.54
           },
           {
             "seasonId": 2026,
@@ -21986,7 +21934,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 60.13354216
+            "appliedTotal": 63.97899808
           }
         ]
       }
@@ -22038,7 +21986,59 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 42.30913059
+            "appliedTotal": 40.78198233
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "2573079",
+        "name": "Carson Wentz",
+        "position": "QB",
+        "proTeamId": 16,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 25.54
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
           }
         ]
       }
@@ -22083,7 +22083,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 30.66234112
+            "appliedTotal": 30.54560185
           }
         ]
       }
@@ -22135,7 +22135,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 76.82878529
+            "appliedTotal": 81.04981397
           }
         ]
       }
@@ -22198,51 +22198,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4685397",
-        "name": "Jordan James",
-        "position": "RB",
-        "proTeamId": 25,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 1.5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0.07675797
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4258595",
         "name": "Cole Kmet",
         "position": "TE",
@@ -22284,7 +22239,52 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 30.79581748
+            "appliedTotal": 30.10394564
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4685397",
+        "name": "Jordan James",
+        "position": "RB",
+        "proTeamId": 25,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 1.5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0.10153133
           }
         ]
       }
@@ -22336,7 +22336,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 53.03295925
+            "appliedTotal": 53.51022779
           }
         ]
       }
@@ -22388,7 +22388,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 96.79828425
+            "appliedTotal": 98.16244643
           }
         ]
       }
@@ -22485,7 +22485,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 33.38406251
+            "appliedTotal": 33.22444
           }
         ]
       }
@@ -22537,7 +22537,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 33.93195022
+            "appliedTotal": 33.98871787
           }
         ]
       }
@@ -22731,7 +22731,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 36.63806781
+            "appliedTotal": 34.85155926
           }
         ]
       }
@@ -22821,7 +22821,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 50.29488628
+            "appliedTotal": 55.87216704
           }
         ]
       }
@@ -22866,7 +22866,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 65.68105316
+            "appliedTotal": 65.9092294
           }
         ]
       }
@@ -22890,14 +22890,14 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 0.56
+            "appliedTotal": -0.64
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 5,
             "statSourceId": 0,
             "statSplitTypeId": 1,
-            "appliedTotal": 0.56
+            "appliedTotal": -0.64
           },
           {
             "seasonId": 2026,
@@ -22963,59 +22963,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 97.68927921
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4383429",
-        "name": "Jacob Saylors",
-        "position": "RB",
-        "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0.03562284
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 0.40906061
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0.40067399
+            "appliedTotal": 105.60461073
           }
         ]
       }
@@ -23067,7 +23015,59 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 38.95026582
+            "appliedTotal": 49.11430748
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4383429",
+        "name": "Jacob Saylors",
+        "position": "RB",
+        "proTeamId": 8,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0.03562284
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 0.40906061
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0.41552552
           }
         ]
       }
@@ -23119,7 +23119,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 38.08694377
+            "appliedTotal": 37.40818854
           }
         ]
       }
@@ -23171,7 +23171,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 7.54680139
+            "appliedTotal": 7.77110608
           }
         ]
       }
@@ -23275,7 +23275,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 65.9527095
+            "appliedTotal": 61.80725405
           }
         ]
       }
@@ -23313,7 +23313,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 60.71818042
+            "appliedTotal": 55.83772211
           }
         ]
       }
@@ -23403,7 +23403,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 6.36747236
+            "appliedTotal": 6.32456056
           }
         ]
       }
@@ -23455,7 +23455,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 47.43052061
+            "appliedTotal": 44.92727455
           }
         ]
       }
@@ -23507,7 +23507,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 32.2715883
+            "appliedTotal": 34.63166751
           }
         ]
       }
@@ -23611,7 +23611,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 39.02271036
+            "appliedTotal": 44.50313838
           }
         ]
       }
@@ -23656,7 +23656,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 19.52534809
+            "appliedTotal": 19.09419317
           }
         ]
       }
@@ -23708,7 +23708,45 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 87.21170932
+            "appliedTotal": 64.6396397
+          }
+        ]
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4683153",
+        "name": "Skyler Bell",
+        "position": "WR",
+        "proTeamId": 2,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0.91501555
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0.91501555
           }
         ]
       }
@@ -23754,44 +23792,6 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 2.42416323
-          }
-        ]
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4683153",
-        "name": "Skyler Bell",
-        "position": "WR",
-        "proTeamId": 2,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0.91501555
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0.91501555
           }
         ]
       }
@@ -23843,7 +23843,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 97.47959041
+            "appliedTotal": 82.25757683
           }
         ]
       }
@@ -23895,7 +23895,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 26.41353985
+            "appliedTotal": 18.78401829
           }
         ]
       }
@@ -23985,7 +23985,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 13.08300018
+            "appliedTotal": 12.97316653
           }
         ]
       }
@@ -24041,58 +24041,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "16002",
-        "name": "Kyle Juszczyk",
-        "position": "RB",
-        "proTeamId": 25,
-        "injuryStatus": "OUT",
-        "injured": true,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 15.5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 42.51520588
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 29.33306085
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4911851",
         "name": "LeQuint Allen Jr.",
         "position": "RB",
@@ -24134,7 +24082,59 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 16.88561063
+            "appliedTotal": 16.44978881
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "16002",
+        "name": "Kyle Juszczyk",
+        "position": "RB",
+        "proTeamId": 25,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 15.5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 42.51520588
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 29.27006657
           }
         ]
       }
@@ -24255,7 +24255,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 45.48505626
+            "appliedTotal": 46.11319054
           }
         ]
       }
@@ -24300,7 +24300,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 46.41815034
+            "appliedTotal": 45.41411532
           }
         ]
       }
@@ -24404,7 +24404,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 86.88455978
+            "appliedTotal": 70.46832748
           }
         ]
       }
@@ -24553,7 +24553,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.01794744
+            "appliedTotal": 31.21312008
           }
         ]
       }
@@ -24681,7 +24681,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 34.68437301
+            "appliedTotal": 38.2376725
           }
         ]
       }
@@ -24733,7 +24733,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 48.19720985
+            "appliedTotal": 52.59460276
           }
         ]
       }
@@ -24816,7 +24816,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 28.15595286
+            "appliedTotal": 31.40850456
           }
         ]
       }
@@ -24958,7 +24958,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 6.1581183
+            "appliedTotal": 5.85259525
           }
         ]
       }
@@ -25010,7 +25010,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.21570851
+            "appliedTotal": 56.42042655
           }
         ]
       }
@@ -25131,7 +25131,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 39.02921736
+            "appliedTotal": 37.59425131
           }
         ]
       }
@@ -25266,7 +25266,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 53.52599398
+            "appliedTotal": 53.10927336
           }
         ]
       }
@@ -25363,7 +25363,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.12438297
+            "appliedTotal": 56.7952791
           }
         ]
       }
@@ -25408,7 +25408,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 12.85577845
+            "appliedTotal": 13.07150314
           }
         ]
       }
@@ -25460,7 +25460,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 68.03187701
+            "appliedTotal": 64.46336927
           }
         ]
       }
@@ -25512,7 +25512,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 44.60093877
+            "appliedTotal": 44.21052084
           }
         ]
       }
@@ -25564,7 +25564,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.90864407
+            "appliedTotal": 63.18751955
           }
         ]
       }
@@ -25616,7 +25616,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 66.69055057
+            "appliedTotal": 65.63602085
           }
         ]
       }
@@ -25661,7 +25661,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 65.28159977
+            "appliedTotal": 65.43407963
           }
         ]
       }
@@ -25706,7 +25706,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 6.45769168
+            "appliedTotal": 6.31685682
           }
         ]
       }
@@ -25751,7 +25751,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 62.82207981
+            "appliedTotal": 62.31720053
           }
         ]
       }
@@ -25848,7 +25848,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 1.77559936
+            "appliedTotal": 7.26815725
           }
         ]
       }
@@ -25900,7 +25900,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 24.63697944
+            "appliedTotal": 23.78981914
           }
         ]
       }
@@ -26021,7 +26021,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 0
+            "appliedTotal": 0.2506801
           }
         ]
       }
@@ -26118,7 +26118,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 0.21125255
+            "appliedTotal": 0.20708723
           }
         ]
       }
@@ -26170,7 +26170,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 23.13042374
+            "appliedTotal": 23.49803714
           }
         ]
       }
@@ -26260,7 +26260,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 28.92589108
+            "appliedTotal": 30.43727113
           }
         ]
       }
@@ -26312,7 +26312,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 17.23458223
+            "appliedTotal": 16.47504181
           }
         ]
       }
@@ -26364,7 +26364,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 28.26798553
+            "appliedTotal": 29.97368111
           }
         ]
       }
@@ -26427,6 +26427,51 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
+        "id": "4566158",
+        "name": "Ben Sauls",
+        "position": "K",
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
         "id": "4427728",
         "name": "Bam Knight",
         "position": "RB",
@@ -26461,89 +26506,6 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 2,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "5208518",
-        "name": "Charlie Smyth",
-        "position": "K",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4566158",
-        "name": "Ben Sauls",
-        "position": "K",
-        "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
             "appliedTotal": 0
           },
           {
@@ -26603,7 +26565,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 2.08704616
+            "appliedTotal": 2.03553114
           }
         ]
       }
@@ -26783,7 +26745,90 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 13.31655276
+            "appliedTotal": 13.23662163
+          }
+        ]
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4569382",
+        "name": "Jordan Whittington",
+        "position": "WR",
+        "proTeamId": 14,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 3.2
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 1.74898651
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 38.37038559
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 19.80461029
+          }
+        ]
+      }
+    },
+    {
+      "status": "FREEAGENT",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "5208518",
+        "name": "Charlie Smyth",
+        "position": "K",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
           }
         ]
       }
@@ -26880,7 +26925,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 31.06454663
+            "appliedTotal": 49.78915112
           }
         ]
       }
@@ -26932,7 +26977,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 35.94542323
+            "appliedTotal": 29.43447582
           }
         ]
       }
@@ -26984,52 +27029,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 11.91517123
-          }
-        ]
-      }
-    },
-    {
-      "status": "FREEAGENT",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4569382",
-        "name": "Jordan Whittington",
-        "position": "WR",
-        "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 3.2
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 1.74898651
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 38.37038559
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 20.2312493
+            "appliedTotal": 11.7783597
           }
         ]
       }
@@ -27081,7 +27081,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 43.51031986
+            "appliedTotal": 47.81810933
           }
         ]
       }
@@ -27133,7 +27133,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 3.66165258
+            "appliedTotal": 3.8224992
           }
         ]
       }
@@ -27185,7 +27185,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 5.96666606
+            "appliedTotal": 5.87505634
           }
         ]
       }
@@ -27237,7 +27237,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 16.85610458
+            "appliedTotal": 16.9764172
           }
         ]
       }
@@ -27337,7 +27337,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 14.15406776
+            "appliedTotal": 13.87203589
           }
         ]
       }
@@ -27434,7 +27434,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 6.03223963
+            "appliedTotal": 5.94163467
           }
         ]
       }
@@ -27486,7 +27486,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 33.29908318
+            "appliedTotal": 32.6202562
           }
         ]
       }
@@ -27538,7 +27538,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 9.85244139
+            "appliedTotal": 9.76865309
           }
         ]
       }
@@ -27642,7 +27642,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 21.09816872
+            "appliedTotal": 21.64172356
           }
         ]
       }
@@ -27739,7 +27739,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 48.99854632
+            "appliedTotal": 53.09297945
           }
         ]
       }
@@ -27791,7 +27791,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 16.42635308
+            "appliedTotal": 16.4540437
           }
         ]
       }
@@ -27874,7 +27874,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 0.15173321
+            "appliedTotal": 0.14962488
           }
         ]
       }
@@ -27926,7 +27926,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 25.9522524
+            "appliedTotal": 24.23288857
           }
         ]
       }
@@ -28009,7 +28009,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 1.31432089
+            "appliedTotal": 1.38075925
           }
         ]
       }
@@ -28061,7 +28061,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 23.46091738
+            "appliedTotal": 23.35819453
           }
         ]
       }
@@ -28151,7 +28151,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 21.58694886
+            "appliedTotal": 22.28796462
           }
         ]
       }
@@ -28203,7 +28203,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 7.3391938
+            "appliedTotal": 7.58033702
           }
         ]
       }
@@ -28255,7 +28255,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 37.89861818
+            "appliedTotal": 32.65785063
           }
         ]
       }
@@ -28359,7 +28359,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 25.38792355
+            "appliedTotal": 34.23068622
           }
         ]
       }
@@ -28411,7 +28411,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 20.46768072
+            "appliedTotal": 19.92807067
           }
         ]
       }
@@ -28463,7 +28463,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 11.0047951
+            "appliedTotal": 11.57853876
           }
         ]
       }
@@ -28515,7 +28515,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 43.57385392
+            "appliedTotal": 36.60233054
           }
         ]
       }
@@ -28567,7 +28567,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 17.87696137
+            "appliedTotal": 17.91221176
           }
         ]
       }
@@ -28671,7 +28671,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 58.9885525
+            "appliedTotal": 62.4870801
           }
         ]
       }
@@ -28716,7 +28716,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 41.59975327
+            "appliedTotal": 41.77378775
           }
         ]
       }
@@ -28761,7 +28761,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 14.58566938
+            "appliedTotal": 16.39759911
           }
         ]
       }
@@ -28830,51 +28830,6 @@
             "scoringPeriodId": 5,
             "statSourceId": 0,
             "statSplitTypeId": 1,
-            "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "3892775",
-        "name": "Jarrett Stidham",
-        "position": "QB",
-        "proTeamId": 7,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
             "appliedTotal": 0
           }
         ]
@@ -28979,7 +28934,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 19.4846449
+            "appliedTotal": 18.5603864
           }
         ]
       }
@@ -29031,7 +28986,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 10.72476599
+            "appliedTotal": 9.7606351
           }
         ]
       }
@@ -29076,7 +29031,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 6.11348474
+            "appliedTotal": 6.08084545
           }
         ]
       }
@@ -29225,7 +29180,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 18.43799455
+            "appliedTotal": 18.30725602
           }
         ]
       }
@@ -29384,7 +29339,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 48.27336591
+            "appliedTotal": 47.83431974
           }
         ]
       }
@@ -29414,6 +29369,51 @@
             "seasonId": 2026,
             "scoringPeriodId": 5,
             "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3892775",
+        "name": "Jarrett Stidham",
+        "position": "QB",
+        "proTeamId": 7,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
             "statSplitTypeId": 1,
             "appliedTotal": 0
           },
@@ -29519,7 +29519,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 63.32160708
+            "appliedTotal": 57.28934426
           }
         ]
       }
@@ -29616,7 +29616,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 35.98705277
+            "appliedTotal": 39.09460202
           }
         ]
       }
@@ -29758,7 +29758,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 9.97449611
+            "appliedTotal": 10.77622135
           }
         ]
       }
@@ -29810,7 +29810,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 34.27654201
+            "appliedTotal": 8.67881648
           }
         ]
       }
@@ -29862,7 +29862,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 12.98892786
+            "appliedTotal": 1.4253347
           }
         ]
       }
@@ -29914,7 +29914,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 1.37719996
+            "appliedTotal": 1.42456819
           }
         ]
       }
@@ -29959,7 +29959,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 1.22649281
+            "appliedTotal": 1.30163848
           }
         ]
       }
@@ -30350,7 +30350,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 25.70157563
+            "appliedTotal": 24.25270444
           }
         ]
       }
@@ -30402,7 +30402,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 5.93341881
+            "appliedTotal": 5.77290103
           }
         ]
       }
@@ -30454,7 +30454,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 12.26924933
+            "appliedTotal": 12.22974985
           }
         ]
       }
@@ -30506,7 +30506,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 6.2110873
+            "appliedTotal": 6.08787484
           }
         ]
       }
@@ -30558,7 +30558,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 24.97446084
+            "appliedTotal": 24.11102394
           }
         ]
       }
@@ -30610,7 +30610,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 20.22483279
+            "appliedTotal": 19.20648821
           }
         ]
       }
@@ -30752,7 +30752,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 14.91419054
+            "appliedTotal": 14.9303061
           }
         ]
       }
@@ -31032,7 +31032,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 1.68624323
+            "appliedTotal": 1.80931227
           }
         ]
       }
@@ -31102,6 +31102,13 @@
             "statSourceId": 0,
             "statSplitTypeId": 1,
             "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 2.33562438
           }
         ]
       }
@@ -31153,7 +31160,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 12.47320127
+            "appliedTotal": 12.18477523
           }
         ]
       }
@@ -31302,7 +31309,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 41.55197225
+            "appliedTotal": 40.50090614
           }
         ]
       }
@@ -31354,7 +31361,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 33.73109591
+            "appliedTotal": 33.00276621
           }
         ]
       }
@@ -31458,7 +31465,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 10.41209805
+            "appliedTotal": 4.8310106
           }
         ]
       }
@@ -31510,7 +31517,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 12.56083907
+            "appliedTotal": 12.65257216
           }
         ]
       }
@@ -31562,7 +31569,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 1.3793967
+            "appliedTotal": 1.3181492
           }
         ]
       }
@@ -31614,7 +31621,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 11.05742758
+            "appliedTotal": 10.87149645
           }
         ]
       }
@@ -31919,7 +31926,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 12.1750457
+            "appliedTotal": 11.64424201
           }
         ]
       }
@@ -32106,7 +32113,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 5.10293597
+            "appliedTotal": 5.42531243
           }
         ]
       }
@@ -32651,7 +32658,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 1.20148705
+            "appliedTotal": 1.18628117
           }
         ]
       }
@@ -33030,7 +33037,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 33.98273278
+            "appliedTotal": 32.61014871
           }
         ]
       }
@@ -33075,59 +33082,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 21.42439296
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "4372505",
-        "name": "Payne Durham",
-        "position": "TE",
-        "proTeamId": 27,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 1.5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 0,
-            "statSplitTypeId": 1,
-            "appliedTotal": 1.5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 5,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0.44438153
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 10.49668583
+            "appliedTotal": 21.05197855
           }
         ]
       }
@@ -33224,7 +33179,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 12.53859904
+            "appliedTotal": 11.62626961
           }
         ]
       }
@@ -33425,7 +33380,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 11.92122388
+            "appliedTotal": 11.70956079
           }
         ]
       }
@@ -33522,7 +33477,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 13.31618341
+            "appliedTotal": 13.48376602
           }
         ]
       }
@@ -33574,7 +33529,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 0.33286843
+            "appliedTotal": 0.33142471
           }
         ]
       }
@@ -33619,7 +33574,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 12.85714091
+            "appliedTotal": 13.70859466
           }
         ]
       }
@@ -33851,7 +33806,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 48.60855601
+            "appliedTotal": 45.11044539
           }
         ]
       }
@@ -33982,7 +33937,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 10.74670022
+            "appliedTotal": 10.43292704
           }
         ]
       }
@@ -34027,7 +33982,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 9.95509161
+            "appliedTotal": 9.41547122
           }
         ]
       }
@@ -34200,7 +34155,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 17.64817772
+            "appliedTotal": 18.35161742
           }
         ]
       }
@@ -34245,7 +34200,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 30.37744261
+            "appliedTotal": 30.44308516
           }
         ]
       }
@@ -34428,7 +34383,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 0.88183671
+            "appliedTotal": 0.89891578
           }
         ]
       }
@@ -34749,7 +34704,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 3.22313477
+            "appliedTotal": 3.25681025
           }
         ]
       }
@@ -34836,6 +34791,58 @@
             "statSourceId": 0,
             "statSplitTypeId": 0,
             "appliedTotal": 0
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4372505",
+        "name": "Payne Durham",
+        "position": "TE",
+        "proTeamId": 27,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 1.5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 0,
+            "statSplitTypeId": 1,
+            "appliedTotal": 1.5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 5,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0.44438153
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 11.10187865
           }
         ]
       }
@@ -35022,7 +35029,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 11.54193565
+            "appliedTotal": 11.63551874
           }
         ]
       }
@@ -35126,7 +35133,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 10.54706059
+            "appliedTotal": 15.69987712
           }
         ]
       }
@@ -35413,7 +35420,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
-            "appliedTotal": 16.02481088
+            "appliedTotal": 16.00521278
           }
         ]
       }
