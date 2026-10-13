@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-13T16:31:49.085Z",
-  "fingerprint": "6e9fa110",
+  "generatedAt": "2026-10-13T16:36:50.570Z",
+  "fingerprint": "3fc0fe87",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -1324,7 +1324,7 @@
         "acquisitions": 3,
         "drops": 2,
         "trades": 0,
-        "moveToActive": 15,
+        "moveToActive": 16,
         "moveToIR": 1
       },
       "roster": [
@@ -1565,8 +1565,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -1912,8 +1912,8 @@
           }
         },
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -9215,13 +9215,13 @@
         "acquisitions": 5,
         "drops": 5,
         "trades": 0,
-        "moveToActive": 8,
+        "moveToActive": 11,
         "moveToIR": 2
       },
       "roster": [
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 10,
           "player": {
@@ -9574,8 +9574,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 2,
+          "lineupSlot": "RB",
           "status": "ONTEAM",
           "onTeamId": 10,
           "player": {
@@ -9751,8 +9751,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 10,
           "player": {
@@ -9810,8 +9810,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 23,
+          "lineupSlot": "FLEX",
           "status": "ONTEAM",
           "onTeamId": 10,
           "player": {
@@ -9869,8 +9869,8 @@
           }
         },
         {
-          "lineupSlotId": 23,
-          "lineupSlot": "FLEX",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 10,
           "player": {
@@ -10039,8 +10039,8 @@
           }
         },
         {
-          "lineupSlotId": 2,
-          "lineupSlot": "RB",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 10,
           "player": {
@@ -10175,7 +10175,7 @@
         "teamId": 2,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 127.12855586
+        "totalProjectedPointsLive": 136.22936274
       }
     },
     {
@@ -10187,7 +10187,7 @@
         "teamId": 10,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 82.87892369
+        "totalProjectedPointsLive": 125.16292092
       },
       "away": {
         "teamId": 1,
@@ -10656,6 +10656,30 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 10,
+      "scoringPeriodId": 6,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3042519",
+          "playerName": "Aaron Jones Sr.",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "3916433",
+          "playerName": "Jakobi Meyers",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 5,
       "scoringPeriodId": 6,
       "processDate": 0,
@@ -10695,6 +10719,78 @@
         {
           "playerId": "4032473",
           "playerName": "Rashid Shaheed",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 10,
+      "scoringPeriodId": 6,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4362628",
+          "playerName": "Ja'Marr Chase",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4248528",
+          "playerName": "Christian Watson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 10,
+      "scoringPeriodId": 6,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4431545",
+          "playerName": "Will Shipley",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4569173",
+          "playerName": "Rhamondre Stevenson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 2,
+      "scoringPeriodId": 6,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4685472",
+          "playerName": "Tetairoa McMillan",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4870795",
+          "playerName": "Makai Lemon",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -12730,151 +12826,6 @@
           "playerName": "Kyle Monangai",
           "type": "LINEUP",
           "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 10,
-      "scoringPeriodId": 5,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4432708",
-          "playerName": "Marvin Harrison Jr.",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 2,
-      "scoringPeriodId": 5,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16026",
-          "playerName": "Seahawks D/ST",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "-16017",
-          "playerName": "Patriots D/ST",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 7,
-      "scoringPeriodId": 0,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "15847",
-          "playerName": "Travis Kelce",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4430027",
-          "playerName": "Sam LaPorta",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4241416",
-          "playerName": "Chuba Hubbard",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3139477",
-          "playerName": "Patrick Mahomes",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4569587",
-          "playerName": "Wan'Dale Robinson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4686361",
-          "playerName": "Cam Little",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4360234",
-          "playerName": "Evan McPherson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4695883",
-          "playerName": "Jalen Coker",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4429023",
-          "playerName": "MarShawn Lloyd",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "2578570",
-          "playerName": "Jacoby Brissett",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 5,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4430539",
-          "playerName": "Brenton Strange",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "-16003",
-          "playerName": "Bears D/ST",
-          "type": "DROP",
-          "fromTeamId": 3,
           "toTeamId": 0
         }
       ]
