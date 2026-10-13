@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-13T16:36:50.570Z",
-  "fingerprint": "3fc0fe87",
+  "generatedAt": "2026-10-13T16:47:42.174Z",
+  "fingerprint": "d4110df5",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -1324,7 +1324,7 @@
         "acquisitions": 3,
         "drops": 2,
         "trades": 0,
-        "moveToActive": 16,
+        "moveToActive": 17,
         "moveToIR": 1
       },
       "roster": [
@@ -1388,8 +1388,8 @@
           }
         },
         {
-          "lineupSlotId": 23,
-          "lineupSlot": "FLEX",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -2148,8 +2148,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 23,
+          "lineupSlot": "FLEX",
           "status": "ONTEAM",
           "onTeamId": 2,
           "player": {
@@ -9692,8 +9692,8 @@
           }
         },
         {
-          "lineupSlotId": 21,
-          "lineupSlot": "IR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 10,
           "player": {
@@ -10175,7 +10175,7 @@
         "teamId": 2,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 136.22936274
+        "totalProjectedPointsLive": 137.7424021
       }
     },
     {
@@ -10719,6 +10719,47 @@
         {
           "playerId": "4032473",
           "playerName": "Rashid Shaheed",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 2,
+      "scoringPeriodId": 6,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3929645",
+          "playerName": "Juwan Johnson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4685382",
+          "playerName": "Omarion Hampton",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 10,
+      "scoringPeriodId": 6,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4432708",
+          "playerName": "Marvin Harrison Jr.",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -12785,47 +12826,6 @@
           "playerName": "Cameron Dicker",
           "type": "DROP",
           "fromTeamId": 4,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 9,
-      "scoringPeriodId": 5,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16020",
-          "playerName": "Jets D/ST",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 9
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 1,
-      "scoringPeriodId": 5,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4035538",
-          "playerName": "David Montgomery",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4608686",
-          "playerName": "Kyle Monangai",
-          "type": "LINEUP",
-          "fromTeamId": 0,
           "toTeamId": 0
         }
       ]
