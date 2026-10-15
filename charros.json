@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-15T22:01:45.465Z",
-  "fingerprint": "1420deea",
+  "generatedAt": "2026-10-15T22:07:45.320Z",
+  "fingerprint": "c61d9494",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -6151,7 +6151,7 @@
             "name": "Jacory Croskey-Merritt",
             "position": "RB",
             "proTeamId": 28,
-            "injuryStatus": "ACTIVE",
+            "injuryStatus": "QUESTIONABLE",
             "injured": false,
             "droppable": true,
             "stats": [
