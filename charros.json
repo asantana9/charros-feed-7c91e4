@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-18T15:33:00.121Z",
-  "fingerprint": "a9234e87",
+  "generatedAt": "2026-10-18T15:38:01.028Z",
+  "fingerprint": "4e4bbbdd",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -545,8 +545,8 @@
             "name": "Quinshon Judkins",
             "position": "RB",
             "proTeamId": 5,
-            "injuryStatus": "QUESTIONABLE",
-            "injured": false,
+            "injuryStatus": "OUT",
+            "injured": true,
             "droppable": true,
             "stats": [
               {
@@ -604,8 +604,8 @@
             "name": "Tyler Warren",
             "position": "TE",
             "proTeamId": 11,
-            "injuryStatus": "QUESTIONABLE",
-            "injured": false,
+            "injuryStatus": "OUT",
+            "injured": true,
             "droppable": true,
             "stats": [
               {
@@ -1699,7 +1699,7 @@
             "name": "TreVeyon Henderson",
             "position": "RB",
             "proTeamId": 17,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -2513,7 +2513,7 @@
             "name": "Chris Olave",
             "position": "WR",
             "proTeamId": 18,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -2699,14 +2699,14 @@
                 "scoringPeriodId": 6,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 19
+                "appliedTotal": 19.3
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 82.7
+                "appliedTotal": 83
               },
               {
                 "seasonId": 2026,
@@ -2947,7 +2947,7 @@
             "name": "A.J. Brown",
             "position": "WR",
             "proTeamId": 17,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -9159,7 +9159,7 @@
             "name": "Alvin Kamara",
             "position": "RB",
             "proTeamId": 18,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -10406,7 +10406,7 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 25.4,
-        "totalProjectedPointsLive": 125.39884508
+        "totalProjectedPointsLive": 99.39370838
       }
     },
     {
@@ -10418,13 +10418,13 @@
         "teamId": 7,
         "totalPoints": 0,
         "totalPointsLive": 4,
-        "totalProjectedPointsLive": 119.05783118
+        "totalProjectedPointsLive": 118.84976172
       },
       "away": {
         "teamId": 3,
         "totalPoints": 0,
-        "totalPointsLive": 49.4,
-        "totalProjectedPointsLive": 141.98260352
+        "totalPointsLive": 49.7,
+        "totalProjectedPointsLive": 142.07950071
       }
     },
     {
@@ -10454,7 +10454,7 @@
         "teamId": 6,
         "totalPoints": 0,
         "totalPointsLive": 5.2,
-        "totalProjectedPointsLive": 119.81260735
+        "totalProjectedPointsLive": 119.56347453
       },
       "away": {
         "teamId": 8,
@@ -13996,7 +13996,7 @@
         "name": "Kenyon Sadiq",
         "position": "TE",
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
         "stats": [
@@ -16284,7 +16284,7 @@
         "name": "Ja'Kobi Lane",
         "position": "WR",
         "proTeamId": 33,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
         "stats": [
@@ -18361,7 +18361,7 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
         "stats": [
@@ -21098,8 +21098,8 @@
         "name": "Nicholas Singleton",
         "position": "RB",
         "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -21406,8 +21406,8 @@
         "name": "Joe Milton III",
         "position": "QB",
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -23260,8 +23260,8 @@
         "name": "Hollywood Brown",
         "position": "WR",
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -24256,8 +24256,8 @@
         "name": "Elijah Sarratt",
         "position": "WR",
         "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -30276,8 +30276,8 @@
         "name": "Riley Leonard",
         "position": "QB",
         "proTeamId": 11,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -31012,8 +31012,8 @@
         "name": "Taylen Green",
         "position": "QB",
         "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
