@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-18T15:38:01.028Z",
-  "fingerprint": "4e4bbbdd",
+  "generatedAt": "2026-10-18T15:48:03.049Z",
+  "fingerprint": "4994802b",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -2756,7 +2756,7 @@
             "name": "Rico Dowdle",
             "position": "RB",
             "proTeamId": 23,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -3315,7 +3315,7 @@
             "name": "Caleb Williams",
             "position": "QB",
             "proTeamId": 3,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -4007,7 +4007,7 @@
             "name": "Pat Freiermuth",
             "position": "TE",
             "proTeamId": 23,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -4816,14 +4816,14 @@
                 "scoringPeriodId": 6,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 13.34
+                "appliedTotal": 14.22
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 100.2
+                "appliedTotal": 101.08
               },
               {
                 "seasonId": 2026,
@@ -6390,14 +6390,14 @@
                 "scoringPeriodId": 6,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 20.44
+                "appliedTotal": 21.34
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 109.62
+                "appliedTotal": 110.52
               },
               {
                 "seasonId": 2026,
@@ -9227,14 +9227,14 @@
                 "scoringPeriodId": 6,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 2.6
+                "appliedTotal": 2.9
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 45.9
+                "appliedTotal": 46.2
               },
               {
                 "seasonId": 2026,
@@ -10406,7 +10406,7 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 25.4,
-        "totalProjectedPointsLive": 99.39370838
+        "totalProjectedPointsLive": 98.1631275
       }
     },
     {
@@ -10418,13 +10418,13 @@
         "teamId": 7,
         "totalPoints": 0,
         "totalPointsLive": 4,
-        "totalProjectedPointsLive": 118.84976172
+        "totalProjectedPointsLive": 118.18883521
       },
       "away": {
         "teamId": 3,
         "totalPoints": 0,
         "totalPointsLive": 49.7,
-        "totalProjectedPointsLive": 142.07950071
+        "totalProjectedPointsLive": 141.43435064
       }
     },
     {
@@ -10454,7 +10454,7 @@
         "teamId": 6,
         "totalPoints": 0,
         "totalPointsLive": 5.2,
-        "totalProjectedPointsLive": 119.56347453
+        "totalProjectedPointsLive": 118.77211147
       },
       "away": {
         "teamId": 8,
@@ -17252,14 +17252,14 @@
             "scoringPeriodId": 6,
             "statSourceId": 0,
             "statSplitTypeId": 1,
-            "appliedTotal": 0
+            "appliedTotal": 2
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 27.3
+            "appliedTotal": 29.3
           },
           {
             "seasonId": 2026,
@@ -20828,8 +20828,8 @@
         "name": "Eli Heidenreich",
         "position": "RB",
         "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -22053,7 +22053,7 @@
         "name": "Trevor Etienne",
         "position": "RB",
         "proTeamId": 29,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
         "stats": [
@@ -23862,8 +23862,8 @@
         "name": "Drew Allar",
         "position": "QB",
         "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -24730,8 +24730,8 @@
         "name": "Ja'Tavion Sanders",
         "position": "TE",
         "proTeamId": 29,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -24739,7 +24739,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 0.6
+            "appliedTotal": 0
           },
           {
             "seasonId": 2026,
@@ -27516,14 +27516,14 @@
             "scoringPeriodId": 6,
             "statSourceId": 0,
             "statSplitTypeId": 1,
-            "appliedTotal": 1
+            "appliedTotal": 1.1
           },
           {
             "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 1
+            "appliedTotal": 1.1
           },
           {
             "seasonId": 2026,
@@ -28095,8 +28095,8 @@
         "name": "Will Howard",
         "position": "QB",
         "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -30760,8 +30760,8 @@
         "name": "Zach Wilson",
         "position": "QB",
         "proTeamId": 18,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -32905,8 +32905,8 @@
         "name": "Haynes King",
         "position": "QB",
         "proTeamId": 29,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "injuryStatus": "OUT",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
