@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-20T21:53:21.183Z",
-  "fingerprint": "a2ea5b15",
+  "generatedAt": "2026-10-20T22:03:41.497Z",
+  "fingerprint": "8362c9cd",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -10645,6 +10645,167 @@
           "toTeamId": 0
         },
         {
+          "playerId": "4361370",
+          "playerName": "Chris Olave",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 10,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4871023",
+          "playerName": "Carnell Tate",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4362628",
+          "playerName": "Ja'Marr Chase",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "CANCELED",
+      "type": "WAIVER",
+      "teamId": 4,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4427095",
+          "playerName": "DeMario Douglas",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 4
+        },
+        {
+          "playerId": "4431492",
+          "playerName": "Roman Wilson",
+          "type": "DROP",
+          "fromTeamId": 4,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 6,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4374302",
+          "playerName": "Amon-Ra St. Brown",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360689",
+          "playerName": "Tyler Shough",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4431611",
+          "playerName": "Caleb Williams",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 6,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "2576925",
+          "playerName": "Darren Waller",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "3121422",
+          "playerName": "Terry McLaurin",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "PENDING",
+      "type": "WAIVER",
+      "teamId": 3,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "17372",
+          "playerName": "Chris Boswell",
+          "type": "ADD",
+          "fromTeamId": 0,
+          "toTeamId": 3
+        },
+        {
+          "playerId": "4259619",
+          "playerName": "Blake Grupe",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4047646",
+          "playerName": "A.J. Brown",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
           "playerId": "4426385",
           "playerName": "Zach Charbonnet",
           "type": "LINEUP",
@@ -10704,71 +10865,6 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 7,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4047646",
-          "playerName": "A.J. Brown",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4361370",
-          "playerName": "Chris Olave",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 10,
-      "scoringPeriodId": 7,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4871023",
-          "playerName": "Carnell Tate",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4362628",
-          "playerName": "Ja'Marr Chase",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 6,
-      "scoringPeriodId": 7,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4374302",
-          "playerName": "Amon-Ra St. Brown",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
       "teamId": 6,
       "scoringPeriodId": 7,
       "processDate": 0,
@@ -10816,46 +10912,22 @@
     },
     {
       "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 3,
-      "scoringPeriodId": 7,
+      "type": "FUTURE_ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 8,
       "processDate": 0,
       "bidAmount": 0,
       "items": [
         {
-          "playerId": "4360689",
-          "playerName": "Tyler Shough",
+          "playerId": "4428718",
+          "playerName": "Tre Tucker",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
         },
         {
-          "playerId": "4431611",
-          "playerName": "Caleb Williams",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 6,
-      "scoringPeriodId": 7,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "2576925",
-          "playerName": "Darren Waller",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3121422",
-          "playerName": "Terry McLaurin",
+          "playerId": "4431492",
+          "playerName": "Roman Wilson",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -10882,30 +10954,6 @@
           "playerName": "Bhayshul Tuten",
           "type": "LINEUP",
           "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 7,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "17372",
-          "playerName": "Chris Boswell",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4259619",
-          "playerName": "Blake Grupe",
-          "type": "DROP",
-          "fromTeamId": 3,
           "toTeamId": 0
         }
       ]
@@ -12522,54 +12570,6 @@
         {
           "playerId": "4572680",
           "playerName": "Tucker Kraft",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 6,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "3121422",
-          "playerName": "Terry McLaurin",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4374302",
-          "playerName": "Amon-Ra St. Brown",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 2,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4685472",
-          "playerName": "Tetairoa McMillan",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4870795",
-          "playerName": "Makai Lemon",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -28750,17 +28750,17 @@
           },
           {
             "seasonId": 2026,
-            "scoringPeriodId": 7,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 56.48457323
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 7,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
           }
         ]
       }
