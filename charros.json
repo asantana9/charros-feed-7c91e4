@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-22T23:07:08.310Z",
-  "fingerprint": "52cf79f5",
+  "generatedAt": "2026-10-22T23:27:30.695Z",
+  "fingerprint": "34c223cb",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -14133,7 +14133,7 @@
         "name": "Rashid Shaheed",
         "position": "WR",
         "proTeamId": 26,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
         "stats": [
@@ -24462,7 +24462,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 0.6
+            "appliedTotal": 0
           },
           {
             "seasonId": 2026,
