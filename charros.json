@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-22T22:33:53.055Z",
-  "fingerprint": "9ba4c914",
+  "generatedAt": "2026-10-22T22:47:37.578Z",
+  "fingerprint": "7882718d",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -3113,7 +3113,7 @@
             "name": "Dallas Goedert",
             "position": "TE",
             "proTeamId": 21,
-            "injuryStatus": "ACTIVE",
+            "injuryStatus": "QUESTIONABLE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -3354,7 +3354,7 @@
         "acquisitions": 34,
         "drops": 29,
         "trades": 2,
-        "moveToActive": 57,
+        "moveToActive": 58,
         "moveToIR": 1
       },
       "roster": [
@@ -3796,8 +3796,8 @@
           }
         },
         {
-          "lineupSlotId": 6,
-          "lineupSlot": "TE",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 4,
           "player": {
@@ -3855,8 +3855,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 6,
+          "lineupSlot": "TE",
           "status": "ONTEAM",
           "onTeamId": 4,
           "player": {
@@ -7188,13 +7188,13 @@
         "acquisitions": 8,
         "drops": 8,
         "trades": 2,
-        "moveToActive": 23,
+        "moveToActive": 27,
         "moveToIR": 0
       },
       "roster": [
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 0,
+          "lineupSlot": "QB",
           "status": "ONTEAM",
           "onTeamId": 8,
           "player": {
@@ -7370,8 +7370,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 8,
           "player": {
@@ -7488,8 +7488,8 @@
           }
         },
         {
-          "lineupSlotId": 0,
-          "lineupSlot": "QB",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 8,
           "player": {
@@ -7776,8 +7776,8 @@
           }
         },
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 8,
           "player": {
@@ -7835,8 +7835,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 2,
+          "lineupSlot": "RB",
           "status": "ONTEAM",
           "onTeamId": 8,
           "player": {
@@ -7887,8 +7887,8 @@
           }
         },
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 8,
           "player": {
@@ -8005,8 +8005,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 8,
           "player": {
@@ -8057,8 +8057,8 @@
           }
         },
         {
-          "lineupSlotId": 2,
-          "lineupSlot": "RB",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 8,
           "player": {
@@ -8262,7 +8262,7 @@
             "name": "DeVonta Smith",
             "position": "WR",
             "proTeamId": 21,
-            "injuryStatus": "ACTIVE",
+            "injuryStatus": "QUESTIONABLE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -10164,13 +10164,13 @@
         "teamId": 4,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 125.35486691
+        "totalProjectedPointsLive": 131.96689742
       },
       "away": {
         "teamId": 8,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 86.10121459
+        "totalProjectedPointsLive": 118.82408343
       }
     }
   ],
@@ -11227,6 +11227,30 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 8,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4832800",
+          "playerName": "Denzel Boston",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4262921",
+          "playerName": "Justin Jefferson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 5,
       "scoringPeriodId": 7,
       "processDate": 0,
@@ -11443,6 +11467,30 @@
         {
           "playerId": "4431299",
           "playerName": "Rome Odunze",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 8,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3916387",
+          "playerName": "Lamar Jackson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4361741",
+          "playerName": "Brock Purdy",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -11709,6 +11757,30 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 8,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3915416",
+          "playerName": "DJ Moore",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4047650",
+          "playerName": "DK Metcalf",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 6,
       "scoringPeriodId": 7,
       "processDate": 0,
@@ -11892,6 +11964,30 @@
         {
           "playerId": "14880",
           "playerName": "Kirk Cousins",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 4,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "3040151",
+          "playerName": "George Kittle",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4361411",
+          "playerName": "Pat Freiermuth",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -12091,6 +12187,30 @@
         {
           "playerId": "3040151",
           "playerName": "George Kittle",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 8,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4711533",
+          "playerName": "Ollie Gordon II",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4697815",
+          "playerName": "Rachaad White",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -12422,119 +12542,6 @@
           "playerName": "Dontayvion Wicks",
           "type": "DROP",
           "fromTeamId": 9,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 6,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4575131",
-          "playerName": "Jacory Croskey-Merritt",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 6
-        },
-        {
-          "playerId": "3068267",
-          "playerName": "Austin Ekeler",
-          "type": "DROP",
-          "fromTeamId": 6,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "PENDING",
-      "type": "WAIVER",
-      "teamId": 3,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "-16014",
-          "playerName": "Rams D/ST",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 3
-        },
-        {
-          "playerId": "4635008",
-          "playerName": "Keon Coleman",
-          "type": "DROP",
-          "fromTeamId": 3,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4569559",
-          "playerName": "Devaughn Vele",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3915416",
-          "playerName": "DJ Moore",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 4,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4428718",
-          "playerName": "Tre Tucker",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 4
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4373678",
-          "playerName": "Khalil Shakir",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4887558",
-          "playerName": "Emanuel Wilson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
           "toTeamId": 0
         }
       ]
@@ -24455,7 +24462,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 0
+            "appliedTotal": 0.6
           },
           {
             "seasonId": 2026,
@@ -27731,17 +27738,17 @@
           },
           {
             "seasonId": 2026,
-            "scoringPeriodId": 7,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 56.49216671
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 7,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
           }
         ]
       }
