@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-22T21:59:30.263Z",
-  "fingerprint": "ae873303",
+  "generatedAt": "2026-10-22T22:10:53.619Z",
+  "fingerprint": "25d20bae",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -2332,7 +2332,7 @@
         "acquisitions": 21,
         "drops": 20,
         "trades": 1,
-        "moveToActive": 28,
+        "moveToActive": 29,
         "moveToIR": 3
       },
       "roster": [
@@ -2455,8 +2455,8 @@
           }
         },
         {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
+          "lineupSlotId": 23,
+          "lineupSlot": "FLEX",
           "status": "ONTEAM",
           "onTeamId": 3,
           "player": {
@@ -2514,8 +2514,8 @@
           }
         },
         {
-          "lineupSlotId": 4,
-          "lineupSlot": "WR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 3,
           "player": {
@@ -2809,8 +2809,8 @@
           }
         },
         {
-          "lineupSlotId": 23,
-          "lineupSlot": "FLEX",
+          "lineupSlotId": 4,
+          "lineupSlot": "WR",
           "status": "ONTEAM",
           "onTeamId": 3,
           "player": {
@@ -10146,7 +10146,7 @@
         "teamId": 3,
         "totalPoints": 0,
         "totalPointsLive": 0,
-        "totalProjectedPointsLive": 131.8331143
+        "totalProjectedPointsLive": 132.45119312
       },
       "away": {
         "teamId": 6,
@@ -10904,6 +10904,30 @@
       "bidAmount": 0,
       "items": [
         {
+          "playerId": "4569618",
+          "playerName": "Garrett Wilson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4361370",
+          "playerName": "Chris Olave",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
           "playerId": "4047646",
           "playerName": "A.J. Brown",
           "type": "LINEUP",
@@ -11256,6 +11280,30 @@
       "processDate": 0,
       "bidAmount": 0,
       "items": []
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 7,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4047646",
+          "playerName": "A.J. Brown",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        },
+        {
+          "playerId": "4569618",
+          "playerName": "Garrett Wilson",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
     },
     {
       "status": "EXECUTED",
@@ -12485,47 +12533,6 @@
         {
           "playerId": "4887558",
           "playerName": "Emanuel Wilson",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "FREEAGENT",
-      "teamId": 10,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4599739",
-          "playerName": "Kendre Miller",
-          "type": "ADD",
-          "fromTeamId": 0,
-          "toTeamId": 10
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 10,
-      "scoringPeriodId": 6,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4362628",
-          "playerName": "Ja'Marr Chase",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4248528",
-          "playerName": "Christian Watson",
           "type": "LINEUP",
           "fromTeamId": 0,
           "toTeamId": 0
@@ -23121,16 +23128,16 @@
           },
           {
             "seasonId": 2026,
-            "scoringPeriodId": 7,
+            "scoringPeriodId": 0,
             "statSourceId": 1,
-            "statSplitTypeId": 1,
+            "statSplitTypeId": 0,
             "appliedTotal": 0
           },
           {
             "seasonId": 2026,
-            "scoringPeriodId": 0,
+            "scoringPeriodId": 7,
             "statSourceId": 1,
-            "statSplitTypeId": 0,
+            "statSplitTypeId": 1,
             "appliedTotal": 0
           }
         ]
@@ -23695,17 +23702,17 @@
           },
           {
             "seasonId": 2026,
-            "scoringPeriodId": 7,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 7.55200741
-          },
-          {
-            "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 17.93561966
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 7,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 7.55200741
           }
         ]
       }
@@ -24448,7 +24455,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 0
+            "appliedTotal": 0.6
           },
           {
             "seasonId": 2026,
@@ -27724,17 +27731,17 @@
           },
           {
             "seasonId": 2026,
-            "scoringPeriodId": 7,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 56.49216671
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 7,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
           }
         ]
       }
