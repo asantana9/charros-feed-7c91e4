@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-22T22:10:53.619Z",
-  "fingerprint": "25d20bae",
+  "generatedAt": "2026-10-22T22:18:48.921Z",
+  "fingerprint": "e8c98b98",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -316,7 +316,7 @@
             "name": "Puka Nacua",
             "position": "WR",
             "proTeamId": 14,
-            "injuryStatus": "ACTIVE",
+            "injuryStatus": "QUESTIONABLE",
             "injured": false,
             "droppable": false,
             "stats": [
@@ -24455,7 +24455,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 0.6
+            "appliedTotal": 0
           },
           {
             "seasonId": 2026,
