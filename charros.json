@@ -1,7 +1,7 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-23T01:36:56.990Z",
+  "generatedAt": "2026-10-23T01:37:24.076Z",
   "fingerprint": "b430f116",
   "leagueId": 1780066782,
   "seasonId": 2026,
@@ -27924,17 +27924,17 @@
           },
           {
             "seasonId": 2026,
-            "scoringPeriodId": 7,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
             "scoringPeriodId": 0,
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 56.49216671
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 7,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
           }
         ]
       }
