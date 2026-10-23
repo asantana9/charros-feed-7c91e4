@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-23T17:37:29.894Z",
-  "fingerprint": "8b6e2e99",
+  "generatedAt": "2026-10-23T17:50:24.683Z",
+  "fingerprint": "3e370673",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -545,7 +545,7 @@
             "name": "Quinshon Judkins",
             "position": "RB",
             "proTeamId": 5,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -7869,7 +7869,7 @@
             "name": "Denzel Boston",
             "position": "WR",
             "proTeamId": 5,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -13660,7 +13660,7 @@
         "name": "KC Concepcion",
         "position": "WR",
         "proTeamId": 5,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
         "stats": [
@@ -21786,7 +21786,7 @@
         "name": "Brashard Smith",
         "position": "RB",
         "proTeamId": 12,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "injured": false,
         "droppable": true,
         "stats": [
