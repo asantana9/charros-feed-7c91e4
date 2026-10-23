@@ -1,7 +1,7 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-23T02:30:59.268Z",
+  "generatedAt": "2026-10-23T02:32:52.562Z",
   "fingerprint": "e558ae0c",
   "leagueId": 1780066782,
   "seasonId": 2026,
@@ -4335,7 +4335,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 60.2
+                "appliedTotal": 62
               },
               {
                 "seasonId": 2026,
@@ -4349,7 +4349,7 @@
                 "scoringPeriodId": 7,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 0.9
+                "appliedTotal": 2.7
               },
               {
                 "seasonId": 2026,
@@ -4545,7 +4545,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 135.9
+                "appliedTotal": 136.22
               },
               {
                 "seasonId": 2026,
@@ -4559,7 +4559,7 @@
                 "scoringPeriodId": 7,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 24.88
+                "appliedTotal": 25.2
               },
               {
                 "seasonId": 2026,
@@ -9547,7 +9547,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 84.5
+                "appliedTotal": 84.6
               },
               {
                 "seasonId": 2026,
@@ -9561,7 +9561,7 @@
                 "scoringPeriodId": 7,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 20.1
+                "appliedTotal": 20.2
               },
               {
                 "seasonId": 2026,
@@ -10197,13 +10197,13 @@
         "teamId": 10,
         "totalPoints": 0,
         "totalPointsLive": 10,
-        "totalProjectedPointsLive": 141.1994403
+        "totalProjectedPointsLive": 140.92082845
       },
       "away": {
         "teamId": 9,
         "totalPoints": 0,
         "totalPointsLive": 13.8,
-        "totalProjectedPointsLive": 137.46195593
+        "totalProjectedPointsLive": 136.94581779
       }
     },
     {
@@ -10215,7 +10215,7 @@
         "teamId": 2,
         "totalPoints": 0,
         "totalPointsLive": 4,
-        "totalProjectedPointsLive": 126.72032564
+        "totalProjectedPointsLive": 126.71561193
       },
       "away": {
         "teamId": 7,
@@ -10233,13 +10233,13 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 0.9,
-        "totalProjectedPointsLive": 100.83809599
+        "totalProjectedPointsLive": 100.54938097
       },
       "away": {
         "teamId": 5,
         "totalPoints": 0,
-        "totalPointsLive": 24.88,
-        "totalProjectedPointsLive": 134.10381543
+        "totalPointsLive": 25.2,
+        "totalProjectedPointsLive": 133.77116053
       }
     },
     {
@@ -10251,7 +10251,7 @@
         "teamId": 3,
         "totalPoints": 0,
         "totalPointsLive": 23.88,
-        "totalProjectedPointsLive": 132.74969003
+        "totalProjectedPointsLive": 131.68634203
       },
       "away": {
         "teamId": 6,
@@ -10268,14 +10268,14 @@
       "home": {
         "teamId": 4,
         "totalPoints": 0,
-        "totalPointsLive": 0.9,
-        "totalProjectedPointsLive": 125.70989179
+        "totalPointsLive": 2.7,
+        "totalProjectedPointsLive": 127.17635907
       },
       "away": {
         "teamId": 8,
         "totalPoints": 0,
         "totalPointsLive": 23.7,
-        "totalProjectedPointsLive": 133.62007587
+        "totalProjectedPointsLive": 133.21857226
       }
     }
   ],
@@ -27924,17 +27924,17 @@
           },
           {
             "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 56.49216671
-          },
-          {
-            "seasonId": 2026,
             "scoringPeriodId": 7,
             "statSourceId": 1,
             "statSplitTypeId": 1,
             "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 56.49216671
           }
         ]
       }
