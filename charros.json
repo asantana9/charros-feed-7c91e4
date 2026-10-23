@@ -1,7 +1,7 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-23T02:47:35.704Z",
+  "generatedAt": "2026-10-23T02:48:28.693Z",
   "fingerprint": "e558ae0c",
   "leagueId": 1780066782,
   "seasonId": 2026,
@@ -2121,7 +2121,7 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 45
+                "appliedTotal": 44
               },
               {
                 "seasonId": 2026,
@@ -2135,7 +2135,7 @@
                 "scoringPeriodId": 7,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 2
+                "appliedTotal": 1
               },
               {
                 "seasonId": 2026,
@@ -3230,14 +3230,14 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 80.84
+                "appliedTotal": 81.2
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 7,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 19.36
+                "appliedTotal": 19.72
               },
               {
                 "seasonId": 2026,
@@ -5598,14 +5598,14 @@
                 "scoringPeriodId": 0,
                 "statSourceId": 0,
                 "statSplitTypeId": 0,
-                "appliedTotal": 60.5
+                "appliedTotal": 62.4
               },
               {
                 "seasonId": 2026,
                 "scoringPeriodId": 7,
                 "statSourceId": 0,
                 "statSplitTypeId": 1,
-                "appliedTotal": 18
+                "appliedTotal": 19.9
               },
               {
                 "seasonId": 2026,
@@ -10197,13 +10197,13 @@
         "teamId": 10,
         "totalPoints": 0,
         "totalPointsLive": 10,
-        "totalProjectedPointsLive": 140.00589173
+        "totalProjectedPointsLive": 139.95667323
       },
       "away": {
         "teamId": 9,
         "totalPoints": 0,
         "totalPointsLive": 18.1,
-        "totalProjectedPointsLive": 139.55086572
+        "totalProjectedPointsLive": 139.45968674
       }
     },
     {
@@ -10214,8 +10214,8 @@
       "home": {
         "teamId": 2,
         "totalPoints": 0,
-        "totalPointsLive": 2,
-        "totalProjectedPointsLive": 125.02253251
+        "totalPointsLive": 1,
+        "totalProjectedPointsLive": 124.1660998
       },
       "away": {
         "teamId": 7,
@@ -10233,13 +10233,13 @@
         "teamId": 1,
         "totalPoints": 0,
         "totalPointsLive": 1.3,
-        "totalProjectedPointsLive": 100.00126635
+        "totalProjectedPointsLive": 99.95026306
       },
       "away": {
         "teamId": 5,
         "totalPoints": 0,
         "totalPointsLive": 25.6,
-        "totalProjectedPointsLive": 132.02789948
+        "totalProjectedPointsLive": 131.91260398
       }
     },
     {
@@ -10250,8 +10250,8 @@
       "home": {
         "teamId": 3,
         "totalPoints": 0,
-        "totalPointsLive": 24.76,
-        "totalProjectedPointsLive": 129.0744011
+        "totalPointsLive": 25.12,
+        "totalProjectedPointsLive": 129.24655413
       },
       "away": {
         "teamId": 6,
@@ -10269,13 +10269,13 @@
         "teamId": 4,
         "totalPoints": 0,
         "totalPointsLive": 2.7,
-        "totalProjectedPointsLive": 126.08106707
+        "totalProjectedPointsLive": 126.02214647
       },
       "away": {
         "teamId": 8,
         "totalPoints": 0,
         "totalPointsLive": 23.7,
-        "totalProjectedPointsLive": 131.90006986
+        "totalProjectedPointsLive": 131.82914177
       }
     }
   ],
