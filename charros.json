@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-23T17:35:32.595Z",
-  "fingerprint": "cb574377",
+  "generatedAt": "2026-10-23T17:37:29.894Z",
+  "fingerprint": "8b6e2e99",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -4609,8 +4609,8 @@
             "name": "Jeremiyah Love",
             "position": "RB",
             "proTeamId": 22,
-            "injuryStatus": "QUESTIONABLE",
-            "injured": false,
+            "injuryStatus": "OUT",
+            "injured": true,
             "droppable": true,
             "stats": [
               {
