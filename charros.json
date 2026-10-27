@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-27T19:42:48.492Z",
-  "fingerprint": "b7b76162",
+  "generatedAt": "2026-10-27T19:47:48.326Z",
+  "fingerprint": "b37fc024",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -3135,8 +3135,8 @@
           }
         },
         {
-          "lineupSlotId": 21,
-          "lineupSlot": "IR",
+          "lineupSlotId": 20,
+          "lineupSlot": "BE",
           "status": "ONTEAM",
           "onTeamId": 3,
           "player": {
@@ -10603,6 +10603,23 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 8,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4360569",
+          "playerName": "Jordan Mason",
+          "type": "LINEUP",
+          "fromTeamId": 0,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 6,
       "scoringPeriodId": 8,
       "processDate": 0,
@@ -12550,30 +12567,6 @@
           "playerName": "Jalen Hurts",
           "type": "DROP",
           "fromTeamId": 7,
-          "toTeamId": 0
-        }
-      ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 1,
-      "scoringPeriodId": 7,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4362238",
-          "playerName": "Chase Brown",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "4360238",
-          "playerName": "Dameon Pierce",
-          "type": "LINEUP",
-          "fromTeamId": 0,
           "toTeamId": 0
         }
       ]
