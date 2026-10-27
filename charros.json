@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-27T19:40:33.333Z",
-  "fingerprint": "7447cf61",
+  "generatedAt": "2026-10-27T19:42:48.492Z",
+  "fingerprint": "b7b76162",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -2316,7 +2316,7 @@
       },
       "transactionCounter": {
         "acquisitions": 22,
-        "drops": 21,
+        "drops": 22,
         "trades": 1,
         "moveToActive": 32,
         "moveToIR": 3
@@ -2665,65 +2665,6 @@
                 "statSourceId": 1,
                 "statSplitTypeId": 1,
                 "appliedTotal": 0
-              }
-            ]
-          }
-        },
-        {
-          "lineupSlotId": 20,
-          "lineupSlot": "BE",
-          "status": "ONTEAM",
-          "onTeamId": 3,
-          "player": {
-            "id": "4241985",
-            "name": "J.K. Dobbins",
-            "position": "RB",
-            "proTeamId": 7,
-            "injuryStatus": "ACTIVE",
-            "injured": false,
-            "droppable": true,
-            "stats": [
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 7,
-                "statSourceId": 0,
-                "statSplitTypeId": 1,
-                "appliedTotal": 8.3
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 0,
-                "statSplitTypeId": 0,
-                "appliedTotal": 58
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 2,
-                "appliedTotal": 184.51243216
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 8,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 6.35189735
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 0,
-                "statSourceId": 1,
-                "statSplitTypeId": 0,
-                "appliedTotal": 73.5437674
-              },
-              {
-                "seasonId": 2026,
-                "scoringPeriodId": 7,
-                "statSourceId": 1,
-                "statSplitTypeId": 1,
-                "appliedTotal": 13.44654268
               }
             ]
           }
@@ -10710,6 +10651,23 @@
     {
       "status": "EXECUTED",
       "type": "ROSTER",
+      "teamId": 3,
+      "scoringPeriodId": 8,
+      "processDate": 0,
+      "bidAmount": 0,
+      "items": [
+        {
+          "playerId": "4241985",
+          "playerName": "J.K. Dobbins",
+          "type": "DROP",
+          "fromTeamId": 3,
+          "toTeamId": 0
+        }
+      ]
+    },
+    {
+      "status": "EXECUTED",
+      "type": "ROSTER",
       "teamId": 1,
       "scoringPeriodId": 8,
       "processDate": 0,
@@ -12619,30 +12577,6 @@
           "toTeamId": 0
         }
       ]
-    },
-    {
-      "status": "EXECUTED",
-      "type": "ROSTER",
-      "teamId": 4,
-      "scoringPeriodId": 7,
-      "processDate": 0,
-      "bidAmount": 0,
-      "items": [
-        {
-          "playerId": "4361411",
-          "playerName": "Pat Freiermuth",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        },
-        {
-          "playerId": "3040151",
-          "playerName": "George Kittle",
-          "type": "LINEUP",
-          "fromTeamId": 0,
-          "toTeamId": 0
-        }
-      ]
     }
   ],
   "availablePlayers": [
@@ -12687,6 +12621,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 151.6590163
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4241985",
+        "name": "J.K. Dobbins",
+        "position": "RB",
+        "proTeamId": 7,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 58
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 184.51243216
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 6.35189735
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 73.5437674
           }
         ]
       }
@@ -32847,30 +32826,6 @@
         "name": "Adam Thielen",
         "position": "WR",
         "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
-        "id": "15965",
-        "name": "Dustin Hopkins",
-        "position": "K",
-        "proTeamId": 0,
         "injuryStatus": "ACTIVE",
         "injured": false,
         "droppable": true,
