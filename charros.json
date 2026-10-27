@@ -1,8 +1,8 @@
 {
   "feedVersion": 3,
   "purpose": "Read-only sanitized Charros league state for fantasy-football analysis",
-  "generatedAt": "2026-10-27T19:04:32.654Z",
-  "fingerprint": "acd0a899",
+  "generatedAt": "2026-10-27T19:40:33.333Z",
+  "fingerprint": "7447cf61",
   "leagueId": 1780066782,
   "seasonId": 2026,
   "selfTeamId": 3,
@@ -6881,7 +6881,7 @@
             "name": "Jalen Coker",
             "position": "WR",
             "proTeamId": 29,
-            "injuryStatus": "QUESTIONABLE",
+            "injuryStatus": "ACTIVE",
             "injured": false,
             "droppable": true,
             "stats": [
@@ -13417,51 +13417,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4575131",
-        "name": "Jacory Croskey-Merritt",
-        "position": "RB",
-        "proTeamId": 28,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 44.9
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "3046439",
         "name": "Hunter Henry",
         "position": "TE",
@@ -13497,6 +13452,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 100.38924025
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4575131",
+        "name": "Jacory Croskey-Merritt",
+        "position": "RB",
+        "proTeamId": 28,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 44.9
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
           }
         ]
       }
@@ -14895,12 +14895,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4362249",
-        "name": "Jayden Reed",
-        "position": "WR",
-        "proTeamId": 9,
-        "injuryStatus": "INJURY_RESERVE",
-        "injured": true,
+        "id": "4574716",
+        "name": "Harrison Mevis",
+        "position": "K",
+        "proTeamId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
         "droppable": true,
         "stats": [
           {
@@ -14908,7 +14908,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 6.4
+            "appliedTotal": 28
           },
           {
             "seasonId": 2026,
@@ -14940,12 +14940,12 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4574716",
-        "name": "Harrison Mevis",
-        "position": "K",
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
+        "id": "4362249",
+        "name": "Jayden Reed",
+        "position": "WR",
+        "proTeamId": 9,
+        "injuryStatus": "INJURY_RESERVE",
+        "injured": true,
         "droppable": true,
         "stats": [
           {
@@ -14953,7 +14953,7 @@
             "scoringPeriodId": 0,
             "statSourceId": 0,
             "statSplitTypeId": 0,
-            "appliedTotal": 28
+            "appliedTotal": 6.4
           },
           {
             "seasonId": 2026,
@@ -15338,44 +15338,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3895856",
-        "name": "Christian Kirk",
-        "position": "WR",
-        "proTeamId": 25,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 10.91189841
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "-16004",
         "name": "Bengals D/ST",
         "position": "D/ST",
@@ -15411,6 +15373,44 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 57.33963726
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3895856",
+        "name": "Christian Kirk",
+        "position": "WR",
+        "proTeamId": 25,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 10.91189841
           }
         ]
       }
@@ -15722,51 +15722,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4360516",
-        "name": "Tyrone Tracy Jr.",
-        "position": "RB",
-        "proTeamId": 19,
-        "injuryStatus": "OUT",
-        "injured": true,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 31.9
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 6.93251995
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 49.14223952
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "3917792",
         "name": "Daniel Jones",
         "position": "QB",
@@ -15802,6 +15757,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 122.88283421
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4360516",
+        "name": "Tyrone Tracy Jr.",
+        "position": "RB",
+        "proTeamId": 19,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 31.9
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 6.93251995
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 49.14223952
           }
         ]
       }
@@ -16885,51 +16885,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4242557",
-        "name": "Colby Parkinson",
-        "position": "TE",
-        "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 30.3
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 110.55934751
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 8.57223687
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 85.66999145
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "3050478",
         "name": "Jake Elliott",
         "position": "K",
@@ -16965,6 +16920,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 54.62433724
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4242557",
+        "name": "Colby Parkinson",
+        "position": "TE",
+        "proTeamId": 14,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 30.3
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 110.55934751
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 8.57223687
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 85.66999145
           }
         ]
       }
@@ -17238,44 +17238,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4685201",
-        "name": "Tanner McKee",
-        "position": "QB",
-        "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 23.14
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 12.37645266
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 118.86052235
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "10621",
         "name": "Nick Folk",
         "position": "K",
@@ -17311,6 +17273,44 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 86.04876984
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4685201",
+        "name": "Tanner McKee",
+        "position": "QB",
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 23.14
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 12.37645266
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 118.86052235
           }
         ]
       }
@@ -18463,44 +18463,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4695404",
-        "name": "Isaiah Davis",
-        "position": "RB",
-        "proTeamId": 20,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 14.7
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 0
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 0
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "-16028",
         "name": "Commanders D/ST",
         "position": "D/ST",
@@ -18536,6 +18498,44 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 50.91765368
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4695404",
+        "name": "Isaiah Davis",
+        "position": "RB",
+        "proTeamId": 20,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 14.7
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 0
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 0
           }
         ]
       }
@@ -21729,44 +21729,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "16339",
-        "name": "Brandon McManus",
-        "position": "K",
-        "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 5
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 7.38812617
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 71.71660109
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4360698",
         "name": "Joe Milton",
         "position": "QB",
@@ -21840,6 +21802,44 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 0
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "16339",
+        "name": "Brandon McManus",
+        "position": "K",
+        "proTeamId": 14,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 5
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 7.38812617
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 71.71660109
           }
         ]
       }
@@ -22362,44 +22362,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "4362523",
-        "name": "Will Mallory",
-        "position": "TE",
-        "proTeamId": 11,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 4
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 1.43850295
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 14.20681943
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4685350",
         "name": "Trevor Etienne",
         "position": "RB",
@@ -22473,6 +22435,44 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 10.64535723
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "4362523",
+        "name": "Will Mallory",
+        "position": "TE",
+        "proTeamId": 11,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 4
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 1.43850295
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 14.20681943
           }
         ]
       }
@@ -25218,51 +25218,6 @@
       "percentOwned": 0,
       "percentStarted": 0,
       "player": {
-        "id": "3043275",
-        "name": "Austin Hooper",
-        "position": "TE",
-        "proTeamId": 1,
-        "injuryStatus": "ACTIVE",
-        "injured": false,
-        "droppable": true,
-        "stats": [
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 0,
-            "statSplitTypeId": 0,
-            "appliedTotal": 20.7
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 2,
-            "appliedTotal": 8.22152704
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 8,
-            "statSourceId": 1,
-            "statSplitTypeId": 1,
-            "appliedTotal": 2.10588057
-          },
-          {
-            "seasonId": 2026,
-            "scoringPeriodId": 0,
-            "statSourceId": 1,
-            "statSplitTypeId": 0,
-            "appliedTotal": 21.50952028
-          }
-        ]
-      }
-    },
-    {
-      "status": "WAIVERS",
-      "onTeamId": 0,
-      "percentOwned": 0,
-      "percentStarted": 0,
-      "player": {
         "id": "4259305",
         "name": "Bo Melton",
         "position": "WR",
@@ -25516,6 +25471,51 @@
             "statSourceId": 1,
             "statSplitTypeId": 0,
             "appliedTotal": 57.66799624
+          }
+        ]
+      }
+    },
+    {
+      "status": "WAIVERS",
+      "onTeamId": 0,
+      "percentOwned": 0,
+      "percentStarted": 0,
+      "player": {
+        "id": "3043275",
+        "name": "Austin Hooper",
+        "position": "TE",
+        "proTeamId": 1,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "droppable": true,
+        "stats": [
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 0,
+            "statSplitTypeId": 0,
+            "appliedTotal": 20.7
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 2,
+            "appliedTotal": 8.22152704
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 8,
+            "statSourceId": 1,
+            "statSplitTypeId": 1,
+            "appliedTotal": 2.10588057
+          },
+          {
+            "seasonId": 2026,
+            "scoringPeriodId": 0,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "appliedTotal": 21.50952028
           }
         ]
       }
